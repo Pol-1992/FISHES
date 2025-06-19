@@ -1,0 +1,62 @@
+date,scientific_name,common_name,latitude,longitude
+2021-12-16,Cheloniidae,Typical Sea Turtles,4.381743867,100.7612593067
+2021-12-06,Caretta caretta,Loggerhead Sea Turtle,-0.5194417075,130.7214357535
+2021-12-01,Chelonia mydas,Green Sea Turtle,-0.5261227717,129.8078210724
+2021-11-30,Chelonia mydas,Green Sea Turtle,-8.4688029563,113.9359873989
+2021-11-29,Chelonia mydas,Green Sea Turtle,-0.4556381873,129.9168723163
+2021-11-29,Cheloniidae,Typical Sea Turtles,-0.5855681015,129.9244980035
+2021-11-29,Lepidochelys olivacea,Olive Ridley Sea Turtle,-8.0058361148,110.3255367482
+2021-11-28,Lepidochelys olivacea,Olive Ridley Sea Turtle,-8.0408438304,110.3977349593
+2021-11-28,Eretmochelys imbricata,Hawksbill Sea Turtle,-8.1015291121,110.2019314016
+2021-11-28,Chelonia mydas,Green Sea Turtle,-0.5385367482,129.8062512424
+2021-11-23,Chelonia mydas,Green Sea Turtle,2.3405400871,102.2818597424
+2021-11-23,Cheloniidae,Typical Sea Turtles,-5.9940365957,110.4862601799
+2021-11-21,Chelonia mydas,Green Sea Turtle,-8.4880426044,115.0732668508
+2021-11-21,Eretmochelys imbricata,Hawksbill Sea Turtle,1.3255177229,103.7098307656
+2021-11-18,Eretmochelys imbricata,Hawksbill Sea Turtle,-5.8170202763,110.4919876667
+2021-11-01,Eretmochelys imbricata,Hawksbill Sea Turtle,-3.7229525969,102.3044996994
+2021-10-24,Eretmochelys imbricata,Hawksbill Sea Turtle,-8.320559693,115.6557579366
+2021-10-02,Eretmochelys imbricata,Hawksbill Sea Turtle,-8.3473496037,115.6151022906
+2021-10-02,Eretmochelys imbricata,Hawksbill Sea Turtle,-8.2259803015,115.7213706827
+2021-10-02,Eretmochelys imbricata,Hawksbill Sea Turtle,-8.3859640469,115.735732276
+2021-09-17,Lepidochelys olivacea,Olive Ridley Sea Turtle,-8.1934112333,110.3730126388
+2021-09-13,Cheloniidae,Typical Sea Turtles,-7.7766631263,110.3935556945
+2021-09-10,Chelonia mydas,Green Sea Turtle,-1.0401714013,100.2309294198
+2021-09-09,Eretmochelys imbricata,Hawksbill Sea Turtle,-8.4705403803,116.6383565729
+2021-09-09,Chelonia mydas,Green Sea Turtle,-1.1593973198,100.3647788944
+2021-08-29,Chelonia mydas,Green Sea Turtle,-7.329159636,106.4289402841
+2021-08-29,Chelonia mydas,Green Sea Turtle,-7.3852881197,106.4698343909
+2021-08-27,Lepidochelys olivacea,Olive Ridley Sea Turtle,-8.5452582997,115.4449806809
+2021-08-26,Chelonia mydas,Green Sea Turtle,-8.645831296,115.2913998628
+2021-08-26,Lepidochelys olivacea,Olive Ridley Sea Turtle,-8.6145590832,115.3650682616
+2021-08-26,Lepidochelys olivacea,Olive Ridley Sea Turtle,-8.7359224135,115.394095184
+2021-07-27,Chelonia mydas,Green Sea Turtle,-8.3645077439,116.0632043786
+2021-07-19,Chelonia mydas,Green Sea Turtle,1.2589587961,103.9547973618
+2021-07-17,Eretmochelys imbricata,Hawksbill Sea Turtle,-8.2803388473,115.7709936261
+2021-07-09,Chelonia mydas,Green Sea Turtle,5.8045825148,102.6722219311
+2021-06-23,Eretmochelys imbricata,Hawksbill Sea Turtle,-8.4455422506,115.5430907455
+2021-06-23,Eretmochelys imbricata,Hawksbill Sea Turtle,-8.2258793031,115.4150920951
+2021-06-19,Eretmochelys imbricata,Hawksbill Sea Turtle,1.240339493,103.777912254
+2021-06-13,Chelonia mydas,Green Sea Turtle,5.856548649,116.171310589
+2021-06-11,Chelonia mydas,Green Sea Turtle,2.4485634461,103.8819555384
+2021-06-11,Lepidochelys olivacea,Olive Ridley Sea Turtle,-8.1649946991,110.3136924866
+2021-06-01,Eretmochelys imbricata,Hawksbill Sea Turtle,3.1231063814,106.4725738632
+2021-05-24,Eretmochelys imbricata,Hawksbill Sea Turtle,-5.1135222941,104.0391652213
+2021-05-07,Chelonia mydas,Green Sea Turtle,5.6419435921,102.9559222264
+2021-04-26,Lepidochelys olivacea,Olive Ridley Sea Turtle,5.4323697647,95.3582524405
+2021-04-25,Eretmochelys imbricata,Hawksbill Sea Turtle,-8.397067057,115.4842016909
+2021-04-22,Eretmochelys imbricata,Hawksbill Sea Turtle,-10.5467355365,105.6496145629
+2021-04-18,Eretmochelys imbricata,Hawksbill Sea Turtle,-8.1030503957,115.1838699279
+2021-04-03,Eretmochelys imbricata,Hawksbill Sea Turtle,-8.3532745412,115.4573595963
+2021-03-28,Eretmochelys imbricata,Hawksbill Sea Turtle,1.2508872195,103.7747908257
+2021-03-21,Eretmochelys imbricata,Hawksbill Sea Turtle,5.6756218807,103.0416840368
+2021-03-17,Eretmochelys imbricata,Hawksbill Sea Turtle,-8.2580661316,115.4470414676
+2021-03-16,Eretmochelys imbricata,Hawksbill Sea Turtle,-8.3055341249,115.5599042154
+2021-02-24,Eretmochelys imbricata,Hawksbill Sea Turtle,-5.9086472596,105.5992283303
+2021-02-22,Eretmochelys imbricata,Hawksbill Sea Turtle,-2.211327809,130.4095531961
+2021-01-17,Chelonia mydas,Green Sea Turtle,-8.5407166466,114.0450732287
+2021-01-17,Chelonia mydas,Green Sea Turtle,-8.4744211557,114.0309536134
+2021-01-17,Chelonia mydas,Green Sea Turtle,-8.4073756109,114.0909762689
+2021-01-17,Chelonia mydas,Green Sea Turtle,-8.7981849358,114.1011823065
+2021-01-03,Eretmochelys imbricata,Hawksbill Sea Turtle,2.3704550623,102.2391981794
+2021-01-01,Lepidochelys olivacea,Olive Ridley Sea Turtle,-0.6804066677,100.2569976447

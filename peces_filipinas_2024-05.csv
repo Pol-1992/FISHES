@@ -1,0 +1,853 @@
+date,scientific_name,common_name,latitude,longitude
+2024-05-30,Gymnosarda unicolor,Dogtooth Tuna,13.6835951463,120.8933917798
+2024-05-28,Dendrochirus zebra,Zebra Lionfish,9.328771009,123.3114621788
+2024-05-28,Pteroinae,Lionfishes,12.4174656216,122.2348860673
+2024-05-28,Anabas testudineus,Climbing Perch,13.4187539322,123.414318189
+2024-05-27,Gymnothorax thyrsoideus,White-eyed Moray,12.7680397098,123.4638880938
+2024-05-27,Gymnothorax fimbriatus,Fimbriated Moray,10.433963385,121.9942105561
+2024-05-27,Antennarius commerson,Giant Frogfish,12.6619728025,123.669061996
+2024-05-27,Rhinomuraena quaesita,Ribbon Eel,12.535964,122.246246
+2024-05-27,Halichoeres argus,Argus Wrasse,13.2372046764,123.7980286404
+2024-05-27,Abudefduf lorenzi,Black-tail Sergeant,13.2371456038,123.796894066
+2024-05-27,Lutjanus fulviflamma,Blackspot Snapper,13.2372350286,123.7976132333
+2024-05-27,Abudefduf bengalensis,Bengal Sergeant,13.2371322227,123.7975498661
+2024-05-27,Corythoichthys intestinalis,Messmate Pipefish,12.577855,122.269129
+2024-05-26,Scorpaenopsis,Scorpionfishes,13.6913983871,120.8765695159
+2024-05-26,Hippocampus bargibanti,Pygmy Seahorse,13.7283993735,120.9100350246
+2024-05-26,Lutjanus fulviflamma,Blackspot Snapper,13.2372650545,123.7976507843
+2024-05-26,Abudefduf sordidus,Blackspot Sergeant,13.2373087878,123.7978271395
+2024-05-26,Abudefduf lorenzi,Black-tail Sergeant,13.2372324177,123.7976531312
+2024-05-26,Cheilinus trilobatus,Tripletail Maori Wrasse,13.237323148,123.7978056818
+2024-05-26,Halichoeres,,13.2322875668,123.7798717618
+2024-05-26,Pomacentrus,,13.2322598249,123.779899925
+2024-05-26,Scarus rubroviolaceus,Redlip Parrotfish,8.8622454027,119.9518766596
+2024-05-25,Epinephelus fasciatus,Blacktip Grouper,11.1953602,119.4189097
+2024-05-25,Arothron nigropunctatus,Blackspotted Puffer,11.1953602,119.4189097
+2024-05-25,Pterois volitans,Common Lionfish,11.1953602,119.4189097
+2024-05-25,Bodianus loxozonus,Blackfin Hogfish,11.1953602,119.4189097
+2024-05-25,Bodianus mesothorax,Blackbelt Hogfish,11.1953602,119.4189097
+2024-05-25,Coradion chrysozonus,Orangebanded Coralfish,11.1953602,119.4189097
+2024-05-24,Antennarius pictus,Painted Frogfish,13.6913983871,120.8765695159
+2024-05-24,Lubricogobius exiguus,Yellow Pygmy Goby,13.6913983871,120.8765695159
+2024-05-24,Parapterois heterura,Gurnard Lionfish,13.6913983871,120.8765695159
+2024-05-23,Bulbonaricus brauni,Braun's Pughead Pipefish,13.6878291155,120.8511118413
+2024-05-23,Rhinomuraena quaesita,Ribbon Eel,13.6913983871,120.8765695159
+2024-05-23,Ophichthus bonaparti,Napoleon Snake Eel,9.1840361167,123.26134445
+2024-05-23,Ostracion cubicum,Yellow Boxfish,9.1876333333,123.25978055
+2024-05-23,Trimma cana,Candycane Dwarfgoby,12.5281587775,122.2231194302
+2024-05-23,Pterois volitans,Common Lionfish,12.473303761,122.2061389334
+2024-05-23,Lutjanus rufolineatus,Yellowlined Snapper,12.5760141078,122.2334070069
+2024-05-23,Ostorhinchus cyanosoma,Yellowstriped Cardinalfish,12.4961725589,122.3821056914
+2024-05-23,Scorpaenidae,Scorpionfishes,12.5851766659,122.2756429068
+2024-05-23,Ophichthus bonaparti,Napoleon Snake Eel,13.511828,120.932693
+2024-05-23,Acreichthys radiatus,Radial Leatherjacket,13.6913983871,120.8765695159
+2024-05-23,Antennarius pictus,Painted Frogfish,13.6913983871,120.8765695159
+2024-05-22,Pseudochromis perspicillatus,Blackstripe Dottyback,13.6913983871,120.8765695159
+2024-05-22,Antennarius pictus,Painted Frogfish,13.6913983871,120.8765695159
+2024-05-22,Trachyrhamphus bicoarctatus,Bentstick Pipefish,13.6913983871,120.8765695159
+2024-05-22,Brachysomophis henshawi,Reptilian Snake Eel,9.18168055,123.259225
+2024-05-22,Iniistius pavo,Peacock Razorfish,9.18168055,123.259225
+2024-05-22,Ablabys taenianotus,Cockatoo Waspfish,9.190745,123.2631283333
+2024-05-22,Echidna nebulosa,Snowflake Moray,9.188695,123.2640783333
+2024-05-22,Antennarius pictus,Painted Frogfish,9.188695,123.2640783333
+2024-05-22,Neochirus brachyptera,Dwarf Lionfish,9.190745,123.2631283333
+2024-05-22,Antennarius pictus,Painted Frogfish,9.188695,123.2640783333
+2024-05-22,Diagramma pictum,Painted Sweetlips,9.190745,123.2631283333
+2024-05-22,Hippocampus kuda,Common Seahorse,9.1388902378,123.2917158272
+2024-05-22,Solenostomus cyanopterus,Robust Ghostpipefish,9.190745,123.2631283333
+2024-05-22,Iniistius pavo,Peacock Razorfish,9.190745,123.2631283333
+2024-05-22,Iniistius,,9.190745,123.2631283333
+2024-05-22,Novaculoides macrolepidotus,Seagrass Wrasse,9.190745,123.2631283333
+2024-05-22,Novaculoides macrolepidotus,Seagrass Wrasse,9.190745,123.2631283333
+2024-05-22,Hippocampus kuda,Common Seahorse,9.0684125166,123.2796964715
+2024-05-22,Synodus variegatus,Variegated Lizardfish,9.190745,123.2631283333
+2024-05-22,Diodon holocanthus,Longspined Porcupinefish,9.190745,123.2631283333
+2024-05-22,Pomacentrus coelestis,Neon Damselfish,9.190745,123.2631283333
+2024-05-22,Dactylopus dactylopus,Finger Dragonet,9.190745,123.2631283333
+2024-05-22,Neochirus brachyptera,Dwarf Lionfish,9.190745,123.2631283333
+2024-05-22,Trachyrhamphus bicoarctatus,Bentstick Pipefish,9.190745,123.2631283333
+2024-05-22,Myrichthys,,9.1891886082,123.2727653554
+2024-05-22,Brachysomophis,,9.190745,123.2631283333
+2024-05-22,Ophichthus bonaparti,Napoleon Snake Eel,9.190745,123.2631283333
+2024-05-22,Arothron immaculatus,Yellow-eyed Puffer,9.190745,123.2631283333
+2024-05-22,Arothron manilensis,Narrowlined Puffer,9.190745,123.2631283333
+2024-05-22,Gorgasia,,9.190745,123.2631283333
+2024-05-22,Parapercis schauinslandii,Redspotted Sandperch,9.190745,123.2631283333
+2024-05-22,Oxycheilinus bimaculatus,Twospot Wrasse,9.190745,123.2631283333
+2024-05-22,Scorpaeninae,Typical Scorpionfishes,9.190745,123.2631283333
+2024-05-22,Oxycheilinus bimaculatus,Twospot Wrasse,13.510744,120.935525
+2024-05-21,Heniochus varius,Humphead Bannerfish,12.65953,120.41453
+2024-05-21,Arothron nigropunctatus,Blackspotted Puffer,12.65953,120.41453
+2024-05-21,Neoglyphidodon thoracotaeniatus,Barhead Damsel,9.1842381275,123.2625672095
+2024-05-21,Amblyglyphidodon aureus,Golden Damselfish,12.65953,120.41453
+2024-05-21,Scorpaenopsis,Scorpionfishes,12.65953,120.41453
+2024-05-21,Trichonotus,,9.07915,123.2709333333
+2024-05-21,Platax boersii,Golden Spadefish,12.671155,120.4781333333
+2024-05-21,Zanclus cornutus,Moorish Idol,12.671155,120.4781366667
+2024-05-21,Myripristis kuntee,Pearly Soldierfish,12.671155,120.4781366667
+2024-05-21,Labroides dimidiatus,Bluestreak Cleaner Wrasse,12.671155,120.4781366667
+2024-05-21,Macolor macularis,Midnight Snapper,12.671155,120.4781366667
+2024-05-21,Melichthys vidua,Pinktail Triggerfish,12.671155,120.4781366667
+2024-05-21,Chlorurus spilurus,Pacific Bullethead Parrotfish,12.671155,120.4781366667
+2024-05-21,Hemigymnus fasciatus,Barred Thicklip,12.671155,120.4781366667
+2024-05-21,Caranx ignobilis,Giant Trevally,12.671155,120.4781366667
+2024-05-21,Pygoplites diacanthus,Regal Angelfish,12.671155,120.4781366667
+2024-05-21,Macolor macularis,Midnight Snapper,9.1872300244,123.2677148092
+2024-05-21,Aulostomus chinensis,Pacific Trumpetfish,12.671155,120.4781366667
+2024-05-21,Amblyglyphidodon leucogaster,Whitebelly Damsel,12.671155,120.4781366667
+2024-05-21,Stethojulis trilineata,Three-ribbon Wrasse,12.671155,120.4781366667
+2024-05-21,Antennarius commerson,Giant Frogfish,12.671155,120.4781366667
+2024-05-21,Antennarius commerson,Giant Frogfish,12.671155,120.4781366667
+2024-05-21,Aulostomus chinensis,Pacific Trumpetfish,12.671155,120.4781366667
+2024-05-21,Amblyglyphidodon curacao,Staghorn Damsel,12.671155,120.4781366667
+2024-05-20,Aeoliscus strigatus,Jointed Razorfish,9.190745,123.2631283333
+2024-05-20,Fistularia commersonii,Blue-spotted Cornetfish,9.190745,123.2631283333
+2024-05-20,Mullidae,Goatfishes,9.190745,123.2631283333
+2024-05-20,Antennarius pictus,Painted Frogfish,9.190745,123.2631283333
+2024-05-20,Neopomacentrus violascens,Violet Demoiselle,9.190745,123.2631283333
+2024-05-20,Sardinella longiceps,Indian Sardinella,9.9473720241,123.3651596795
+2024-05-20,Scorpaenopsis oxycephala,Smallscale Scorpionfish,9.190745,123.2631283333
+2024-05-20,Epinephelus ongus,Specklefin Grouper,9.190745,123.2631283333
+2024-05-20,Inimicus,Stingfishes,9.1848546109,123.2639938196
+2024-05-20,Pteropterus antennatus,Spotfin Lionfish,9.190745,123.2631283333
+2024-05-20,Scorpaenopsis,Scorpionfishes,9.1848102778,123.2639306041
+2024-05-20,Eurypegasus draconis,Dragon Seamoth,9.1306462656,123.2521200578
+2024-05-20,Pteropterus antennatus,Spotfin Lionfish,9.190745,123.2631283333
+2024-05-20,Cheilodipterus,,9.190745,123.2631283333
+2024-05-20,Taenianotus,,9.190745,123.2631283333
+2024-05-20,Antennarius maculatus,Warty Anglerfish,9.1861386427,123.2651347382
+2024-05-20,Antennarius striatus,Striate Anglerfish,9.190745,123.2631283333
+2024-05-20,Neochirus brachyptera,Dwarf Lionfish,9.1862405143,123.2656202298
+2024-05-20,Cymolutes torquatus,Razor Wrasse,9.190745,123.2631283333
+2024-05-20,Antennarius maculatus,Warty Anglerfish,9.190745,123.2631283333
+2024-05-20,Pholidichthys leucotaenia,Convict Blenny,9.190745,123.2631283333
+2024-05-20,Cephalopholis miniata,Coral Grouper,9.190745,123.2631283333
+2024-05-20,Halichoeres chrysus,Canary Wrasse,9.190745,123.2631283333
+2024-05-20,Plectorhinchus chaetodonoides,Harlequin Sweetlips,9.190745,123.2631283333
+2024-05-20,Pomacentrus amboinensis,Ambon Damsel,9.190745,123.2631283333
+2024-05-20,Ostorhinchus aureus,Ringtail Cardinalfish,9.190745,123.2631283333
+2024-05-20,Siganus guttatus,Golden Rabbitfish,9.1855018705,123.2656967052
+2024-05-20,Lutjanus argentimaculatus,Mangrove Red Snapper,9.190745,123.2631283333
+2024-05-20,Platax teira,Longfin Batfish,9.190745,123.2631283333
+2024-05-20,Zanclus cornutus,Moorish Idol,9.190745,123.2631283333
+2024-05-20,Abudefduf vaigiensis,Indo-Pacific Sergeant Major,9.190745,123.2631283333
+2024-05-20,Scorpaenopsis,Scorpionfishes,9.190745,123.2631283333
+2024-05-20,Scorpaenopsis,Scorpionfishes,9.190745,123.2631283333
+2024-05-20,Bodianus dictynna,Redfin Hogfish,9.1847376658,123.2652475169
+2024-05-20,Cheilinus fasciatus,Redbreast Maori Wrasse,9.190745,123.2631283333
+2024-05-20,Dascyllus trimaculatus,Three-spot Dascyllus,9.190745,123.2631283333
+2024-05-20,Siganus guttatus,Golden Rabbitfish,9.190745,123.2631283333
+2024-05-20,Pterocaesio tessellata,One-stripe fusilier,9.190745,123.2631283333
+2024-05-20,Lutjanus lutjanus,Bigeye Snapper,9.190745,123.2631283333
+2024-05-20,Thalassoma lunare,Moon Wrasse,9.190745,123.2631283333
+2024-05-20,Sphyraena obtusata,Striped Barracuda,9.190745,123.2631283333
+2024-05-20,Centropyge tibicen,Keyhole Angelfish,9.190745,123.2631283333
+2024-05-20,Acanthurus,,9.190745,123.2631283333
+2024-05-20,Scolopsis bilineata,Bridled Monocle Bream,9.190745,123.2631283333
+2024-05-20,Pomacanthus imperator,Emperor Angelfish,9.190745,123.2631283333
+2024-05-20,Platax,Spadefishes,9.190745,123.2631283333
+2024-05-20,Cephalopholis argus,Peacock Grouper,9.190745,123.2631283333
+2024-05-20,Gymnothorax thyrsoideus,White-eyed Moray,9.190745,123.2631283333
+2024-05-20,Amphiprion annamensis,Northern Saddleback Anemonefish,9.190745,123.2631283333
+2024-05-20,Antennarius maculatus,Warty Anglerfish,9.190745,123.2631283333
+2024-05-20,Dactylopus kuiteri,Orange and Black Dragonet,9.190745,123.2631283333
+2024-05-20,Hippocampus histrix,Spiny Seahorse,9.1772032039,123.39652424
+2024-05-20,Hippocampus histrix,Spiny Seahorse,9.1935497172,123.3068082382
+2024-05-20,Dactylopus,,9.190745,123.2631283333
+2024-05-20,Ostracion rhinorhynchos,Horn-nose Boxfish,9.190745,123.2631283333
+2024-05-20,Diagramma pictum,Painted Sweetlips,9.190745,123.2631283333
+2024-05-20,Antennarius pictus,Painted Frogfish,9.190745,123.2631283333
+2024-05-20,Stethojulis interrupta,Cutribbon Wrasse,9.190745,123.2631283333
+2024-05-20,Chlorurus bowersi,Bowers' Parrotfish,9.060143723,123.2344158727
+2024-05-20,Pycnochromis retrofasciatus,Blackbar Chromis,9.190745,123.2631283333
+2024-05-20,Scorpaenopsis oxycephala,Smallscale Scorpionfish,9.190745,123.2631283333
+2024-05-20,Labroides dimidiatus,Bluestreak Cleaner Wrasse,9.190745,123.2631283333
+2024-05-20,Acanthurus pyroferus,Mimic Surgeonfish,9.190745,123.2631283333
+2024-05-20,Amphiprion perideraion,Pink Skunk Anemonefish,9.190745,123.2631283333
+2024-05-20,Arothron stellatus,Starry Puffer,9.190745,123.2631283333
+2024-05-20,Amblyeleotris guttata,Spotted Shrimpgoby,9.190745,123.2631283333
+2024-05-20,Dascyllus reticulatus,Reticulated Damselfish,9.190745,123.2631283333
+2024-05-20,Ctenochaetus striatus,Lined Bristletooth,9.190745,123.2631283333
+2024-05-20,Canthigaster papua,Papuan Toby,9.190745,123.2631283333
+2024-05-20,Chaetodon adiergastos,Panda Butterflyfish,9.190745,123.2631283333
+2024-05-20,Hemigymnus melapterus,Blackeye Thicklip,9.190745,123.2631283333
+2024-05-20,Amblyglyphidodon aureus,Golden Damselfish,9.190745,123.2631283333
+2024-05-20,Amphiprion frenatus,Tomato Clownfish,9.190745,123.2631283333
+2024-05-20,Dascyllus trimaculatus,Three-spot Dascyllus,9.190745,123.2631283333
+2024-05-20,Opistognathus randalli,Yellowbarred Jawfish,9.198155,123.2749716667
+2024-05-20,Halichoeres prosopeion,Twotone Wrasse,9.190745,123.2631283333
+2024-05-20,Canthigaster valentini,Blacksaddle Toby,9.190745,123.2631283333
+2024-05-20,Arothron nigropunctatus,Blackspotted Puffer,9.190745,123.2631283333
+2024-05-20,Amphiprion clarkii,Clark's Anemonefish,9.190745,123.2631283333
+2024-05-20,Gobioidei,Gobies and allies,9.190745,123.2631283333
+2024-05-20,Solenostomus paradoxus,Ornate Ghostpipefish,9.190745,123.2631283333
+2024-05-20,Ostorhinchus,,9.190745,123.2631283333
+2024-05-20,Dascyllus trimaculatus,Three-spot Dascyllus,9.190745,123.2631283333
+2024-05-20,Antennarius commerson,Giant Frogfish,9.9489471141,123.3651244615
+2024-05-19,Gymnothorax javanicus,Giant Moray,8.85,119.9333333
+2024-05-19,Nuchequula,,10.6051329958,122.8980139467
+2024-05-19,Syngnathinae,Tail-brooding Pipefishes,10.6305060633,122.9234607067
+2024-05-19,Amphiprion clarkii,Clark's Anemonefish,9.17920555,123.3055638833
+2024-05-19,Pteragogus flagellifer,Cocktail Wrasse,13.1949786,123.7362308
+2024-05-19,Halichoeres argus,Argus Wrasse,13.23721172,123.79787913
+2024-05-19,Ostracion cubicum,Yellow Boxfish,9.1980847021,123.2757447959
+2024-05-19,Acentronura,,9.1980847021,123.2757447959
+2024-05-19,Hippocampus kuda,Common Seahorse,9.1076661152,123.3176296441
+2024-05-19,Tetraroginae,Waspfishes,9.1980847021,123.2757447959
+2024-05-19,Antennarius maculatus,Warty Anglerfish,9.1980847021,123.2757447959
+2024-05-19,Scorpaenopsis diabolus,Devil Scorpionfish,9.1980847021,123.2757447959
+2024-05-19,Hippocampus,Seahorses,9.1980847021,123.2757447959
+2024-05-19,Inimicus,Stingfishes,9.1980847021,123.2757447959
+2024-05-19,Hippocampus histrix,Spiny Seahorse,9.0062346727,123.3942416944
+2024-05-19,Trachyrhamphus bicoarctatus,Bentstick Pipefish,9.1980847021,123.2757447959
+2024-05-19,Gymnothorax flavimarginatus,Yellowmargin Moray,9.1980847021,123.2757447959
+2024-05-19,Synchiropus splendidus,Mandarinfish,9.1980847021,123.2757447959
+2024-05-19,Neochirus brachyptera,Dwarf Lionfish,9.1980847021,123.2757447959
+2024-05-19,Ablabys,,9.1980847021,123.2757447959
+2024-05-19,Neochirus brachyptera,Dwarf Lionfish,9.1980847021,123.2757447959
+2024-05-19,Antennariidae,Frogfishes,9.1980847021,123.2757447959
+2024-05-19,Neochirus brachyptera,Dwarf Lionfish,9.1980847021,123.2757447959
+2024-05-18,Gobioidei,Gobies and allies,7.1239361667,125.6779033333
+2024-05-18,Oxycheilinus bimaculatus,Twospot Wrasse,9.1973159794,123.2756804213
+2024-05-18,Paracentropogon longispinis,Whiteface Waspfish,9.1976866594,123.2757447967
+2024-05-18,Antennarius striatus,Striate Anglerfish,9.1976866594,123.2757447967
+2024-05-18,Ablabys taenianotus,Cockatoo Waspfish,9.1973159794,123.2756804213
+2024-05-18,Pleuronectoidei,Flatfishes,9.1976866594,123.2757447967
+2024-05-18,Acanthurus xanthopterus,Yellowfin Surgeonfish,9.1976866594,123.2757447967
+2024-05-18,Pomacentrus nagasakiensis,Blue-scribbled Damsel,9.1973159794,123.2756804213
+2024-05-18,Diagramma pictum,Painted Sweetlips,9.1976866594,123.2757447967
+2024-05-18,Pomacentrus brachialis,Charcoal Damsel,9.1973159794,123.2756804213
+2024-05-18,Gnatholepis,,9.1973159794,123.2756804213
+2024-05-18,Pterois volitans,Common Lionfish,9.1976866594,123.2757447967
+2024-05-18,Chindongo demasoni,Demason's Cichlid,13.9737822624,120.6538490713
+2024-05-18,Pristiapogon,,9.1973159794,123.2756804213
+2024-05-18,Pseudochromis bitaeniatus,Doublestriped Dottyback,9.1973159794,123.2756804213
+2024-05-18,Apogonoidei,Cardinalfishes and nurseryfishes,9.1973159794,123.2756804213
+2024-05-18,Scorpaenopsis macrochir,Humpback Scorpionfish,9.1973159794,123.2756804213
+2024-05-18,Salarias fasciatus,Jewelled Blenny,8.362447857,117.2267185251
+2024-05-18,Fistularia commersonii,Blue-spotted Cornetfish,9.1973159794,123.2756804213
+2024-05-18,Chromis viridis,Blue-green Chromis,9.1973159794,123.2756804213
+2024-05-18,Chromis viridis,Blue-green Chromis,9.1973159794,123.2756804213
+2024-05-18,Cheilodipterus,,9.1973159794,123.2756804213
+2024-05-18,Canthigaster valentini,Blacksaddle Toby,9.1976866594,123.2757447967
+2024-05-18,Dendrochirus zebra,Zebra Lionfish,9.1976866594,123.2757447967
+2024-05-18,Pomacentrus vaiuli,Princess Damsel,9.1973159794,123.2756804213
+2024-05-18,Ostorhinchus nigrofasciatus,Blackstriped Cardinalfish,9.1973159794,123.2756804213
+2024-05-18,Antennarius pictus,Painted Frogfish,9.1976866594,123.2757447967
+2024-05-18,Cirrhilabrus cyanopleura,Bluesided Fairy Wrasse Complex,9.1973159794,123.2756804213
+2024-05-18,Meiacanthus atrodorsalis,Yellowtail Fangblenny,9.1976866594,123.2757447967
+2024-05-18,Scolopsis,Monocle Breams,9.1973159794,123.2756804213
+2024-05-18,Cirrhilabrus lubbocki,Orangeback Wrasse,9.1976866594,123.2757447967
+2024-05-18,Paracheilinus carpenteri,Carpenter's Flasher Wrasse,9.1976866594,123.2757447967
+2024-05-18,Paracheilinus lineopunctatus,Spot-lined Flasher Wrasse,9.1973159794,123.2756804213
+2024-05-18,Scarus tricolor,Tricolour Parrotfish,9.1976866594,123.2757447967
+2024-05-18,Fusigobius signipinnis,Flasher Sandgoby,9.1973159794,123.2756804213
+2024-05-18,Gymnothorax,Common Morays,9.1973159794,123.2756804213
+2024-05-18,Chrysiptera rollandi,Bluehead Demoiselle,9.1973159794,123.2756804213
+2024-05-18,Parapercis clathrata,Latticed Sandperch,9.1976866594,123.2757447967
+2024-05-18,Labrichthys unilineatus,Tubelip Wrasse,9.1976866594,123.2757447967
+2024-05-18,Acreichthys tomentosus,Bristle-tail Leatherjacket,9.1937833333,123.3239138833
+2024-05-18,Solenostomus cyanopterus,Robust Ghostpipefish,9.199078488,123.2363244519
+2024-05-18,Pomacentrus amboinensis,Ambon Damsel,9.1973159794,123.2756804213
+2024-05-18,Halichoeres hortulanus,Checkerboard Wrasse,9.1973159794,123.2756804213
+2024-05-18,Halichoeres scapularis,Zigzag Wrasse,9.1976866594,123.2757447967
+2024-05-18,Mullidae,Goatfishes,9.1973159794,123.2756804213
+2024-05-18,Chaetodon adiergastos,Panda Butterflyfish,9.1976866594,123.2757447967
+2024-05-18,Myripristis murdjan,Crimson Soldierfish,9.1976866594,123.2757447967
+2024-05-18,Siganus unimaculatus,Blackblotch Foxface,9.1976866594,123.2757447967
+2024-05-18,Chaetodon punctatofasciatus,Spotbanded Butterflyfish,9.1976866594,123.2757447967
+2024-05-18,Halichoeres,,9.1976866594,123.2757447967
+2024-05-18,Thalassoma lunare,Moon Wrasse,9.1976866594,123.2757447967
+2024-05-18,Scarus niger,Swarthy Parrotfish,9.1976866594,123.2757447967
+2024-05-18,Labrichthys unilineatus,Tubelip Wrasse,9.1976866594,123.2757447967
+2024-05-18,Lutjanus decussatus,Checkered Snapper,9.1973159794,123.2756804213
+2024-05-18,Mirolabrichthys tuka,Purple Queenfish,9.1973159794,123.2756804213
+2024-05-18,Pseudochromis bitaeniatus,Doublestriped Dottyback,9.1973159794,123.2756804213
+2024-05-18,Chrysiptera rollandi,Bluehead Demoiselle,9.1973159794,123.2756804213
+2024-05-18,Amblyeleotris randalli,Sailfin Shrimpgoby,9.1976866594,123.2757447967
+2024-05-18,Pomacentridae,Damselfishes,9.1973159794,123.2756804213
+2024-05-18,Chlorurus bowersi,Bowers' Parrotfish,9.0439713617,123.2640975226
+2024-05-18,Variola albimarginata,White-edged Lyretail,9.1973159794,123.2756804213
+2024-05-18,Pygoplites diacanthus,Regal Angelfish,9.1976866594,123.2757447967
+2024-05-18,Epibulus insidiator,Slingjaw Wrasse,9.1976866594,123.2757447967
+2024-05-18,Arothron meleagris,Guineafowl Puffer,9.1973159794,123.2756804213
+2024-05-18,Lutjanus argentimaculatus,Mangrove Red Snapper,9.1973159794,123.2756804213
+2024-05-18,Acanthurus pyroferus,Mimic Surgeonfish,9.1973159794,123.2756804213
+2024-05-18,Parupeneus multifasciatus,Manybar Goatfish,9.1976866594,123.2757447967
+2024-05-18,Halicampus macrorhynchus,Winged pipefish,9.1976866594,123.2757447967
+2024-05-18,Solenostomus paradoxus,Ornate Ghostpipefish,9.17920555,123.3055638833
+2024-05-18,Fibramia amboinensis,Amboina Cardinalfish,13.3172244385,123.2322018966
+2024-05-18,Halichoeres nigrescens,Bubblefin Wrasse,13.3172254172,123.2322806865
+2024-05-18,Ostorhinchus cavitensis,Whiteline Cardinalfish,13.31722776,123.23166449
+2024-05-18,Ostorhinchus monospilus,Yelloweyed Cardinalfish,13.3172613059,123.2322769985
+2024-05-17,Caranx sexfasciatus,Bigeye Trevally,8.85,119.9333333
+2024-05-17,Sphyraena qenie,Blackfin Barracuda,8.85,119.9333333
+2024-05-17,Synchiropus splendidus,Mandarinfish,11.343151673,124.1095587231
+2024-05-17,Pterois volitans,Common Lionfish,8.85,119.9333333
+2024-05-17,Sphyraena forsteri,Bigeye Barracuda,8.85,119.9333333
+2024-05-17,Tetraroginae,Waspfishes,9.1980847021,123.2757447
+2024-05-17,Actinopterygii,Ray-finned Fishes,9.1980847021,123.2757447
+2024-05-17,Pleurosicya,Ghostgobies,9.1980847021,123.2757447
+2024-05-17,Pleurosicya,Ghostgobies,9.1980847021,123.2757447
+2024-05-17,Centrogenyidae,False Scorpionfishes,9.1980847021,123.2757447
+2024-05-17,Fusigobius inframaculatus,Blotched Goby,9.1980847021,123.2757447
+2024-05-17,Scorpaenidae,Scorpionfishes,9.1980847021,123.2757447
+2024-05-17,Petroscirtes,,9.1980847021,123.2757447
+2024-05-17,Callionymoidei,Dragonets,9.1980847021,123.2757447
+2024-05-17,Actinopterygii,Ray-finned Fishes,9.1980847021,123.2757447
+2024-05-17,Lubricogobius exiguus,Yellow Pygmy Goby,9.1980847021,123.2757447
+2024-05-17,Actinopterygii,Ray-finned Fishes,9.1980847021,123.2757447
+2024-05-17,Neochirus brachyptera,Dwarf Lionfish,9.1980847021,123.2757447
+2024-05-17,Actinopterygii,Ray-finned Fishes,9.1980847021,123.2757447
+2024-05-17,Paracentropogon longispinis,Whiteface Waspfish,9.1980847021,123.2757447
+2024-05-17,Scorpaenidae,Scorpionfishes,9.1980847021,123.2757447
+2024-05-17,Synodontidae,Lizardfishes,9.1980847021,123.2757447
+2024-05-17,Foa fo,Weedy Cardinalfish,9.1980847021,123.2757447
+2024-05-17,Iniistius pavo,Peacock Razorfish,9.1980847021,123.2757447
+2024-05-17,Foa fo,Weedy Cardinalfish,9.1980847021,123.2757447
+2024-05-17,Neochirus brachyptera,Dwarf Lionfish,9.1980847021,123.2757447
+2024-05-17,Asterropteryx,Starry Gobies,9.1980847021,123.2757447
+2024-05-17,Ablabys taenianotus,Cockatoo Waspfish,9.1976337041,123.2755302193
+2024-05-17,Actinopterygii,Ray-finned Fishes,9.1980847021,123.2757447
+2024-05-16,Chromis analis,Yellow Chromis,9.1973931915,123.2755102093
+2024-05-16,Canthigaster papua,Papuan Toby,9.1973931915,123.2755102093
+2024-05-16,Diagramma pictum,Painted Sweetlips,9.1973931915,123.2755102093
+2024-05-16,Plectorhinchus chaetodonoides,Harlequin Sweetlips,9.1973931915,123.2755102093
+2024-05-16,Ophichthus bonaparti,Napoleon Snake Eel,9.1973931915,123.2755102093
+2024-05-16,Eurypegasus draconis,Dragon Seamoth,9.1430081805,123.2354708242
+2024-05-16,Solenostomus cyanopterus,Robust Ghostpipefish,9.1973931915,123.2755102093
+2024-05-16,Rhinomuraena quaesita,Ribbon Eel,9.1973931915,123.2755102093
+2024-05-16,Dendrochirus zebra,Zebra Lionfish,9.1973931915,123.2755102093
+2024-05-16,Antennariidae,Frogfishes,9.1973931915,123.2755102093
+2024-05-16,Antennariidae,Frogfishes,9.1973931915,123.2755102093
+2024-05-16,Lactoria fornasini,Thornback Cowfish,9.1973931915,123.2755102093
+2024-05-16,Amphiprion sandaracinos,Orange Skunk Anemonefish,9.1973931915,123.2755102093
+2024-05-16,Ophichthus altipennis,Black-finned Snake Eel,9.1973931915,123.2755102093
+2024-05-16,Pteroidichthys amboinensis,Ambon Scorpionfish,9.1973931915,123.2755102093
+2024-05-16,Gymnothorax javanicus,Giant Moray,8.85,119.9333333
+2024-05-16,Cichlidae,Cichlids,14.1662785,121.2422198
+2024-05-16,Antennarius pictus,Painted Frogfish,12.5384858007,122.3837110254
+2024-05-15,Lutjanus kasmira,Bluestriped Snapper,8.85,119.9333333
+2024-05-15,Plectorhinchus chaetodonoides,Harlequin Sweetlips,8.85,119.9333333
+2024-05-15,Poecilia sphenops,Common Molly,8.2311342697,124.243039287
+2024-05-15,Actinopterygii,Ray-finned Fishes,8.231142376,124.2430311256
+2024-05-15,Parapercis,,9.1975520551,123.2755853114
+2024-05-15,Soleichthys heterorhinos,Tiger Sole,9.1960269568,123.275520945
+2024-05-15,Cyclichthys orbicularis,Shortspine Porcupinefish,9.1975520551,123.2755853114
+2024-05-15,Ostorhinchus compressus,Blue-eye Cardinalfish,9.1960269568,123.275520945
+2024-05-15,Pterois volitans,Common Lionfish,9.1975520551,123.2755853114
+2024-05-15,Antennariidae,Frogfishes,9.1960269568,123.275520945
+2024-05-15,Plectorhinchus,,9.1975520551,123.2755853114
+2024-05-15,Lactoria cornuta,Longhorn Cowfish,9.1975520551,123.2755853114
+2024-05-15,Antennariidae,Frogfishes,9.1960269568,123.275520945
+2024-05-15,Actinopterygii,Ray-finned Fishes,9.1960269568,123.275520945
+2024-05-15,Saurida gracilis,Slender Lizardfish,9.1975520551,123.2755853114
+2024-05-15,Echeneis naucrates,Sharksucker,9.1975520551,123.2755853114
+2024-05-15,Pristiapogon,,9.1960269568,123.275520945
+2024-05-15,Actinopterygii,Ray-finned Fishes,9.1960269568,123.275520945
+2024-05-15,Actinopterygii,Ray-finned Fishes,9.1960269568,123.275520945
+2024-05-15,Dunckerocampus dactyliophorus,Banded Pipefish,9.1960269568,123.275520945
+2024-05-15,Parupeneus,,9.1975520551,123.2755853114
+2024-05-15,Ostraciidae,Boxfishes,9.1960269568,123.275520945
+2024-05-15,Antennarius pictus,Painted Frogfish,9.1960269568,123.275520945
+2024-05-15,Arothron hispidus,White-spotted Puffer,9.1975520551,123.2755853114
+2024-05-15,Hippocampus bargibanti,Pygmy Seahorse,11.5868151314,124.0274359584
+2024-05-15,Solenostomus cyanopterus,Robust Ghostpipefish,9.1975520551,123.2755853114
+2024-05-15,Scorpaenoidei,Scorpionfishes and allies,9.1975520551,123.2755853114
+2024-05-15,Valenciennea puellaris,Orange-dashed Goby,9.1960269568,123.275520945
+2024-05-15,Solenostomus paradoxus,Ornate Ghostpipefish,9.1975520551,123.2755853114
+2024-05-15,Taenianotus triacanthus,Leaf Scorpionfish,9.1975520551,123.2755853114
+2024-05-15,Chaetodon adiergastos,Panda Butterflyfish,9.1975520551,123.2755853114
+2024-05-15,Pleurosicya muscarum,Sinularia Ghostgoby,9.1960269568,123.275520945
+2024-05-15,Amblyglyphidodon aureus,Golden Damselfish,9.1960269568,123.275520945
+2024-05-15,Pictichromis porphyrea,Purple Dottyback,9.1960269568,123.275520945
+2024-05-15,Petroscirtes breviceps,Shorthead Sabretooth Blenny,9.1960269568,123.275520945
+2024-05-15,Pleurosicya,Ghostgobies,9.1975520551,123.2755853114
+2024-05-15,Cymolutes torquatus,Razor Wrasse,9.1960269568,123.275520945
+2024-05-15,Iniistius pentadactylus,Fivefinger Razorfish,9.1960269568,123.275520945
+2024-05-15,Amphilophus citrinellus,Midas Cichlid,14.1662638889,121.2422138889
+2024-05-15,Actinopterygii,Ray-finned Fishes,14.1661694444,121.2423083333
+2024-05-15,Thalassoma lunare,Moon Wrasse,11.3214728146,124.182740573
+2024-05-15,Halicampus brocki,Tasselled Pipefish,12.5227445459,122.2822567126
+2024-05-15,Hippocampus spinosissimus,Queensland Seahorse,11.4825875491,124.1975136622
+2024-05-15,Coris schroederii,Schroeder's Rainbow Wrasse,9.1975520551,123.2755853114
+2024-05-15,Iniistius pavo,Peacock Razorfish,9.1975520551,123.2755853114
+2024-05-15,Halichoeres melanurus,Pinstriped Wrasse,9.1975520551,123.2755853114
+2024-05-15,Lutjanus,Common Snappers,9.1975520551,123.2755853114
+2024-05-15,Solenostomus paradoxus,Ornate Ghostpipefish,11.4461528007,124.0207517726
+2024-05-15,Opistognathus randalli,Yellowbarred Jawfish,9.1975520551,123.2755853114
+2024-05-15,Caranx sexfasciatus,Bigeye Trevally,11.4462164663,124.0207431057
+2024-05-15,Actinopterygii,Ray-finned Fishes,9.1960269568,123.275520945
+2024-05-15,Plectorhinchus chaetodonoides,Harlequin Sweetlips,11.0735960007,119.385597229
+2024-05-15,Acanthurus pyroferus,Mimic Surgeonfish,9.1960269568,123.275520945
+2024-05-15,Pomacentrinae,Typical Damselfishes and Anemonefishes,9.1975520551,123.2755853114
+2024-05-15,Chromis weberi,Weber's Puller,9.1960269568,123.275520945
+2024-05-15,Naso,Unicornfishes,9.1975520551,123.2755853114
+2024-05-15,Chaetodon speculum,Oval-spot Butterflyfish,9.1960269568,123.275520945
+2024-05-15,Epinephelus fasciatus,Blacktip Grouper,9.1975520551,123.2755853114
+2024-05-15,Ostracion solorense,Striped Boxfish,9.1960269568,123.275520945
+2024-05-15,Pomacentrus vaiuli,Princess Damsel,9.1960269568,123.275520945
+2024-05-15,Amblyeleotris guttata,Spotted Shrimpgoby,9.1975520551,123.2755853114
+2024-05-15,Heniochus varius,Humphead Bannerfish,9.1960269568,123.275520945
+2024-05-15,Actinopterygii,Ray-finned Fishes,14.16624,121.2422784
+2024-05-15,Parupeneus multifasciatus,Manybar Goatfish,9.1975520551,123.2755853114
+2024-05-15,Pycnochromis delta,Deep Reef Chromis,9.1960269568,123.275520945
+2024-05-15,Sufflamen bursa,Lei Triggerfish,9.1975520551,123.2755853114
+2024-05-15,Hippocampus bargibanti,Pygmy Seahorse,12.4307307518,122.3999718207
+2024-05-15,Centropyge nox,Midnight Angelfish,9.1975520551,123.2755853114
+2024-05-15,Anampses melanurus,White-spotted Wrasse,9.1975520551,123.2755853114
+2024-05-15,Anampses melanurus,White-spotted Wrasse,9.1975520551,123.2755853114
+2024-05-15,Coradion melanopus,Two-eyed Coralfish,9.1975520551,123.2755853114
+2024-05-15,Oxycheilinus bimaculatus,Twospot Wrasse,9.1960269568,123.275520945
+2024-05-14,Bagridae,Bagrid Catfishes,5.4742316667,118.198385
+2024-05-14,Neochirus brachyptera,Dwarf Lionfish,9.1979416667,123.2749833333
+2024-05-14,Stethojulis interrupta,Cutribbon Wrasse,9.1970754659,123.2756389543
+2024-05-14,Stethojulis interrupta,Cutribbon Wrasse,9.1966624181,123.2756604141
+2024-05-14,Actinopterygii,Ray-finned Fishes,9.1965070824,123.2751490072
+2024-05-14,Neoniphon sammara,Spotfin Squirrelfish,9.1965070824,123.2751490072
+2024-05-14,Myripristis murdjan,Crimson Soldierfish,9.1965070824,123.2751490072
+2024-05-14,Ctenochaetus cyanocheilus,Bluelip Bristletooth,9.1966624181,123.2756604141
+2024-05-14,Cheilodipterus macrodon,Tiger Cardinalfish,9.1965070824,123.2751490072
+2024-05-14,Chlorurus bowersi,Bowers' Parrotfish,9.1426584925,123.3531838356
+2024-05-14,Abudefduf vaigiensis,Indo-Pacific Sergeant Major,6.505875,117.916275
+2024-05-14,Chaetodontoplus mesoleucus,Vermiculate Angelfish,9.1965070824,123.2751490072
+2024-05-14,Halichoeres leucurus,Chain-lined Wrasse,9.1966624181,123.2756604141
+2024-05-14,Amphiprion frenatus,Tomato Clownfish,9.1965070824,123.2751490072
+2024-05-14,Thalassoma hardwicke,Sixbar Wrasse,9.1966624181,123.2756604141
+2024-05-14,Pteropterus antennatus,Spotfin Lionfish,9.1965070824,123.2751490072
+2024-05-14,Cirrhilabrus ryukyuensis,Ryukyu Fairy Wrasse,9.1965070824,123.2751490072
+2024-05-14,Echidna nebulosa,Snowflake Moray,9.1966624181,123.2756604141
+2024-05-14,Arothron mappa,Map Puffer,9.1966624181,123.2756604141
+2024-05-14,Oxycheilinus celebicus,Slender Maori Wrasse,9.1966624181,123.2756604141
+2024-05-14,Pteragogus enneacanthus,Cockerel Wrasse,9.1966624181,123.2756604141
+2024-05-14,Scarus niger,Swarthy Parrotfish,9.1965070824,123.2751490072
+2024-05-14,Diodon holocanthus,Longspined Porcupinefish,9.1966624181,123.2756604141
+2024-05-14,Haemulidae,Grunts,9.1966624181,123.2756604141
+2024-05-14,Cheilinus undulatus,Napoleon Wrasse,8.85,119.9333333
+2024-05-14,Gymnothorax zonipectis,Barred-fin Moray,9.1965070824,123.2751490072
+2024-05-14,Ostorhinchus nigrofasciatus,Blackstriped Cardinalfish,9.1965070824,123.2751490072
+2024-05-14,Bodianus mesothorax,Blackbelt Hogfish,9.1965070824,123.2751490072
+2024-05-14,Anthiadidae,Anthiases,9.1965070824,123.2751490072
+2024-05-14,Callionymidae,Dragonets,9.1965070824,123.2751490072
+2024-05-14,Halichoeres hartzfeldii,Orangeline Wrasse,9.1966624181,123.2756604141
+2024-05-14,Lubricogobius exiguus,Yellow Pygmy Goby,9.1965070824,123.2751490072
+2024-05-14,Iniistius bakunawa,Eclipse-spot Razor Wrasse,9.1966624181,123.2756604141
+2024-05-14,Pristiapogon fraenatus,Spurcheek Cardinalfish,9.1965070824,123.2751490072
+2024-05-14,Amblyeleotris rubrimarginata,Redmargin Shrimpgoby,9.1966624181,123.2756604141
+2024-05-14,Nemipteridae,Threadfin Breams,9.1965070824,123.2751490072
+2024-05-14,Cyprinus rubrofuscus,Amur Carp,14.1777,121.296425
+2024-05-14,Scolopsis bilineata,Bridled Monocle Bream,9.1965070824,123.2751490072
+2024-05-14,Pomacentrus coelestis,Neon Damselfish,9.1965070824,123.2751490072
+2024-05-14,Chromis viridis,Blue-green Chromis,9.1965070824,123.2751490072
+2024-05-14,Halichoeres podostigma,Axilspot Wrasse,9.1965070824,123.2751490072
+2024-05-14,Coris schroederii,Schroeder's Rainbow Wrasse,9.1965070824,123.2751490072
+2024-05-14,Gymnothorax fimbriatus,Fimbriated Moray,9.1965070824,123.2751490072
+2024-05-14,Halichoeres chrysus,Canary Wrasse,9.1965070824,123.2751490072
+2024-05-14,Stethojulis interrupta,Cutribbon Wrasse,9.1966624181,123.2756604141
+2024-05-14,Pentapodus,Whiptail Breams,9.1965070824,123.2751490072
+2024-05-14,Pentapodus,Whiptail Breams,9.1966624181,123.2756604141
+2024-05-14,Parapercis tetracantha,Reticulated Sandperch,9.1965070824,123.2751490072
+2024-05-14,Cheilinus chlorourus,Floral Maori Wrasse,9.1966624181,123.2756604141
+2024-05-14,Thalassoma lunare,Moon Wrasse,9.1966624181,123.2756604141
+2024-05-14,Stethojulis interrupta,Cutribbon Wrasse,9.1966624181,123.2756604141
+2024-05-14,Stethojulis interrupta,Cutribbon Wrasse,9.1966624181,123.2756604141
+2024-05-14,Scarus niger,Swarthy Parrotfish,9.1966624181,123.2756604141
+2024-05-14,Scarinae,Parrotfishes,9.1966624181,123.2756604141
+2024-05-14,Genicanthus lamarck,Lamarck's Angelfish,9.1965070824,123.2751490072
+2024-05-14,Centropyge bicolor,Bicolor Angelfish,9.1965070824,123.2751490072
+2024-05-14,Balistapus undulatus,Orangestripe Triggerfish,9.1966624181,123.2756604141
+2024-05-14,Ostorhinchus cyanosoma,Yellowstriped Cardinalfish,9.1965070824,123.2751490072
+2024-05-14,Cephalopholis miniata,Coral Grouper,9.1965070824,123.2751490072
+2024-05-14,Oxycheilinus digramma,Linedcheek Wrasse,9.1966624181,123.2756604141
+2024-05-14,Pomacentridae,Damselfishes,9.1965070824,123.2751490072
+2024-05-14,Cephalopholis sexmaculata,Saddle Grouper,9.1965070824,123.2751490072
+2024-05-14,Helcogramma striata,Striped Triplefin,9.1965070824,123.2751490072
+2024-05-14,Ostorhinchus cyanosoma,Yellowstriped Cardinalfish,9.1965070824,123.2751490072
+2024-05-14,Gobiinae,,9.1965070824,123.2751490072
+2024-05-14,Ostorhinchus nigrofasciatus,Blackstriped Cardinalfish,9.1965070824,123.2751490072
+2024-05-14,Macropharyngodon negrosensis,Black Leopard Wrasse,9.1965070824,123.2751490072
+2024-05-14,Cirrhilabrus cyanopleura,Bluesided Fairy Wrasse Complex,9.1966624181,123.2756604141
+2024-05-14,Istigobius decoratus,Decorated Sandgoby,9.1966624181,123.2756604141
+2024-05-14,Petroscirtes breviceps,Shorthead Sabretooth Blenny,9.1965070824,123.2751490072
+2024-05-14,Upeneus tragula,Freckled Goatfish,9.1965070824,123.2751490072
+2024-05-14,Cirrhilabrus ryukyuensis,Ryukyu Fairy Wrasse,9.1966624181,123.2756604141
+2024-05-14,Canthigaster ocellicincta,Shy toby,9.1966624181,123.2756604141
+2024-05-14,Lactoria cornuta,Longhorn Cowfish,12.5503107464,122.3383936164
+2024-05-14,Eviota atriventris,Neon Pygmy-goby,9.1965070824,123.2751490072
+2024-05-14,Centropyge tibicen,Keyhole Angelfish,9.1965070824,123.2751490072
+2024-05-14,Lactoria fornasini,Thornback Cowfish,9.1965070824,123.2751490072
+2024-05-14,Pteropterus antennatus,Spotfin Lionfish,9.1965070824,123.2751490072
+2024-05-13,Grammistes sexlineatus,Lined Soapfish,9.1973190562,123.2755423961
+2024-05-13,Actinopterygii,Ray-finned Fishes,9.1973190562,123.2755423961
+2024-05-13,Novaculichthys taeniourus,Rockmover Wrasse,9.1973190562,123.2755423961
+2024-05-13,Echidna nebulosa,Snowflake Moray,9.1973190562,123.2755423961
+2024-05-13,Halichoeres,,9.1970754659,123.2756389543
+2024-05-13,Gymnothorax thyrsoideus,White-eyed Moray,9.1973190562,123.2755423961
+2024-05-13,Gobiinae,,9.1973190562,123.2755423961
+2024-05-13,Siganus fuscescens,Dusky Rabbitfish,9.1973190562,123.2755423961
+2024-05-13,Mullidae,Goatfishes,9.1973190562,123.2755423961
+2024-05-13,Valenciennea puellaris,Orange-dashed Goby,9.1973190562,123.2755423961
+2024-05-13,Scolopsis ciliata,Whitestreak Monocle Bream,9.1973190562,123.2755423961
+2024-05-13,Canthigaster bennetti,Whitebelly Toby,9.1973190562,123.2755423961
+2024-05-13,Amblyeleotris rubrimarginata,Redmargin Shrimpgoby,9.1973190562,123.2755423961
+2024-05-13,Scorpaenoidei,Scorpionfishes and allies,9.1973190562,123.2755423961
+2024-05-13,Fusigobius signipinnis,Flasher Sandgoby,9.1973190562,123.2755423961
+2024-05-13,Halichoeres chrysus,Canary Wrasse,9.1973190562,123.2755423961
+2024-05-13,Dunckerocampus pessuliferus,Yellowbanded Pipefish,9.1973190562,123.2755423961
+2024-05-13,Ostracion cubicum,Yellow Boxfish,9.1973190562,123.2755423961
+2024-05-13,Solenostomus paradoxus,Ornate Ghostpipefish,9.1973190562,123.2755423961
+2024-05-13,Dascyllus reticulatus,Reticulated Damselfish,9.1973190562,123.2755423961
+2024-05-13,Ostorhinchus hartzfeldii,Silverlined Cardinalfish,9.1973190562,123.2755423961
+2024-05-13,Labridae,Wrasses and Parrotfishes,9.1970754659,123.2756389543
+2024-05-13,Stethojulis interrupta,Cutribbon Wrasse,9.1973190562,123.2755423961
+2024-05-13,Scarus,,9.1973190562,123.2755423961
+2024-05-13,Istigobius decoratus,Decorated Sandgoby,9.1973190562,123.2755423961
+2024-05-13,Ctenochaetus binotatus,Twospot Bristletooth,9.1973190562,123.2755423961
+2024-05-13,Saurida gracilis,Slender Lizardfish,9.1973190562,123.2755423961
+2024-05-13,Parupeneus crassilabris,Doublebar Goatfish,9.1973190562,123.2755423961
+2024-05-13,Amblyeleotris guttata,Spotted Shrimpgoby,9.1973190562,123.2755423961
+2024-05-13,Halichoeres scapularis,Zigzag Wrasse,9.1970754659,123.2756389543
+2024-05-13,Dascyllus reticulatus,Reticulated Damselfish,9.1973190562,123.2755423961
+2024-05-13,Amphiprion ocellaris,Ocellaris Anemonefish,9.197234328,123.2756496841
+2024-05-13,Chaetodon kleinii,Blacklip Butterflyfish,9.197234328,123.2756496841
+2024-05-13,Pomacentrus stigma,Blackspot Damsel,9.197234328,123.2756496841
+2024-05-13,Dascyllus reticulatus,Reticulated Damselfish,9.197234328,123.2756496841
+2024-05-13,Hippocampus denise,Denise's Pygmy Seahorse,12.5315047124,122.2978881791
+2024-05-13,Coradion,,9.197234328,123.2756496841
+2024-05-13,Valenciennea puellaris,Orange-dashed Goby,9.197234328,123.2756496841
+2024-05-13,Blenniidae,Combtooth Blennies,9.197234328,123.2756496841
+2024-05-13,Siokunichthys bentuviai,,12.526032637,122.2136045129
+2024-05-13,Synodus,,12.5000650188,122.3049710998
+2024-05-13,Antennarius striatus,Striate Anglerfish,12.5882956793,122.32791471
+2024-05-13,Festucalex rufus,,12.5648180266,122.3413808096
+2024-05-13,Neamia octospina,Eightspine Cardinalfish,12.5802676546,122.3706337841
+2024-05-13,Muraenidae,Morays,12.4462593164,122.2441294593
+2024-05-13,Dunckerocampus dactyliophorus,Banded Pipefish,12.530271084,122.2103953549
+2024-05-13,Festucalex rufus,,12.5657142817,122.3082821174
+2024-05-13,Syngnathidae,"Pipefishes, Seahorses, and Seadragons",12.4447956158,122.273262887
+2024-05-13,Amblygobius sphynx,Sphynx Goby,9.197234328,123.2756496841
+2024-05-13,Gnatholepis yoshinoi,Yoshino's Goby,9.197234328,123.2756496841
+2024-05-13,Petroscirtes breviceps,Shorthead Sabretooth Blenny,9.197234328,123.2756496841
+2024-05-13,Fistularia commersonii,Blue-spotted Cornetfish,9.197234328,123.2756496841
+2024-05-13,Valenciennea puellaris,Orange-dashed Goby,9.197234328,123.2756496841
+2024-05-13,Ostorhinchus hoevenii,Frostfin Cardinalfish,9.197234328,123.2756496841
+2024-05-13,Bryaninops yongei,Wire Coral Goby,12.5608244266,122.3487655946
+2024-05-13,Dascyllus trimaculatus,Three-spot Dascyllus,9.197234328,123.2756496841
+2024-05-13,Ostorhinchus nigrofasciatus,Blackstriped Cardinalfish,9.197234328,123.2756496841
+2024-05-13,Pterocaesio pisang,Ruddy Fusilier,9.197234328,123.2756496841
+2024-05-13,Neopomacentrus violascens,Violet Demoiselle,9.197234328,123.2756496841
+2024-05-13,Neopomacentrus violascens,Violet Demoiselle,9.197234328,123.2756496841
+2024-05-13,Bodianus dictynna,Redfin Hogfish,9.197234328,123.2756496841
+2024-05-13,Pterois volitans,Common Lionfish,9.197234328,123.2756496841
+2024-05-13,Antennarius commerson,Giant Frogfish,9.197234328,123.2756496841
+2024-05-13,Ostorhinchus monospilus,Yelloweyed Cardinalfish,9.197234328,123.2756496841
+2024-05-13,Ostorhinchus hoevenii,Frostfin Cardinalfish,9.197234328,123.2756496841
+2024-05-13,Amblygobius sphynx,Sphynx Goby,9.197234328,123.2756496841
+2024-05-13,Amblygobius sphynx,Sphynx Goby,9.197234328,123.2756496841
+2024-05-12,Pentapodus caninus,Canine-toothed Midwater Bream,12.4910394706,122.384845032
+2024-05-12,Cheilio inermis,Cigar Wrasse,9.1954928049,123.2759755477
+2024-05-12,Cheilio inermis,Cigar Wrasse,9.1691386886,123.262037544
+2024-05-12,Stethojulis interrupta,Cutribbon Wrasse,9.194772288,123.2767607644
+2024-05-12,Julidinae,Rainbow wrasses and allies,9.1672239886,123.2576106107
+2024-05-12,Ostorhinchus wassinki,Wassinki Cardinalfish,9.1970834308,123.2759081572
+2024-05-12,Parapercis schauinslandii,Redspotted Sandperch,9.1955805112,123.2759755477
+2024-05-12,Halichoeres scapularis,Zigzag Wrasse,9.1946637305,123.2766615227
+2024-05-12,Cirrhitichthys,,9.195975686,123.2760751247
+2024-05-12,Scorpaenopsis oxycephala,Smallscale Scorpionfish,9.194968883,123.2761083171
+2024-05-12,Cirrhitichthys falco,Dwarf Hawkfish,9.1967187062,123.2764513046
+2024-05-12,Oxycheilinus bimaculatus,Twospot Wrasse,9.1942808,123.2757975161
+2024-05-12,Istigobius decoratus,Decorated Sandgoby,9.1972479209,123.2755762339
+2024-05-12,Arothron nigropunctatus,Blackspotted Puffer,9.1951763999,123.2768274844
+2024-05-12,Oxycheilinus bimaculatus,Twospot Wrasse,9.1960640542,123.2770816237
+2024-05-12,Antennarius pictus,Painted Frogfish,9.1956794705,123.2760861889
+2024-05-12,Arothron manilensis,Narrowlined Puffer,9.1945766858,123.2760415971
+2024-05-12,Halichoeres hartzfeldii,Orangeline Wrasse,9.1961491127,123.2761193812
+2024-05-12,Pleurosicya mossambica,Many-host Ghostgoby,9.1960951651,123.2762407511
+2024-05-12,Labroides dimidiatus,Bluestreak Cleaner Wrasse,9.1971334067,123.2757874578
+2024-05-12,Iniistius pavo,Peacock Razorfish,9.1955480764,123.2764513046
+2024-05-12,Actinopterygii,Ray-finned Fishes,9.1968696268,123.2759644836
+2024-05-12,Coris schroederii,Schroeder's Rainbow Wrasse,9.1950655257,123.276694715
+2024-05-12,Diproctacanthus xanthurus,Yellowtail Wrasse,9.1949821218,123.2763406634
+2024-05-12,Pomacentrus amboinensis,Ambon Damsel,9.1960839122,123.2753891498
+2024-05-12,Halichoeres hortulanus,Checkerboard Wrasse,9.1967077843,123.2759866118
+2024-05-12,Amphiprion perideraion,Pink Skunk Anemonefish,9.1959091617,123.2762300223
+2024-05-12,Amphiprion perideraion,Pink Skunk Anemonefish,9.1980730176,123.2762501389
+2024-05-12,Centropyge vrolikii,Pearlscale Angelfish,9.1971976141,123.2759185508
+2024-05-12,Parapercis cylindrica,Sharpnose Sandperch,9.1954252875,123.2761525735
+2024-05-12,Amphiprion clarkii,Clark's Anemonefish,9.1959343152,123.2771882415
+2024-05-12,Amphiprion clarkii,Clark's Anemonefish,9.1746991652,123.255414404
+2024-05-12,Parapercis clathrata,Latticed Sandperch,9.195144296,123.2760087401
+2024-05-12,Dunckerocampus dactyliophorus,Banded Pipefish,9.1944999012,123.2768053561
+2024-05-12,Oxycheilinus bimaculatus,Twospot Wrasse,9.1968779009,123.2757861167
+2024-05-12,Cirrhilabrus lubbocki,Orangeback Wrasse,9.1954282662,123.2761525735
+2024-05-12,Canthigaster papua,Papuan Toby,9.1964373847,123.2756198198
+2024-05-12,Cheilodipterus quinquelineatus,Fiveline Cardinalfish,9.1967157275,123.275997676
+2024-05-12,Saurida nebulosa,Clouded Lizardfish,9.1954719539,123.2759312913
+2024-05-12,Dascyllus aruanus,Humbug Dascyllus,9.1956771537,123.2755202428
+2024-05-12,Amblygobius phalaena,Whitebarred Goby,9.1967273113,123.2752768323
+2024-05-12,Canthigaster bennetti,Whitebelly Toby,9.1955606532,123.2760087401
+2024-05-12,Pomacentrus moluccensis,Lemon Damsel,9.1957757819,123.2760861889
+2024-05-12,Hazeus,,9.1940163561,123.276550211
+2024-05-12,Ostorhinchus moluccensis,Moluccan Cardinalfish,9.1962874568,123.2741791382
+2024-05-12,Scorpaenodes guamensis,Guam Scorpionfish,9.1972432873,123.2753747329
+2024-05-12,Dactylopus,,9.1963698675,123.2753006369
+2024-05-12,Synodus dermatogenys,Bluestripe Lizardfish,9.1962027293,123.2761304453
+2024-05-12,Asterropteryx,Starry Gobies,9.1962705775,123.2753891498
+2024-05-12,Halichoeres hartzfeldii,Orangeline Wrasse,9.1946544634,123.2769049332
+2024-05-12,Halichoeres hartzfeldii,Orangeline Wrasse,9.19705232,123.2767279074
+2024-05-12,Halichoeres hartzfeldii,Orangeline Wrasse,9.1951102063,123.2756657526
+2024-05-12,Neochirus brachyptera,Dwarf Lionfish,9.1971413499,123.2759021223
+2024-05-12,Oxycheilinus bimaculatus,Twospot Wrasse,9.1958009354,123.276771158
+2024-05-12,Ablabys taenianotus,Cockatoo Waspfish,9.1944572062,123.2763849199
+2024-05-12,Parapercis schauinslandii,Redspotted Sandperch,9.1957208414,123.2765619457
+2024-05-12,Hippocampus denise,Denise's Pygmy Seahorse,12.5746256072,122.3810483026
+2024-05-12,Diodon holocanthus,Longspined Porcupinefish,9.1971079223,123.2754441351
+2024-05-12,Neochirus brachyptera,Dwarf Lionfish,9.1951998986,123.275809586
+2024-05-12,Neochirus brachyptera,Dwarf Lionfish,9.1962980477,123.27856455
+2024-05-12,Scorpaenopsis,Scorpionfishes,9.1981220005,123.2764355466
+2024-05-12,Pteroidichthys amboinensis,Ambon Scorpionfish,9.1944648185,123.2763617858
+2024-05-12,Cymolutes torquatus,Razor Wrasse,9.1956460428,123.2757747173
+2024-05-12,Sphyraena,Barracudas,9.197111232,123.2758427784
+2024-05-12,Amphiprion perideraion,Pink Skunk Anemonefish,9.1951998986,123.27613011
+2024-05-12,Amphiprion ocellaris,Ocellaris Anemonefish,9.1944449604,123.2772368565
+2024-05-12,Pseudanthias huchtii,Threadfin Anthias,9.1952392837,123.2762451097
+2024-05-12,Hemigymnus fasciatus,Barred Thicklip,9.1959525184,123.2759192213
+2024-05-12,Beloniformes,"Needlefishes, Halfbeaks, and Allies",6.5047005712,117.9177217448
+2024-05-12,Oreochromis niloticus,Nile Tilapia,13.36432024,123.3366544
+2024-05-12,Periophthalmus walailakae,Yellow-spotted Mudskipper,9.020957,125.255072
+2024-05-11,Abudefduf sexfasciatus,Scissortail Sergeant,6.5055,117.9166
+2024-05-11,Zanclus cornutus,Moorish Idol,6.5055,117.9166
+2024-05-11,Chaetodon octofasciatus,Eightband Butterflyfish,6.5055,117.9166
+2024-05-11,Amphiprion biaculeatus,Spine-cheek Clownfish,6.5056,117.9165
+2024-05-11,Parupeneus multifasciatus,Manybar Goatfish,6.5056,117.9165
+2024-05-11,Thalassoma lunare,Moon Wrasse,6.5056,117.9165
+2024-05-11,Rhinecanthus aculeatus,Lagoon Triggerfish,6.5044933222,117.9173521676
+2024-05-11,Amblyglyphidodon curacao,Staghorn Damsel,6.5056,117.9165
+2024-05-11,Pomacentrus amboinensis,Ambon Damsel,6.5056,117.9165
+2024-05-11,Stegastes lacrymatus,Jewel Damsel,6.5056,117.9165
+2024-05-11,Dischistodus melanotus,Blackvent Damsel,6.5055,117.9166
+2024-05-11,Lethrinus harak,Thumbprint Emperor,6.5056,117.9165
+2024-05-11,Choerodon anchorago,Anchor Tuskfish,6.5054,117.9166
+2024-05-11,Pterocaesio tile,Neon Fusilier,6.5054,117.9166
+2024-05-11,Hemigymnus melapterus,Blackeye Thicklip,6.5054,117.9166
+2024-05-11,Chaetodon auriga,Threadfin Butterflyfish,6.5055,117.9165
+2024-05-11,Exocoetus volitans,Cosmopolitan Flyingfish,6.4324133333,117.9287633333
+2024-05-11,Chaetodon adiergastos,Panda Butterflyfish,12.4025545332,122.2332680735
+2024-05-11,Synodus variegatus,Variegated Lizardfish,12.5417786129,122.2575041749
+2024-05-11,Siokunichthys herrei,,12.4354135237,122.3676081882
+2024-05-11,Apterygocampus epinnulatus,,12.5422912919,122.310802372
+2024-05-10,Bulbonaricus brauni,Braun's Pughead Pipefish,12.4245896871,122.2914727416
+2024-05-09,Gymnothorax zonipectis,Barred-fin Moray,9.1978486,123.2751347
+2024-05-09,Echeneis naucrates,Sharksucker,9.1961522953,123.2743979882
+2024-05-09,Hippocampus histrix,Spiny Seahorse,9.0661126859,123.2406546624
+2024-05-09,Centriscus scutatus,Grooved Razorfish,9.1961522953,123.2743979882
+2024-05-09,Dactylopus dactylopus,Finger Dragonet,9.1978486,123.2751347
+2024-05-09,Gobiinae,,9.1978486,123.2751347
+2024-05-09,Gnatholepis cauerensis,Shoulderspot Goby,9.1978486,123.2751347
+2024-05-09,Trimma benjamini,Ringeye Pygmygoby,9.1978486,123.2751347
+2024-05-09,Solenostomus paradoxus,Ornate Ghostpipefish,9.1961522953,123.2743979882
+2024-05-09,Neoglyphidodon melas,Black Damsel,9.1978486,123.2751347
+2024-05-09,Gnatholepis cauerensis,Shoulderspot Goby,9.1978486,123.2751347
+2024-05-09,Taenianotus triacanthus,Leaf Scorpionfish,9.1978486,123.2751347
+2024-05-09,Amphiprion perideraion,Pink Skunk Anemonefish,9.1961522953,123.2743979882
+2024-05-09,Ophichthus bonaparti,Napoleon Snake Eel,9.1961522953,123.2743979882
+2024-05-09,Pleurosicya,Ghostgobies,9.1978486,123.2751347
+2024-05-09,Neochirus brachyptera,Dwarf Lionfish,9.1978486,123.2751347
+2024-05-09,Lethrinus genivittatus,Threadfin Emperor,9.1978486,123.2751347
+2024-05-09,Oxycheilinus bimaculatus,Twospot Wrasse,9.1961522953,123.2743979882
+2024-05-09,Synodus variegatus,Variegated Lizardfish,9.1978486,123.2751347
+2024-05-09,Lutjanus lutjanus,Bigeye Snapper,9.1961522953,123.2743979882
+2024-05-09,Sphyraenidae,Barracudas,9.1978486,123.2751347
+2024-05-09,Mirolabrichthys tuka,Purple Queenfish,9.1961522953,123.2743979882
+2024-05-09,Chaetodon baronessa,Eastern Triangle Butterflyfish,9.1978486,123.2751347
+2024-05-09,Melichthys vidua,Pinktail Triggerfish,9.1961522953,123.2743979882
+2024-05-09,Cheilodipterus macrodon,Tiger Cardinalfish,9.1978486,123.2751347
+2024-05-09,Scolopsis bilineata,Bridled Monocle Bream,9.1978486,123.2751347
+2024-05-09,Zanclus cornutus,Moorish Idol,9.1978486,123.2751347
+2024-05-09,Dascyllus trimaculatus,Three-spot Dascyllus,9.1978486,123.2751347
+2024-05-09,Acanthurus xanthopterus,Yellowfin Surgeonfish,9.1978486,123.2751347
+2024-05-09,Amphiprion clarkii,Clark's Anemonefish,9.1978486,123.2751347
+2024-05-09,Hippocampus histrix,Spiny Seahorse,9.1928475028,123.3411127876
+2024-05-09,Variola albimarginata,White-edged Lyretail,9.1978486,123.2751347
+2024-05-09,Diagramma,,9.1961522953,123.2743979882
+2024-05-09,Trimma benjamini,Ringeye Pygmygoby,12.5059580858,122.2477534834
+2024-05-09,Parupeneus barberinus,Dot-and-dash Goatfish,9.1978486,123.2751347
+2024-05-09,Ostorhinchus hoevenii,Frostfin Cardinalfish,9.1978486,123.2751347
+2024-05-09,Parupeneus barberinoides,Bicolour Goatfish,9.1978486,123.2751347
+2024-05-09,Ostorhinchus hartzfeldii,Silverlined Cardinalfish,9.1978486,123.2751347
+2024-05-09,Fusigobius inframaculatus,Blotched Goby,9.1978486,123.2751347
+2024-05-09,Pomacentrus coelestis,Neon Damselfish,9.1978486,123.2751347
+2024-05-09,Istigobius decoratus,Decorated Sandgoby,9.1978486,123.2751347
+2024-05-09,Myrichthys colubrinus,Banded Snake Eel,9.1961522953,123.2743979882
+2024-05-09,Lutjanus sebae,Red Emperor Snapper,9.1978486,123.2751347
+2024-05-09,Lutjanus rufolineatus,Yellowlined Snapper,9.1978486,123.2751347
+2024-05-09,Diodon holocanthus,Longspined Porcupinefish,9.1961522953,123.2743979882
+2024-05-09,Cephalopholis boenak,Chocolate Grouper,9.1978486,123.2751347
+2024-05-09,Scorpaenopsis,Scorpionfishes,9.1961522953,123.2743979882
+2024-05-09,Antennarius maculatus,Warty Anglerfish,9.1978486,123.2751347
+2024-05-09,Ostorhinchus aureus,Ringtail Cardinalfish,9.1961522953,123.2743979882
+2024-05-09,Cirrhitichthys aprinus,Threadfin Hawkfish,9.1978486,123.2751347
+2024-05-09,Arothron manilensis,Narrowlined Puffer,9.1961522953,123.2743979882
+2024-05-09,Ostracion rhinorhynchos,Horn-nose Boxfish,9.1978486,123.2751347
+2024-05-09,Pomacanthus imperator,Emperor Angelfish,9.1972766901,123.2757355157
+2024-05-09,Oreochromis niloticus,Nile Tilapia,15.7394081317,120.9440375492
+2024-05-08,Istiblennius dussumieri,Dussumier's Rockskipper,12.42709052,122.202477447
+2024-05-08,Bathygobius,,12.4943123713,122.3670827388
+2024-05-08,Cirrhilabrus ryukyuensis,Ryukyu Fairy Wrasse,9.1972766901,123.2757355157
+2024-05-08,Amphiprion ocellaris,Ocellaris Anemonefish,9.1972766901,123.2757355157
+2024-05-08,Helcogramma striata,Striped Triplefin,9.1972766901,123.2757355157
+2024-05-08,Gobiinae,,9.1972766901,123.2757355157
+2024-05-08,Pomacentrus amboinensis,Ambon Damsel,9.1972766901,123.2757355157
+2024-05-08,Dunckerocampus dactyliophorus,Banded Pipefish,9.1972766901,123.2757355157
+2024-05-08,Cephalopholis sexmaculata,Saddle Grouper,9.1972766901,123.2757355157
+2024-05-08,Fusigobius signipinnis,Flasher Sandgoby,9.1972766901,123.2757355157
+2024-05-08,Parapercis tetracantha,Reticulated Sandperch,9.1972766901,123.2757355157
+2024-05-08,Lethrinus genivittatus,Threadfin Emperor,9.1972766901,123.2757355157
+2024-05-08,Callionymidae,Dragonets,9.1972766901,123.2757355157
+2024-05-08,Abudefduf vaigiensis,Indo-Pacific Sergeant Major,12.3443972,121.3361897
+2024-05-08,Amblypomacentrus breviceps,Blackbanded Damsel,9.1972766901,123.2757355157
+2024-05-08,Scorpaenopsis oxycephala,Smallscale Scorpionfish,9.1972766901,123.2757355157
+2024-05-08,Antennarius pictus,Painted Frogfish,9.1972766901,123.2757355157
+2024-05-08,Petroscirtes mitratus,Crested Sabretooth Blenny,9.1972766901,123.2757355157
+2024-05-08,Antennarius maculatus,Warty Anglerfish,9.1972766901,123.2757355157
+2024-05-08,Cryptocentrus fasciatus,Barred Shrimpgoby,9.1972766901,123.2757355157
+2024-05-08,Antennarius pictus,Painted Frogfish,9.1972766901,123.2757355157
+2024-05-08,Callionymidae,Dragonets,9.1972766901,123.2757355157
+2024-05-08,Paracentropogon rubripinnis,Redfin Velvetfish,9.1972766901,123.2757355157
+2024-05-08,Lubricogobius exiguus,Yellow Pygmy Goby,9.1972766901,123.2757355157
+2024-05-08,Scorpaeninae,Typical Scorpionfishes,9.1972766901,123.2757355157
+2024-05-08,Amphiprion annamensis,Northern Saddleback Anemonefish,9.1972766901,123.2757355157
+2024-05-08,Corythoichthys haematopterus,Reeftop Pipefish,12.405848348,122.2146735564
+2024-05-08,Cyprinus rubrofuscus,Amur Carp,14.1664777778,121.2422083333
+2024-05-08,Dunckerocampus dactyliophorus,Banded Pipefish,12.4776595222,122.3898548367
+2024-05-08,Amphiprion ocellaris,Ocellaris Anemonefish,12.5633040042,122.2226269942
+2024-05-07,Antennarius pictus,Painted Frogfish,12.4331692887,122.257779104
+2024-05-07,Epinephelus fasciatus,Blacktip Grouper,12.5704448218,122.2733283513
+2024-05-07,Platycephalidae,Typical Flatheads,12.4326313973,122.3247694694
+2024-05-07,Scorpaenopsis,Scorpionfishes,12.588435412,122.3517908868
+2024-05-07,Saurida,,12.5170761728,122.2925775206
+2024-05-07,Apogonidae,Cardinalfishes,12.5144762893,122.3264760523
+2024-05-07,Pteragogus turdus,Thrush Sneaky Wrasse,12.4300991138,122.3433245046
+2024-05-07,Gymnothorax zonipectis,Barred-fin Moray,12.4052205128,122.3494091569
+2024-05-07,Canthigaster papua,Papuan Toby,12.5727691873,122.3292507258
+2024-05-07,Cirrhitichthys falco,Dwarf Hawkfish,12.5106005235,122.3778617972
+2024-05-07,Parapercis,,12.5494274091,122.2037840754
+2024-05-07,Eviota spilota,Shoulderspot Eviota,12.4866437412,122.3819796883
+2024-05-07,Apogonidae,Cardinalfishes,12.5890016262,122.3508554576
+2024-05-07,Thunnus albacares,Yellowfin Tuna,10.638823,122.2280523
+2024-05-07,Katsuwonus pelamis,Skipjack Tuna,10.6388189,122.2280537972
+2024-05-07,Pomacentrus,,6.1760705065,118.0612989259
+2024-05-07,Lutjanus ehrenbergii,Ehrenberg's Snapper,6.1760651732,118.0613190425
+2024-05-07,Lethrinus harak,Thumbprint Emperor,6.1760651578,118.0613120866
+2024-05-07,Neoglyphidodon melas,Black Damsel,6.1760641578,118.0613161099
+2024-05-07,Hemigymnus melapterus,Blackeye Thicklip,6.1760638245,118.0613184569
+2024-05-07,Scarinae,Parrotfishes,6.1760694161,118.0613221449
+2024-05-07,Scarinae,Parrotfishes,6.1760574162,118.0613221449
+2024-05-07,Scolopsis lineata,Lined Monocle Bream,6.1760720828,118.0613342149
+2024-05-07,Siganus guttatus,Golden Rabbitfish,6.1760680828,118.0613181216
+2024-05-07,Siganus argenteus,Forktail Rabbitfish,6.1760734161,118.0613154394
+2024-05-07,Actinopterygii,Ray-finned Fishes,6.1760720828,118.0613194398
+2024-05-07,Chaetodon adiergastos,Panda Butterflyfish,6.1760507496,118.0613180987
+2024-05-07,Abudefduf lorenzi,Black-tail Sergeant,6.1760627495,118.0613123026
+2024-05-07,Lutjanus decussatus,Checkered Snapper,6.1760497305,118.0613099388
+2024-05-07,Gerres,Silverbiddies,6.1760590637,118.0613059154
+2024-05-07,Actinopterygii,Ray-finned Fishes,6.1760737303,118.0613287142
+2024-05-07,Parupeneus indicus,Yellowspot Goatfish,6.1760558687,118.0612900946
+2024-05-07,Halichoeres scapularis,Zigzag Wrasse,6.1760550638,118.0613139621
+2024-05-07,Lutjanus fulviflamma,Blackspot Snapper,6.1760778302,118.0613327375
+2024-05-07,Nectamia,,12.5384401536,122.2825141902
+2024-05-07,Hippocampus pontohi,Weedy Pygmy Seahorse,12.5454039314,122.2068074643
+2024-05-06,Gobioidei,Gobies and allies,7.3923992386,125.8170876279
+2024-05-06,Amphiprion perideraion,Pink Skunk Anemonefish,9.199078488,123.2363244519
+2024-05-05,Gobioidei,Gobies and allies,12.4019317242,122.2875244368
+2024-05-05,Antennatus tuberosus,Tuberculate Anglerfish,12.5945015298,122.3185232805
+2024-05-05,Clupea harengus,Atlantic Herring,13.686,120.8943333333
+2024-05-05,Scorpaenidae,Scorpionfishes,13.6735580881,120.8419247976
+2024-05-05,Inimicus didactylus,Devil Stinger,13.6901852283,120.8413145913
+2024-05-05,Scorpaenopsis,Scorpionfishes,13.6901852283,120.8413145913
+2024-05-05,Scorpaenopsis,Scorpionfishes,13.6999700729,120.8292207102
+2024-05-05,Bryaninops yongei,Wire Coral Goby,13.7003055561,120.8291354637
+2024-05-05,Paragobiodon xanthosoma,Emerald Coralgoby,12.4207418846,122.2392428476
+2024-05-05,Dascyllus trimaculatus,Three-spot Dascyllus,12.5919360969,122.3508729846
+2024-05-04,Plagiotremus rhinorhynchos,Bluestriped Fangblenny,12.40836618,122.2342528779
+2024-05-04,Syngnathiformes,Pipefishes and Allies,12.4396647267,122.3414486237
+2024-05-04,Corythoichthys,,12.5990905604,122.3601881563
+2024-05-04,Syngnathiformes,Pipefishes and Allies,12.5428904497,122.2008880094
+2024-05-04,Carangidae,Jacks,12.5685535411,122.2224503662
+2024-05-04,Actinopterygii,Ray-finned Fishes,12.4040087915,122.2914504786
+2024-05-04,Actinopterygii,Ray-finned Fishes,12.4200951694,122.2557679952
+2024-05-04,Pholidichthys leucotaenia,Convict Blenny,12.5143447282,122.3768480459
+2024-05-04,Pteroinae,Lionfishes,12.547676067,122.270765435
+2024-05-04,Abudefduf sexfasciatus,Scissortail Sergeant,13.22479529,123.86394002
+2024-05-04,Xiphophorus variatus,Variable Platyfish,13.7680316752,120.9427765757
+2024-05-04,Tylosurus,,14.8114957799,120.2965806425
+2024-05-04,Toxotes jaculatrix,Banded Archerfish,14.8114957799,120.2965806425
+2024-05-04,Periophthalmodon schlosseri,Giant Mudskipper,5.9353074984,117.8085016795
+2024-05-04,Scolopsis ciliata,Whitestreak Monocle Bream,13.2371880316,123.7978834659
+2024-05-04,Lutjanus fulviflamma,Blackspot Snapper,13.2370636854,123.7974284962
+2024-05-04,Halichoeres miniatus,Cheek-ring Wrasse,13.23708791,123.79746406
+2024-05-04,Pomacentrus tripunctatus,Threespot Damsel,13.2058575,123.7554389
+2024-05-03,Dactyloptena orientalis,Oriental Flying Gurnard,13.7595609029,120.9241104143
+2024-05-03,Solenostomus paegnius,Roughsnout Ghostpipefish,13.7595609029,120.9241104143
+2024-05-03,Chelonodon kappa,Milkspot Toadfish,13.1308506,123.7682933
+2024-05-03,Cheilodipterus artus,Wolf Cardinalfish,13.1308513,123.7682975
+2024-05-03,Liachirus melanospilos,Darkspotted Sole,13.7595609029,120.9241104143
+2024-05-03,Plesiops,,13.1392556,123.7606768
+2024-05-03,Priolepis cincta,Girdled Reefgoby,13.75549318,120.9076453638
+2024-05-03,Antennarius maculatus,Warty Anglerfish,13.75549318,120.9076453638
+2024-05-03,Chaetodon rafflesii,Lattice Butterflyfish,13.6908955051,120.8889675033
+2024-05-03,Chaetodon baronessa,Eastern Triangle Butterflyfish,13.6908459254,120.8890260339
+2024-05-03,Lutjanus decussatus,Checkered Snapper,13.6908459254,120.8890260339
+2024-05-03,Balistapus undulatus,Orangestripe Triggerfish,13.6908955051,120.8889675033
+2024-05-03,Cantherhines fronticinctus,Spectacled Filefish,13.6908459254,120.8890260339
+2024-05-03,Caranx sexfasciatus,Bigeye Trevally,13.6908239062,120.8890617036
+2024-05-03,Bryaninops natans,Purple-eye Goby,13.726589672,120.8916975762
+2024-05-03,Hippocampus pontohi,Weedy Pygmy Seahorse,12.4843829898,122.3765182556
+2024-05-03,Cyprinus rubrofuscus,Amur Carp,13.8811474903,120.9247125685
+2024-05-02,Syngnathiformes,Pipefishes and Allies,12.5534588863,122.2713895501
+2024-05-02,Muraenidae,Morays,12.4933345519,122.3004825378
+2024-05-02,Actinopterygii,Ray-finned Fishes,12.5602862081,122.3757112463
+2024-05-02,Alectis ciliaris,African Pompano,12.5144128751,122.3531048071
+2024-05-02,Aluterus monoceros,Unicorn Leatherjacket,12.5694649389,122.211820409
+2024-05-02,Ostracion solorense,Striped Boxfish,12.4763286412,122.250103461
+2024-05-02,Belonidae,Needlefishes,12.5209772719,122.255561503
+2024-05-02,Carassius auratus,Goldfish,13.7451333333,120.9350166667
+2024-05-02,Monacanthidae,Filefishes,12.5982188003,122.3713289335
+2024-05-02,Hippocampus denise,Denise's Pygmy Seahorse,12.436122872,122.2042145216
+2024-05-02,Hippocampus bargibanti,Pygmy Seahorse,12.5482404589,122.2380172755
+2024-05-02,Bulbonaricus brauni,Braun's Pughead Pipefish,12.4354884067,122.2090213695
+2024-05-02,Hippocampus pontohi,Weedy Pygmy Seahorse,12.4659352236,122.2784710847
+2024-05-02,Hippocampus pontohi,Weedy Pygmy Seahorse,12.4119515374,122.2988062997
+2024-05-02,Siokunichthys bentuviai,,12.499052573,122.3036727209
+2024-05-02,Paragobiodon xanthosoma,Emerald Coralgoby,12.5461277396,122.3061896283
+2024-05-02,Plectorhinchus chaetodonoides,Harlequin Sweetlips,13.6894902986,120.9032402201
+2024-05-02,Arothron nigropunctatus,Blackspotted Puffer,11.9979573547,119.933237398
+2024-05-02,Rhinomuraena quaesita,Ribbon Eel,13.70624947,120.9229182946
+2024-05-02,Antennariidae,Frogfishes,13.70624947,120.9229182946
+2024-05-02,Amphiprion,Anemonefishes,13.7256257455,120.9204261813
+2024-05-02,Hippocampus denise,Denise's Pygmy Seahorse,12.44152057,122.2060868529
+2024-05-01,Siokunichthys nigrolineatus,Mushroom-coral pipefish,13.6708575691,120.8537018297
+2024-05-01,Bulbonaricus brauni,Braun's Pughead Pipefish,12.5317667679,122.2175303495
+2024-05-01,Boleophthalmus boddarti,Boddart's Blue-spotted Mudskipper,5.78007745,117.35448845
+2024-05-01,Caranx melampygus,Bluefin Trevally,8.8617787053,119.9507136698
+2024-05-01,Zanclus cornutus,Moorish Idol,8.8620332803,119.9502525231
+2024-05-01,Aprion virescens,Green Jobfish,8.8637975334,119.9516483327
+2024-05-01,Inimicus,Stingfishes,9.1904116442,123.2689919107
+2024-05-01,Monotaxis grandoculis,Humpnose Bigeye Bream,8.8660976353,119.9503932821
+2024-05-01,Pterocaesio tile,Neon Fusilier,8.8642872585,119.9523625476
+2024-05-01,Balistoides conspicillum,Clown Triggerfish,8.8626171853,119.9508005694
+2024-05-01,Caranx melampygus,Bluefin Trevally,8.8626758892,119.9493246435
+2024-05-01,Chaetodon ulietensis,Pacific Double-saddle Butterflyfish,8.8620136411,119.9508473841
+2024-05-01,Caesio teres,Blue-and-yellow Fusilier,8.8625563704,119.9497240524
+2024-05-01,Caranx ignobilis,Giant Trevally,8.8641286742,119.9503024653
+2024-05-01,Canthidermis maculata,Spotted Oceanic Triggerfish,8.8626743512,119.9520170187
+2024-05-01,Betta splendens,Siamese Fighting Fish,13.7989637313,121.0706106573
+2024-05-01,Caranx melampygus,Bluefin Trevally,8.8668575931,119.9499288204
+2024-05-01,Caranx melampygus,Bluefin Trevally,8.8658263158,119.9514556025
+2024-05-01,Acanthurus japonicus,Japan Surgeonfish,8.8649836389,119.9508292891
+2024-05-01,Acanthurus lineatus,Striped Surgeonfish,8.8643726947,119.9515540087
+2024-05-01,Lethrinus erythracanthus,Orangespotted Emperor,8.8708655455,119.9497589444
+2024-05-01,Caranx melampygus,Bluefin Trevally,8.8609065419,119.9496396584
+2024-05-01,Gymnosarda unicolor,Dogtooth Tuna,8.875848079,119.9497993272
+2024-05-01,Sphyraena qenie,Blackfin Barracuda,8.8638562024,119.9499857297
+2024-05-01,Arothron nigropunctatus,Blackspotted Puffer,11.3358462222,124.1156360507

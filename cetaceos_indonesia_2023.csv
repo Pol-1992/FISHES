@@ -1,0 +1,115 @@
+date,scientific_name,common_name,latitude,longitude
+2023-12-28,Stenella longirostris,Spinner Dolphin,1.6185083,124.7670939
+2023-12-26,Delphinidae,Oceanic Dolphins,-0.4332181997,130.7212385997
+2023-12-04,Grampus griseus,Risso's Dolphin,-8.469587351,125.8435556665
+2023-12-04,Stenella attenuata,Pantropical Spotted Dolphin,-8.5046097659,125.7501480728
+2023-12-03,Balaenoptera musculus brevicauda,Pygmy Blue Whale,-8.4517670253,125.7279039134
+2023-12-03,Stenella attenuata,Pantropical Spotted Dolphin,-8.4889922493,125.809337385
+2023-12-03,Lagenodelphis hosei,Fraser's Dolphin,-8.4850056983,125.813357681
+2023-12-02,Balaenoptera musculus brevicauda,Pygmy Blue Whale,-8.412076243,125.5406267799
+2023-12-02,Balaenoptera musculus brevicauda,Pygmy Blue Whale,-8.328266011,125.6283033429
+2023-12-01,Balaenoptera musculus brevicauda,Pygmy Blue Whale,-8.5157357835,125.9481704031
+2023-12-01,Grampus griseus,Risso's Dolphin,-8.5243650223,125.6932047755
+2023-11-30,Stenella longirostris,Spinner Dolphin,-8.5249416822,125.5275651792
+2023-11-30,Stenella longirostris,Spinner Dolphin,-8.5277898288,125.5195714302
+2023-11-30,Stenella longirostris,Spinner Dolphin,-8.5294663292,125.5146138248
+2023-11-29,Balaenoptera musculus brevicauda,Pygmy Blue Whale,-8.551350739,125.9415649672
+2023-11-29,Globicephala macrorhynchus,Short-finned Pilot Whale,-8.4781967645,125.7653743029
+2023-11-25,Kogia sima,Dwarf Sperm Whale,-5.2365289277,123.462077168
+2023-11-19,Grampus griseus,Risso's Dolphin,-0.6823645983,122.0915946642
+2023-11-19,Lagenodelphis hosei,Fraser's Dolphin,-0.6823645983,122.0915946642
+2023-11-19,Globicephalinae,Pilot Whales and allies,-0.6823645983,122.0915946642
+2023-11-19,Grampus griseus,Risso's Dolphin,-0.6823645983,122.0915946642
+2023-11-19,Grampus griseus,Risso's Dolphin,-0.7131962647,122.0729184954
+2023-11-19,Lagenodelphis hosei,Fraser's Dolphin,-0.7760654404,122.1114388161
+2023-11-19,Grampus griseus,Risso's Dolphin,-0.6823645983,122.0915946642
+2023-11-19,Grampus griseus,Risso's Dolphin,-0.6823645983,122.0915946642
+2023-11-19,Grampus griseus,Risso's Dolphin,-0.6823645983,122.0915946642
+2023-11-19,Grampus griseus,Risso's Dolphin,-0.6823645983,122.0915946642
+2023-11-19,Feresa attenuata,Pygmy Killer Whale,-0.6823645983,122.0915946642
+2023-11-19,Grampus griseus,Risso's Dolphin,-0.6823645983,122.0915946642
+2023-11-19,Globicephalinae,Pilot Whales and allies,-0.6823645983,122.0915946642
+2023-11-19,Grampus griseus,Risso's Dolphin,-0.6823645983,122.0915946642
+2023-11-19,Grampus griseus,Risso's Dolphin,-0.6823645983,122.0915946642
+2023-11-19,Globicephalinae,Pilot Whales and allies,-0.7531625931,122.1025488032
+2023-11-18,Stenella longirostris,Spinner Dolphin,-8.5129329015,125.6014678627
+2023-11-18,Feresa attenuata,Pygmy Killer Whale,-4.4864565408,129.9270197292
+2023-11-18,Stenella longirostris,Spinner Dolphin,-7.1958144985,128.8321127606
+2023-11-18,Peponocephala electra,Melon-headed Whale,-4.4872264303,129.9161475255
+2023-11-16,Physeter macrocephalus,Sperm Whale,-8.0416986959,127.5787518881
+2023-11-16,Balaenoptera musculus brevicauda,Pygmy Blue Whale,-7.979850261,127.2797951973
+2023-11-16,Globicephala macrorhynchus,Short-finned Pilot Whale,-1.2792933333,128.5343933333
+2023-11-14,Physeter macrocephalus,Sperm Whale,-8.226281211,125.5716864042
+2023-11-14,Physeter macrocephalus,Sperm Whale,-8.4888313754,125.569593984
+2023-11-13,Stenella attenuata,Pantropical Spotted Dolphin,-7.9756872206,125.2510849262
+2023-11-13,Stenella longirostris,Spinner Dolphin,-0.3033690168,121.8494802386
+2023-11-13,Balaenoptera musculus brevicauda,Pygmy Blue Whale,-8.1321793305,124.5819661347
+2023-11-13,Balaenoptera musculus brevicauda,Pygmy Blue Whale,-8.57677016,125.5950221628
+2023-11-11,Balaenoptera musculus brevicauda,Pygmy Blue Whale,-8.2828864294,124.1074136888
+2023-11-11,Tursiops aduncus,Indo-Pacific Bottlenose Dolphin,-1.5917624958,123.9756365898
+2023-11-10,Tursiops aduncus,Indo-Pacific Bottlenose Dolphin,-2.8045166667,128.4323733333
+2023-11-10,Globicephala macrorhynchus,Short-finned Pilot Whale,-7.4688053532,122.0423623979
+2023-11-10,Tursiops aduncus,Indo-Pacific Bottlenose Dolphin,-7.4745922836,122.0326193951
+2023-11-09,Tursiops truncatus,Common Bottlenose Dolphin,-8.1118217134,117.6439216733
+2023-11-08,Tursiops aduncus,Indo-Pacific Bottlenose Dolphin,-8.7335466667,115.4497916667
+2023-11-08,Tursiops truncatus,Common Bottlenose Dolphin,-0.2495517061,122.0587629865
+2023-11-06,Balaenoptera musculus,Blue Whale,-4.4653219669,129.6312705128
+2023-10-25,Delphinidae,Oceanic Dolphins,-8.2746610471,125.4897083259
+2023-10-25,Globicephala macrorhynchus,Short-finned Pilot Whale,-8.2760741378,125.4891799824
+2023-10-25,Lagenodelphis hosei,Fraser's Dolphin,-8.2760609665,125.4891799743
+2023-10-25,Kogia sima,Dwarf Sperm Whale,-8.22974542,125.6258337587
+2023-10-25,Stenella attenuata,Pantropical Spotted Dolphin,-8.217788186,125.6282229412
+2023-10-22,Stenella longirostris,Spinner Dolphin,-3.75012707,128.098645905
+2023-10-20,Lagenodelphis hosei,Fraser's Dolphin,-8.3107147537,125.5214526419
+2023-10-20,Grampus griseus,Risso's Dolphin,-7.9986505326,130.5253349603
+2023-10-20,Globicephala macrorhynchus,Short-finned Pilot Whale,-8.3093861221,125.5266885917
+2023-10-20,Kogia sima,Dwarf Sperm Whale,-7.9588383417,130.4467425822
+2023-10-17,Balaenoptera musculus,Blue Whale,-8.2136421922,124.2954059458
+2023-10-17,Delphinidae,Oceanic Dolphins,-1.16991,129.80135
+2023-10-17,Delphininae,Long-nosed Dolphins,-1.16991,129.80135
+2023-10-16,Orcaella brevirostris,Irrawaddy Dolphin,-0.7431526054,109.516577676
+2023-10-16,Orcaella brevirostris,Irrawaddy Dolphin,1.7873657355,110.2389371748
+2023-10-14,Feresa attenuata,Pygmy Killer Whale,-8.6415302651,124.270555141
+2023-10-11,Balaenoptera musculus,Blue Whale,-8.1952732399,123.5272313037
+2023-10-10,Kogia breviceps,Pygmy Sperm Whale,-7.3700710814,121.9012350261
+2023-10-07,Delphininae,Long-nosed Dolphins,-8.5514373162,119.4905444285
+2023-10-05,Balaenoptera musculus brevicauda,Pygmy Blue Whale,-7.2231456724,128.5675574263
+2023-09-29,Kogia breviceps,Pygmy Sperm Whale,-0.6342783333,130.9764866667
+2023-09-29,Delphinidae,Oceanic Dolphins,-0.8015385884,131.169152858
+2023-09-28,Kogia breviceps,Pygmy Sperm Whale,-0.5855416938,131.0601583838
+2023-09-04,Stenella longirostris,Spinner Dolphin,-8.4686693431,119.5886310067
+2023-08-28,Orcaella brevirostris,Irrawaddy Dolphin,1.7276711656,110.3733142125
+2023-08-25,Stenella longirostris,Spinner Dolphin,-8.1598198161,115.0143419937
+2023-08-25,Stenella longirostris,Spinner Dolphin,-8.1584536587,115.0208635174
+2023-08-20,Tursiops aduncus,Indo-Pacific Bottlenose Dolphin,-8.5004192634,119.7111946343
+2023-08-19,Megaptera novaeangliae,Humpback Whale,-10.4162749322,105.6747756713
+2023-08-18,Tursiops aduncus,Indo-Pacific Bottlenose Dolphin,-8.7381350629,115.4496192662
+2023-08-14,Stenella longirostris,Spinner Dolphin,-8.1530565316,114.9902349338
+2023-08-12,Stenella longirostris,Spinner Dolphin,-8.4086849025,117.7596271411
+2023-08-04,Stenella longirostris,Spinner Dolphin,-8.3975575,119.8094883
+2023-08-01,Tursiops truncatus,Common Bottlenose Dolphin,-8.4097634982,123.2240047306
+2023-07-25,Stenella longirostris,Spinner Dolphin,-1.1785349517,122.8979208895
+2023-07-24,Tursiops aduncus,Indo-Pacific Bottlenose Dolphin,-8.6490275004,119.3687444483
+2023-07-13,Tursiops,Bottlenose Dolphins,-10.1689156268,124.2970465876
+2023-07-10,Sousa sahulensis,Australian Humpback Dolphin,-0.5475696361,130.7598950116
+2023-07-10,Physeter macrocephalus,Sperm Whale,-4.7063333366,129.8738826947
+2023-07-09,Orcaella brevirostris,Irrawaddy Dolphin,1.673857589,110.3287608671
+2023-07-05,Delphinidae,Oceanic Dolphins,0.21415,126.63805
+2023-07-05,Delphinidae,Oceanic Dolphins,0.21415,126.63805
+2023-06-17,Stenella longirostris,Spinner Dolphin,-10.414545,105.674605
+2023-06-15,Stenella longirostris,Spinner Dolphin,-8.1584963135,115.0187649083
+2023-06-08,Stenella longirostris,Spinner Dolphin,-8.1576150948,115.0173828517
+2023-06-08,Stenella longirostris,Spinner Dolphin,-8.2602269896,124.5171331336
+2023-06-05,Orcinus orca,Orca,1.4043484948,103.7930228189
+2023-06-01,Balaenoptera musculus,Blue Whale,-8.3129839646,125.7714453325
+2023-05-30,Peponocephala electra,Melon-headed Whale,-8.3353333333,125.630805
+2023-05-21,Sousa chinensis,Indo-Pacific Humpback Dolphin,5.4157725416,100.2396790852
+2023-05-10,Orcaella brevirostris,Irrawaddy Dolphin,1.6586925455,110.3312538981
+2023-04-27,Peponocephala electra,Melon-headed Whale,-4.5207409,129.8836248
+2023-04-17,Stenella longirostris,Spinner Dolphin,-8.153255664,115.0211095065
+2023-04-15,Stenella attenuata,Pantropical Spotted Dolphin,-8.4625619553,115.8781669515
+2023-04-09,Tursiops aduncus,Indo-Pacific Bottlenose Dolphin,-8.3344901049,115.6551529581
+2023-03-21,Orcaella brevirostris,Irrawaddy Dolphin,-1.1822619426,116.6691400582
+2023-03-16,Tursiops aduncus,Indo-Pacific Bottlenose Dolphin,-0.6805447171,130.74691429
+2023-01-28,Orcaella brevirostris,Irrawaddy Dolphin,-2.7184235637,111.7171266654
+2023-01-18,Tursiops,Bottlenose Dolphins,-3.8006791962,133.9052554391

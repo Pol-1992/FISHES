@@ -1,0 +1,528 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 20251.25.0520.1026                               -->
+<workbook original-version='18.1' source-build='2025.1.2 (20251.25.0520.1026)' source-platform='win' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <document-format-change-manifest>
+    <AnimationOnByDefault />
+    <MapboxVectorStylesAndLayers />
+    <MarkAnimation />
+    <ObjectModelEncapsulateLegacy />
+    <ObjectModelExtractV2 />
+    <ObjectModelTableType />
+    <SchemaViewerObjectModel />
+    <SheetIdentifierTracking />
+    <_.fcp.VConnDownstreamExtractsWithWarnings.true...VConnDownstreamExtractsWithWarnings />
+    <WindowsPersistSimpleIdentifiers />
+  </document-format-change-manifest>
+  <preferences>
+    <preference name='ui.encoding.shelf.height' value='24' />
+    <preference name='ui.shelf.height' value='26' />
+  </preferences>
+  <datasources>
+    <datasource hasconnection='false' inline='true' name='Parameters' version='18.1'>
+      <aliases enabled='yes' />
+      <column caption='Shark' datatype='string' name='[Parámetro 1]' param-domain-type='any' role='measure' type='nominal' value='&quot;&quot;'>
+        <calculation class='tableau' formula='&quot;&quot;' />
+      </column>
+    </datasource>
+    <datasource caption='marine_biodiversity_final' inline='true' name='federated.0jdckkq16nurjk15i4hrg12d1dg5' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='marine_biodiversity_final' name='textscan.150mfnh016noxf1abz06b0pfarix'>
+            <connection class='textscan' directory='C:/Users/polur/Desktop/IRONHACK/PROYECTOS/PROYECTO FINAL/FISHES' filename='marine_biodiversity_final.csv' password='' server='' />
+          </named-connection>
+        </named-connections>
+        <relation connection='textscan.150mfnh016noxf1abz06b0pfarix' name='marine_biodiversity_final.csv' table='[marine_biodiversity_final#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='es_ES'>
+            <column datatype='date' name='date' ordinal='0' />
+            <column datatype='string' name='scientific_name' ordinal='1' />
+            <column datatype='string' name='common_name' ordinal='2' />
+            <column datatype='string' name='latitude' ordinal='3' />
+            <column datatype='string' name='longitude' ordinal='4' />
+            <column datatype='string' name='country' ordinal='5' />
+            <column datatype='integer' name='fish_id' ordinal='6' />
+            <column datatype='string' name='image' ordinal='7' />
+            <column datatype='integer' name='Year' ordinal='8' />
+            <column datatype='integer' name='Month' ordinal='9' />
+          </columns>
+        </relation>
+        <metadata-records>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[marine_biodiversity_final.csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;es&quot;</attribute>
+              <attribute datatype='string' name='currency'>&quot;€&quot;</attribute>
+              <attribute datatype='string' name='decimal-char'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;es_ES&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+              <attribute datatype='string' name='thousands-char'>&quot;.&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>date</remote-name>
+            <remote-type>133</remote-type>
+            <local-name>[date]</local-name>
+            <parent-name>[marine_biodiversity_final.csv]</parent-name>
+            <remote-alias>date</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>date</local-type>
+            <aggregation>Year</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[marine_biodiversity_final.csv_02D7A64A57FD4509BC64833058E1CEC4]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>scientific_name</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[scientific_name]</local-name>
+            <parent-name>[marine_biodiversity_final.csv]</parent-name>
+            <remote-alias>scientific_name</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LES_RES' />
+            <object-id>[marine_biodiversity_final.csv_02D7A64A57FD4509BC64833058E1CEC4]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>common_name</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[common_name]</local-name>
+            <parent-name>[marine_biodiversity_final.csv]</parent-name>
+            <remote-alias>common_name</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LES_RES' />
+            <object-id>[marine_biodiversity_final.csv_02D7A64A57FD4509BC64833058E1CEC4]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>latitude</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[latitude]</local-name>
+            <parent-name>[marine_biodiversity_final.csv]</parent-name>
+            <remote-alias>latitude</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LES_RES' />
+            <object-id>[marine_biodiversity_final.csv_02D7A64A57FD4509BC64833058E1CEC4]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>longitude</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[longitude]</local-name>
+            <parent-name>[marine_biodiversity_final.csv]</parent-name>
+            <remote-alias>longitude</remote-alias>
+            <ordinal>4</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LES_RES' />
+            <object-id>[marine_biodiversity_final.csv_02D7A64A57FD4509BC64833058E1CEC4]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>country</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[country]</local-name>
+            <parent-name>[marine_biodiversity_final.csv]</parent-name>
+            <remote-alias>country</remote-alias>
+            <ordinal>5</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LES_RES' />
+            <object-id>[marine_biodiversity_final.csv_02D7A64A57FD4509BC64833058E1CEC4]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>fish_id</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[fish_id]</local-name>
+            <parent-name>[marine_biodiversity_final.csv]</parent-name>
+            <remote-alias>fish_id</remote-alias>
+            <ordinal>6</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[marine_biodiversity_final.csv_02D7A64A57FD4509BC64833058E1CEC4]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>image</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[image]</local-name>
+            <parent-name>[marine_biodiversity_final.csv]</parent-name>
+            <remote-alias>image</remote-alias>
+            <ordinal>7</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LES_RES' />
+            <object-id>[marine_biodiversity_final.csv_02D7A64A57FD4509BC64833058E1CEC4]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Year</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Year]</local-name>
+            <parent-name>[marine_biodiversity_final.csv]</parent-name>
+            <remote-alias>Year</remote-alias>
+            <ordinal>8</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[marine_biodiversity_final.csv_02D7A64A57FD4509BC64833058E1CEC4]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Month</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Month]</local-name>
+            <parent-name>[marine_biodiversity_final.csv]</parent-name>
+            <remote-alias>Month</remote-alias>
+            <ordinal>9</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[marine_biodiversity_final.csv_02D7A64A57FD4509BC64833058E1CEC4]</object-id>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column aggregation='Avg' caption='Lat (clean)' datatype='real' name='[Calculation_1235393694587342848]' role='measure' semantic-role='[Geographical].[Latitude]' type='quantitative'>
+        <calculation class='tableau' formula='FLOAT(TRIM(REPLACE([latitude], &quot;,&quot;, &quot;.&quot;)))' />
+      </column>
+      <column aggregation='Avg' caption='Long (clean)' datatype='real' name='[Calculation_1235393694587441153]' role='measure' semantic-role='[Geographical].[Longitude]' type='quantitative'>
+        <calculation class='tableau' formula='FLOAT(TRIM(REPLACE([longitude], &quot;,&quot;, &quot;.&quot;)))' />
+      </column>
+      <column caption='Species Filter' datatype='boolean' name='[Calculation_1235393694592651268]' role='dimension' type='nominal'>
+        <calculation class='tableau' formula='CONTAINS(LOWER([common_name]), LOWER([Parameters].[Parámetro 1]))' />
+      </column>
+      <column datatype='integer' name='[Month]' role='dimension' type='quantitative' />
+      <column datatype='integer' name='[Year]' role='dimension' type='quantitative' />
+      <column caption='marine_biodiversity_final.csv' datatype='table' name='[__tableau_internal_object_id__].[marine_biodiversity_final.csv_02D7A64A57FD4509BC64833058E1CEC4]' role='measure' type='quantitative' />
+      <column caption='Common Name' datatype='string' name='[common_name]' role='dimension' type='nominal' />
+      <column caption='Country' datatype='string' name='[country]' role='dimension' semantic-role='[Country].[ISO3166_2]' type='nominal' />
+      <column caption='Date' datatype='date' name='[date]' role='dimension' type='ordinal' />
+      <column caption='Fish Id' datatype='integer' hidden='true' name='[fish_id]' role='dimension' type='ordinal' />
+      <column caption='Image' datatype='string' name='[image]' role='dimension' type='nominal' />
+      <column caption='Latitude' datatype='string' name='[latitude]' role='dimension' type='nominal' />
+      <column caption='Longitude' datatype='string' name='[longitude]' role='dimension' type='nominal' />
+      <column caption='Scientific Name' datatype='string' hidden='true' name='[scientific_name]' role='dimension' type='nominal' />
+      <column-instance column='[country]' derivation='None' name='[none:country:nk]' pivot='key' type='nominal' />
+      <extract _.fcp.VConnDownstreamExtractsWithWarnings.true...user-specific='false' count='-1' enabled='true' object-id='' units='records'>
+        <connection access_mode='readonly' author-locale='es_ES' class='hyper' dbname='C:/Users/polur/AppData/Local/Temp/TableauTemp/#TableauTemp_1psqirf1s7b1ci17lvuys02aav8u.hyper' default-settings='hyper' schema='Extract' sslmode='' tablename='Extract' update-time='06/17/2025 10:06:39 AM' username='tableau_internal_user'>
+          <relation name='Extract' table='[Extract].[Extract]' type='table' />
+          <metadata-records>
+            <metadata-record class='column'>
+              <remote-name>date</remote-name>
+              <remote-type>133</remote-type>
+              <local-name>[date]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>date</remote-alias>
+              <ordinal>0</ordinal>
+              <family>marine_biodiversity_final.csv</family>
+              <local-type>date</local-type>
+              <aggregation>Year</aggregation>
+              <approx-count>10890</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[marine_biodiversity_final.csv_02D7A64A57FD4509BC64833058E1CEC4]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>common_name</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[common_name]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>common_name</remote-alias>
+              <ordinal>1</ordinal>
+              <family>marine_biodiversity_final.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>7615</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LES_RES' />
+              <object-id>[marine_biodiversity_final.csv_02D7A64A57FD4509BC64833058E1CEC4]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>latitude</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[latitude]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>latitude</remote-alias>
+              <ordinal>2</ordinal>
+              <family>marine_biodiversity_final.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>46437</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LES_RES' />
+              <object-id>[marine_biodiversity_final.csv_02D7A64A57FD4509BC64833058E1CEC4]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>longitude</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[longitude]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>longitude</remote-alias>
+              <ordinal>3</ordinal>
+              <family>marine_biodiversity_final.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>47337</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LES_RES' />
+              <object-id>[marine_biodiversity_final.csv_02D7A64A57FD4509BC64833058E1CEC4]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>country</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[country]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>country</remote-alias>
+              <ordinal>4</ordinal>
+              <family>marine_biodiversity_final.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>3</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LES_RES' />
+              <object-id>[marine_biodiversity_final.csv_02D7A64A57FD4509BC64833058E1CEC4]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>image</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[image]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>image</remote-alias>
+              <ordinal>5</ordinal>
+              <family>marine_biodiversity_final.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>7655</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LES_RES' />
+              <object-id>[marine_biodiversity_final.csv_02D7A64A57FD4509BC64833058E1CEC4]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Year</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[Year]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Year</remote-alias>
+              <ordinal>6</ordinal>
+              <family>marine_biodiversity_final.csv</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>11</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[marine_biodiversity_final.csv_02D7A64A57FD4509BC64833058E1CEC4]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Month</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[Month]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Month</remote-alias>
+              <ordinal>7</ordinal>
+              <family>marine_biodiversity_final.csv</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>12</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[marine_biodiversity_final.csv_02D7A64A57FD4509BC64833058E1CEC4]</object-id>
+            </metadata-record>
+          </metadata-records>
+        </connection>
+      </extract>
+      <layout dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='true' />
+      <style>
+        <style-rule element='mark'>
+          <encoding attr='color' field='[none:country:nk]' type='palette'>
+            <map to='#4e79a7'>
+              <bucket>&quot;Indonesia&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;Thailand&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;Philippines&quot;</bucket>
+            </map>
+          </encoding>
+        </style-rule>
+      </style>
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;España&quot;' />
+      </semantic-values>
+      <date-options start-of-week='monday' />
+      <datasource-dependencies datasource='Parameters'>
+        <column caption='Shark' datatype='string' name='[Parámetro 1]' param-domain-type='any' role='measure' type='nominal' value='&quot;&quot;'>
+          <calculation class='tableau' formula='&quot;&quot;' />
+        </column>
+      </datasource-dependencies>
+      <object-graph>
+        <objects>
+          <object caption='marine_biodiversity_final.csv' id='marine_biodiversity_final.csv_02D7A64A57FD4509BC64833058E1CEC4'>
+            <properties context=''>
+              <relation connection='textscan.150mfnh016noxf1abz06b0pfarix' name='marine_biodiversity_final.csv' table='[marine_biodiversity_final#csv]' type='table'>
+                <columns character-set='UTF-8' header='yes' locale='es_ES'>
+                  <column datatype='date' name='date' ordinal='0' />
+                  <column datatype='string' name='scientific_name' ordinal='1' />
+                  <column datatype='string' name='common_name' ordinal='2' />
+                  <column datatype='string' name='latitude' ordinal='3' />
+                  <column datatype='string' name='longitude' ordinal='4' />
+                  <column datatype='string' name='country' ordinal='5' />
+                  <column datatype='integer' name='fish_id' ordinal='6' />
+                  <column datatype='string' name='image' ordinal='7' />
+                  <column datatype='integer' name='Year' ordinal='8' />
+                  <column datatype='integer' name='Month' ordinal='9' />
+                </columns>
+              </relation>
+            </properties>
+            <properties context='extract'>
+              <relation name='Extract' table='[Extract].[Extract]' type='table' />
+            </properties>
+          </object>
+        </objects>
+      </object-graph>
+    </datasource>
+  </datasources>
+  <mapsources>
+    <mapsource name='Tableau' />
+  </mapsources>
+  <worksheets>
+    <worksheet name='Hoja 1'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='marine_biodiversity_final' name='federated.0jdckkq16nurjk15i4hrg12d1dg5' />
+            <datasource caption='Parámetros' name='Parameters' />
+          </datasources>
+          <mapsources>
+            <mapsource name='Tableau' />
+          </mapsources>
+          <datasource-dependencies datasource='Parameters'>
+            <column caption='Shark' datatype='string' name='[Parámetro 1]' param-domain-type='any' role='measure' type='nominal' value='&quot;&quot;'>
+              <calculation class='tableau' formula='&quot;&quot;' />
+            </column>
+          </datasource-dependencies>
+          <datasource-dependencies datasource='federated.0jdckkq16nurjk15i4hrg12d1dg5'>
+            <column aggregation='Avg' caption='Lat (clean)' datatype='real' name='[Calculation_1235393694587342848]' role='measure' semantic-role='[Geographical].[Latitude]' type='quantitative'>
+              <calculation class='tableau' formula='FLOAT(TRIM(REPLACE([latitude], &quot;,&quot;, &quot;.&quot;)))' />
+            </column>
+            <column aggregation='Avg' caption='Long (clean)' datatype='real' name='[Calculation_1235393694587441153]' role='measure' semantic-role='[Geographical].[Longitude]' type='quantitative'>
+              <calculation class='tableau' formula='FLOAT(TRIM(REPLACE([longitude], &quot;,&quot;, &quot;.&quot;)))' />
+            </column>
+            <column caption='Species Filter' datatype='boolean' name='[Calculation_1235393694592651268]' role='dimension' type='nominal'>
+              <calculation class='tableau' formula='CONTAINS(LOWER([common_name]), LOWER([Parameters].[Parámetro 1]))' />
+            </column>
+            <column datatype='integer' name='[Month]' role='dimension' type='quantitative' />
+            <column datatype='integer' name='[Year]' role='dimension' type='quantitative' />
+            <column caption='Common Name' datatype='string' name='[common_name]' role='dimension' type='nominal' />
+            <column caption='Country' datatype='string' name='[country]' role='dimension' semantic-role='[Country].[ISO3166_2]' type='nominal' />
+            <column caption='Latitude' datatype='string' name='[latitude]' role='dimension' type='nominal' />
+            <column caption='Longitude' datatype='string' name='[longitude]' role='dimension' type='nominal' />
+            <column-instance column='[Calculation_1235393694587342848]' derivation='None' name='[none:Calculation_1235393694587342848:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Calculation_1235393694587441153]' derivation='None' name='[none:Calculation_1235393694587441153:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Calculation_1235393694592651268]' derivation='None' name='[none:Calculation_1235393694592651268:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Month]' derivation='None' name='[none:Month:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Year]' derivation='None' name='[none:Year:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[country]' derivation='None' name='[none:country:nk]' pivot='key' type='nominal' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.0jdckkq16nurjk15i4hrg12d1dg5].[none:Calculation_1235393694592651268:nk]'>
+            <groupfilter function='member' level='[none:Calculation_1235393694592651268:nk]' member='true' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
+          </filter>
+          <filter class='quantitative' column='[federated.0jdckkq16nurjk15i4hrg12d1dg5].[none:Month:qk]' included-values='in-range' />
+          <filter class='quantitative' column='[federated.0jdckkq16nurjk15i4hrg12d1dg5].[none:Year:qk]' included-values='in-range' />
+          <filter class='categorical' column='[federated.0jdckkq16nurjk15i4hrg12d1dg5].[none:country:nk]'>
+            <groupfilter function='union' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate'>
+              <groupfilter function='member' level='[none:country:nk]' member='&quot;Indonesia&quot;' />
+              <groupfilter function='member' level='[none:country:nk]' member='&quot;Philippines&quot;' />
+              <groupfilter function='member' level='[none:country:nk]' member='&quot;Thailand&quot;' />
+            </groupfilter>
+          </filter>
+          <slices>
+            <column>[federated.0jdckkq16nurjk15i4hrg12d1dg5].[none:country:nk]</column>
+            <column>[federated.0jdckkq16nurjk15i4hrg12d1dg5].[none:Month:qk]</column>
+            <column>[federated.0jdckkq16nurjk15i4hrg12d1dg5].[none:Year:qk]</column>
+            <column>[federated.0jdckkq16nurjk15i4hrg12d1dg5].[none:Calculation_1235393694592651268:nk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <encoding attr='space' class='0' field='[federated.0jdckkq16nurjk15i4hrg12d1dg5].[none:Calculation_1235393694587441153:qk]' field-type='quantitative' max='18071386.335509755' min='5515379.9946889728' projection='EPSG:3857' range-type='fixed' scope='cols' type='space' />
+            <encoding attr='space' class='0' field='[federated.0jdckkq16nurjk15i4hrg12d1dg5].[none:Calculation_1235393694587342848:qk]' field-type='quantitative' max='2493329.8434593868' min='-4321608.0055772364' projection='EPSG:3857' range-type='fixed' scope='rows' type='space' />
+          </style-rule>
+          <style-rule element='map'>
+            <format attr='washout' value='0.0' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <color column='[federated.0jdckkq16nurjk15i4hrg12d1dg5].[none:country:nk]' />
+              <lod column='[Parameters].[Parámetro 1]' />
+            </encodings>
+          </pane>
+        </panes>
+        <rows>[federated.0jdckkq16nurjk15i4hrg12d1dg5].[none:Calculation_1235393694587342848:qk]</rows>
+        <cols>[federated.0jdckkq16nurjk15i4hrg12d1dg5].[none:Calculation_1235393694587441153:qk]</cols>
+      </table>
+      <simple-id uuid='{186737A8-C08D-4A24-BDD4-865C8233B7A1}' />
+    </worksheet>
+  </worksheets>
+  <windows source-height='37'>
+    <window class='worksheet' maximized='true' name='Hoja 1'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='172'>
+            <card param='[federated.0jdckkq16nurjk15i4hrg12d1dg5].[none:Year:qk]' show-domain='false' show-null-ctrls='false' type='filter' />
+            <card param='[federated.0jdckkq16nurjk15i4hrg12d1dg5].[none:Month:qk]' show-domain='false' show-null-ctrls='false' type='filter' />
+            <card param='[federated.0jdckkq16nurjk15i4hrg12d1dg5].[none:country:nk]' type='filter' />
+            <card pane-specification-id='0' param='[federated.0jdckkq16nurjk15i4hrg12d1dg5].[none:country:nk]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{16BB4FAD-0C76-4753-AFBB-614595EFB1CC}' />
+    </window>
+  </windows>
+</workbook>

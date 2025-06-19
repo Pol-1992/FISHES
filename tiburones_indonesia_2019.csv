@@ -1,0 +1,532 @@
+date,scientific_name,common_name,latitude,longitude
+2019-12-31,Triaenodon obesus,Whitetip Reef Shark,5.8887784337,119.5348537551
+2019-12-31,Taeniura lymma,Bluespotted Fantail Ray,4.5958254,118.8643398
+2019-12-31,Triaenodon obesus,Whitetip Reef Shark,4.2638033513,118.7497932313
+2019-12-31,Alopias pelagicus,Pelagic Thresher Shark,4.0430739123,118.7047755821
+2019-12-30,Taeniura lymma,Bluespotted Fantail Ray,4.2726759432,118.7837620328
+2019-12-30,Stegostoma tigrinum,Zebra Shark,4.1282667409,118.61534112
+2019-12-28,Sphyrna lewini,Scalloped Hammerhead,1.5494803746,103.7978522514
+2019-12-28,Rhynchobatus,Wedgefishes,1.566556962,103.7915890378
+2019-12-28,Rhynchobatus australiae,Whitespotted Guitarfish,1.4804135594,103.7216688653
+2019-12-28,Carcharhinus sorrah,Spot-tail Shark,1.5439506233,103.7222408682
+2019-12-28,Hemigaleus microstoma,Sicklefin Weasel Shark,1.4362243989,103.6700262371
+2019-12-28,Neotrygon caeruleopunctata,Bluespotted Maskray,-8.518933,115.509475
+2019-12-28,Atelomycterus marmoratus,Coral catshark,-8.5198065822,115.5785579366
+2019-12-27,Neotrygon caeruleopunctata,Bluespotted Maskray,-8.337999,115.660066
+2019-12-27,Triaenodon obesus,Whitetip Reef Shark,4.2552474871,118.6921666999
+2019-12-26,Neotrygon orientale,Oriental Bluespotted Maskray,4.8663714139,119.0814905291
+2019-12-26,Mobula alfredi,Reef Manta Ray,-8.4600580298,119.6397139126
+2019-12-26,Hemiscyllium halmahera,Halmahera epaulette shark,0.8569063724,127.2052120107
+2019-12-26,Carcharhinus melanopterus,Blacktip Reef Shark,-8.4158808208,119.4882488545
+2019-12-26,Triaenodon obesus,Whitetip Reef Shark,-8.566667,115.583333
+2019-12-25,Rhincodon typus,Whale Shark,-10.4104856841,105.6607653198
+2019-12-25,Rhincodon typus,Whale Shark,-10.592632431,105.5704040442
+2019-12-25,Taeniura lymma,Bluespotted Fantail Ray,-8.4962631079,119.7567501816
+2019-12-24,Neotrygon caeruleopunctata,Bluespotted Maskray,-8.274202,115.593037
+2019-12-23,Carcharhinus amblyrhynchos,Grey Reef Shark,4.1070547187,118.7694956969
+2019-12-22,Neotrygon orientale,Oriental Bluespotted Maskray,4.579359981,118.9173844635
+2019-12-21,Neotrygon australiae,Australian Bluespotted Maskray,-8.6604590326,115.8615453465
+2019-12-20,Sphyrna lewini,Scalloped Hammerhead,5.9051094932,118.1333392858
+2019-12-20,Carcharhinus,Typical Requiem Sharks,5.9596334094,118.0172040799
+2019-12-20,Aetobatus ocellatus,White-spotted Eagle Ray,5.8387434,118.12154
+2019-12-20,Carcharhinus melanopterus,Blacktip Reef Shark,5.9852416264,118.133948205
+2019-12-19,Taeniura lymma,Bluespotted Fantail Ray,-8.728099,115.906885
+2019-12-17,Taeniura lymma,Bluespotted Fantail Ray,4.5958254,118.8643398
+2019-12-16,Rhincodon typus,Whale Shark,-10.5221845625,105.7001768542
+2019-12-16,Carcharhinus,Typical Requiem Sharks,1.492659,103.7413591
+2019-12-16,Rhynchobatus australiae,Whitespotted Guitarfish,1.4395010055,103.722514041
+2019-12-15,Pateobatis jenkinsii,Jenkins' Whipray,-8.718619,115.913446
+2019-12-11,Taeniura lymma,Bluespotted Fantail Ray,4.5958254,118.8643398
+2019-12-09,Carcharhinus sorrah,Spot-tail Shark,1.5389967997,103.7014211167
+2019-12-07,Rhinobatos penggali,Indonesian Shovelnose Ray,-5.4885888628,104.6939480743
+2019-12-07,Batoidea,Rays,-5.5000171661,104.6205062866
+2019-12-07,Neotrygon caeruleopunctata,Bluespotted Maskray,-5.5000286102,104.6205215454
+2019-12-02,Sphyrna lewini,Scalloped Hammerhead,1.5584322587,103.7098603982
+2019-12-02,Rhynchobatus australiae,Whitespotted Guitarfish,1.4695414444,103.6791670436
+2019-12-02,Carcharhiniformes,Ground Sharks,1.492659,103.7413591
+2019-12-02,Rhynchobatinae,Wedgefishes,1.492659,103.7413591
+2019-12-02,Rhynchobatus springeri,Broadnose Wedgefish,1.4224433182,103.7391639452
+2019-12-02,Carcharhiniformes,Ground Sharks,1.492659,103.7413591
+2019-11-29,Hemiscyllium freycineti,Indonesian Speckled Carpetshark,-2.3558725004,130.4508651831
+2019-11-29,Brevitrygon heterura,Dwarf whipray,5.23299012,100.182478557
+2019-11-29,Mobula birostris,Oceanic Manta Ray,-2.3697930529,130.7133569215
+2019-11-28,Hemiscyllium freycineti,Indonesian Speckled Carpetshark,-2.2107967345,130.5125193711
+2019-11-26,Taeniura lymma,Bluespotted Fantail Ray,-0.427924108,130.5614242884
+2019-11-26,Carcharhinus amblyrhynchos,Grey Reef Shark,-2.31267086,130.4558754782
+2019-11-26,Eucrossorhinus dasypogon,Tasselled Wobbegong,-0.454678733,130.3232097237
+2019-11-26,Eucrossorhinus dasypogon,Tasselled Wobbegong,-0.6357064073,130.3643914037
+2019-11-25,Mobula alfredi,Reef Manta Ray,-0.4917548476,130.5992039724
+2019-11-25,Eucrossorhinus dasypogon,Tasselled Wobbegong,-0.5725005033,130.4338403157
+2019-11-24,Carcharhinus melanopterus,Blacktip Reef Shark,0.050742637,130.0043979716
+2019-11-23,Plesiobatis daviesi,Giant Stingaree,4.5762588,118.9489446
+2019-11-22,Mobula alfredi,Reef Manta Ray,-0.515594206,130.5427708025
+2019-11-19,Taeniura lymma,Bluespotted Fantail Ray,-2.2177467941,130.5292950042
+2019-11-19,Carcharhinus sorrah,Spot-tail Shark,1.4811743647,103.6746974976
+2019-11-19,Rhynchobatus australiae,Whitespotted Guitarfish,1.4882672075,103.6529804167
+2019-11-19,Rhynchobatus springeri,Broadnose Wedgefish,1.4756143286,103.7297138521
+2019-11-19,Rhinidae,Wedgefishes,1.492659,103.7413591
+2019-11-19,Carcharhinus sorrah,Spot-tail Shark,1.4535812676,103.7986894733
+2019-11-19,Hemigaleus microstoma,Sicklefin Weasel Shark,1.5060157192,103.7692177987
+2019-11-19,Carcharhinus sealei,Blackspot Shark,1.464538485,103.6888277071
+2019-11-18,Neotrygon orientale,Oriental Bluespotted Maskray,1.4785987055,125.2352819592
+2019-11-18,Carcharhinus sorrah,Spot-tail Shark,1.4389646255,103.7134877647
+2019-11-18,Carcharhinus sorrah,Spot-tail Shark,1.4264527575,103.7820546718
+2019-11-18,Loxodon macrorhinus,Sliteye Shark,1.492659,103.7413591
+2019-11-18,Hemigaleus microstoma,Sicklefin Weasel Shark,1.4868661413,103.6217451957
+2019-11-18,Carcharhinus sealei,Blackspot Shark,1.5533903318,103.6545933007
+2019-11-14,Carcharhinus macloti,Hardnose Shark,-8.0370094216,110.4358311055
+2019-11-14,Alopias pelagicus,Pelagic Thresher Shark,-8.1455106784,110.4312024579
+2019-11-14,Mustelus,Smooth-Hounds,-8.1692990712,110.4759023666
+2019-11-14,Dasyatinae,Common Whiptail Stingrays,-8.0703963236,110.5090392482
+2019-11-14,Neotrygon annotata,Plain Maskray,-8.0181734022,110.4172693803
+2019-11-13,Taeniura lymma,Bluespotted Fantail Ray,-0.3819836205,130.9822885033
+2019-11-13,Neotrygon orientale,Oriental Bluespotted Maskray,1.4704002318,125.2355726436
+2019-11-12,Rhizoprionodon oligolinx,Grey Sharpnose Shark,-6.9627135369,110.4343158785
+2019-11-12,Sphyrna lewini,Scalloped Hammerhead,-4.7197680924,130.1221369087
+2019-11-12,Atelomycterus marmoratus,Coral catshark,4.5648162463,118.9028542794
+2019-11-11,Carcharhinus,Typical Requiem Sharks,1.492659,103.7413591
+2019-11-11,Rhynchobatus springeri,Broadnose Wedgefish,1.5499626974,103.7733767158
+2019-11-11,Rhynchobatus australiae,Whitespotted Guitarfish,1.4995550352,103.6266237439
+2019-11-11,Pastinachus ater,Broad Cowtail Stingray,1.4862850177,125.3138171248
+2019-11-10,Pateobatis uarnacoides,Whitenose whipray,-6.8244855097,110.4192513747
+2019-11-10,Selachii,Sharks,1.2582458131,103.82042896
+2019-11-09,Rhina ancylostomus,Bowmouth Guitarfish,-8.3529219758,115.4087851125
+2019-11-06,Taeniura lymma,Bluespotted Fantail Ray,-8.5509720864,119.6789084251
+2019-11-06,Himantura uarnak,Reticulate Whipray,-8.522896961,119.6635971932
+2019-11-06,Eucrossorhinus dasypogon,Tasselled Wobbegong,0.1964589439,131.5816698591
+2019-11-06,Mobula alfredi,Reef Manta Ray,-8.8290771944,115.4918884818
+2019-11-06,Rhynchobatus australiae,Whitespotted Guitarfish,1.553078143,103.7384025448
+2019-11-06,Carcharhinus sorrah,Spot-tail Shark,1.4753951874,103.7425398048
+2019-11-05,Carcharhinus melanopterus,Blacktip Reef Shark,-0.4410812172,130.6447058851
+2019-11-04,Maculabatis gerrardi,Whitespotted Whipray,2.4844292857,111.2784769638
+2019-11-02,Mobula alfredi,Reef Manta Ray,-8.5677785582,119.509207564
+2019-11-01,Rhynchobatus springeri,Broadnose Wedgefish,1.457637345,103.7150110182
+2019-11-01,Carcharhinus sorrah,Spot-tail Shark,1.4583201675,103.6164067621
+2019-11-01,Carcharhinus sorrah,Spot-tail Shark,1.478212892,103.7957411684
+2019-11-01,Taeniura lymma,Bluespotted Fantail Ray,-0.1565335234,130.4516329989
+2019-10-31,Hemiscyllium freycineti,Indonesian Speckled Carpetshark,0.0937505478,131.452452538
+2019-10-24,Eucrossorhinus dasypogon,Tasselled Wobbegong,-0.0973156292,130.3360227489
+2019-10-23,Aetobatus ocellatus,White-spotted Eagle Ray,4.5958254,118.8643398
+2019-10-23,Rhynchobatus springeri,Broadnose Wedgefish,1.5289268285,103.7980608494
+2019-10-23,Hemigaleus microstoma,Sicklefin Weasel Shark,1.4445803946,103.6631692578
+2019-10-23,Carcharhinidae,Requiem Sharks,1.492659,103.7413591
+2019-10-23,Carcharhinus sorrah,Spot-tail Shark,1.4995309838,103.7786603629
+2019-10-23,Carcharhinus,Typical Requiem Sharks,1.492659,103.7413591
+2019-10-23,Carcharhinus melanopterus,Blacktip Reef Shark,0.631825643,128.6899430666
+2019-10-23,Hemiscyllium freycineti,Indonesian Speckled Carpetshark,-0.1879384541,130.3818742369
+2019-10-20,Urogymnus asperrimus,Porcupine Ray,0.1029721826,130.3617724646
+2019-10-20,Mobula alfredi,Reef Manta Ray,-0.0878899271,130.0243765868
+2019-10-19,Rhynchobatus springeri,Broadnose Wedgefish,1.5344582672,103.605526581
+2019-10-19,Carcharhinus sorrah,Spot-tail Shark,1.4370913555,103.7329486794
+2019-10-19,Carcharhinus sorrah,Spot-tail Shark,1.4543291557,103.7438963551
+2019-10-15,Mobula alfredi,Reef Manta Ray,-8.5250796548,119.5625068258
+2019-10-14,Carcharhinus sorrah,Spot-tail Shark,1.5668703825,103.7555582387
+2019-10-14,Rhynchobatus,Wedgefishes,1.492659,103.7413591
+2019-10-13,Mobula kuhlii,Shorthorned Pygmy Devil Ray,-0.4731902705,130.6793991476
+2019-10-12,Maculabatis macrura,Sharpnose Whipray,-5.463246075,104.7602365827
+2019-10-12,Chiloscyllium punctatum,Brown-banded Bamboo Shark,5.9340915471,116.0298845888
+2019-10-12,Chiloscyllium punctatum,Brown-banded Bamboo Shark,5.9569507359,116.1215936251
+2019-10-12,Carcharhinus sorrah,Spot-tail Shark,5.8532069792,116.0302474575
+2019-10-10,Rhizoprionodon oligolinx,Grey Sharpnose Shark,-7.0046498472,110.4381252453
+2019-10-10,Chiloscyllium punctatum,Brown-banded Bamboo Shark,-8.5275823568,125.4154734263
+2019-10-09,Mobula birostris,Oceanic Manta Ray,-2.3356307652,130.6262479961
+2019-10-08,Mobula alfredi,Reef Manta Ray,-8.6545498645,115.5452904367
+2019-10-07,Carcharhinus,Typical Requiem Sharks,1.492659,103.7413591
+2019-10-07,Rhynchobatus,Wedgefishes,1.492659,103.7413591
+2019-10-07,Sphyrna lewini,Scalloped Hammerhead,1.5073278917,103.7174094358
+2019-10-07,Carcharhinidae,Requiem Sharks,1.492659,103.7413591
+2019-10-07,Carcharhinus sorrah,Spot-tail Shark,1.5859739682,103.6333692782
+2019-10-06,Triaenodon obesus,Whitetip Reef Shark,4.1149742,118.6286669
+2019-10-01,Mobula alfredi,Reef Manta Ray,-8.5769384359,119.370422473
+2019-09-30,Chiloscyllium hasseltii,Indonesian Bamboo Shark,1.5721436089,103.6495510197
+2019-09-30,Carcharhinus sorrah,Spot-tail Shark,1.4546571981,103.6138889949
+2019-09-30,Rhynchobatus,Wedgefishes,1.492659,103.7413591
+2019-09-30,Loxodon macrorhinus,Sliteye Shark,1.492659,103.7413591
+2019-09-30,Carcharhinus sorrah,Spot-tail Shark,1.555391189,103.6636237771
+2019-09-29,Neotrygon orientale,Oriental Bluespotted Maskray,1.4721836479,125.2357446402
+2019-09-29,Rhina ancylostomus,Bowmouth Guitarfish,-6.2917876688,105.9666754394
+2019-09-29,Neotrygon,Maskrays,-6.3720088005,105.8266448975
+2019-09-29,Brevitrygon heterura,Dwarf whipray,-6.3062454364,105.975828209
+2019-09-29,Aetobatus ocellatus,White-spotted Eagle Ray,-6.3720088005,105.8266448975
+2019-09-24,Taeniura lymma,Bluespotted Fantail Ray,1.6235162,124.7602683
+2019-09-23,Rhincodon typus,Whale Shark,-1.1031204069,130.5446338114
+2019-09-23,Rhynchobatus,Wedgefishes,1.492659,103.7413591
+2019-09-23,Carcharhinus leucas,Bull Shark,1.516155617,103.7656730951
+2019-09-21,Taeniura lymma,Bluespotted Fantail Ray,1.4405226901,125.2285160869
+2019-09-21,Potamotrygon motoro,Peacock River Stingray,1.3736515575,103.8241898219
+2019-09-21,Myliobatiformes,Stingrays,1.3738883333,103.824425
+2019-09-16,Chiloscyllium hasseltii,Indonesian Bamboo Shark,1.4791435283,103.6901509989
+2019-09-16,Carcharhinus sorrah,Spot-tail Shark,1.5205590973,103.6360271145
+2019-09-16,Carcharhinus sorrah,Spot-tail Shark,1.5087672505,103.7940361814
+2019-09-16,Chiloscyllium punctatum,Brown-banded Bamboo Shark,1.4128089131,103.7715121895
+2019-09-16,Carcharhinus sorrah,Spot-tail Shark,1.5789768493,103.6773391631
+2019-09-16,Carcharhinus sorrah,Spot-tail Shark,1.5774525109,103.7505775602
+2019-09-15,Potamotrygon,river rays,-7.8883638889,112.5290305556
+2019-09-15,Rhizoprionodon acutus,Milk Shark,2.8971369267,112.095954895
+2019-09-13,Atelomycterus marmoratus,Coral catshark,2.6326170374,104.367492408
+2019-09-13,Brevitrygon heterura,Dwarf whipray,-5.426812578,104.7729551953
+2019-09-12,Taeniura lymma,Bluespotted Fantail Ray,2.7948044785,104.2148023656
+2019-09-12,Carcharhinidae,Requiem Sharks,2.8907556824,112.1301686705
+2019-09-10,Taeniura lymma,Bluespotted Fantail Ray,-8.804265,119.673461
+2019-09-09,Rhynchobatus,Wedgefishes,1.492659,103.7413591
+2019-09-09,Rhynchobatus,Wedgefishes,1.492659,103.7413591
+2019-09-09,Chiloscyllium hasseltii,Indonesian Bamboo Shark,1.5940126058,103.6229430878
+2019-09-09,Chiloscyllium punctatum,Brown-banded Bamboo Shark,1.5590814794,103.7174404271
+2019-09-08,Neotrygon australiae,Australian Bluespotted Maskray,-8.576610322,119.2816256902
+2019-09-08,Mobula alfredi,Reef Manta Ray,-8.5148263403,119.3365013467
+2019-09-07,Neotrygon australiae,Australian Bluespotted Maskray,-8.9963366188,116.0078917714
+2019-09-07,Mobula alfredi,Reef Manta Ray,-8.5497505179,119.4297985152
+2019-09-06,Atelomycterus marmoratus,Coral catshark,-8.4030988969,116.1387202478
+2019-09-06,Neotrygon australiae,Australian Bluespotted Maskray,-8.8490396894,116.1489732035
+2019-09-06,Neotrygon,Maskrays,-8.5580537332,119.7804485062
+2019-09-02,Carcharhinus sealei,Blackspot Shark,1.5061868914,103.6171093778
+2019-09-02,Loxodon macrorhinus,Sliteye Shark,1.492659,103.7413591
+2019-09-02,Carcharhinus sorrah,Spot-tail Shark,1.577768592,103.7333559996
+2019-09-02,Carcharhinus sorrah,Spot-tail Shark,1.5700406844,103.694479308
+2019-09-02,Carcharhinidae,Requiem Sharks,1.4974368499,103.7488847954
+2019-09-02,Carcharhinus,Typical Requiem Sharks,1.492659,103.7413591
+2019-09-01,Neotrygon caeruleopunctata,Bluespotted Maskray,-8.794021,115.52608
+2019-09-01,Mobula alfredi,Reef Manta Ray,-8.7286733145,115.4363804533
+2019-08-31,Mobula alfredi,Reef Manta Ray,-8.7925327928,115.5819645343
+2019-08-31,Taeniura lymma,Bluespotted Fantail Ray,-8.5681476633,119.1472954349
+2019-08-29,Neotrygon australiae,Australian Bluespotted Maskray,-8.4689341657,119.0095836415
+2019-08-29,Mobula alfredi,Reef Manta Ray,-8.5855003174,119.3910097241
+2019-08-29,Chiloscyllium griseum,Grey Bamboo Shark,-8.5708527577,119.2614674175
+2019-08-29,Hemiscyllium freycineti,Indonesian Speckled Carpetshark,-0.4396063962,130.6958513989
+2019-08-29,Taeniurops meyeni,Blotched Fantail Ray,-8.6104310905,115.5084404631
+2019-08-28,Rhinidae,Wedgefishes,1.492659,103.7413591
+2019-08-28,Rhizoprionodon,Sharpnose Sharks,1.492659,103.7413591
+2019-08-28,Chiloscyllium griseum,Grey Bamboo Shark,1.5845729195,103.7596716413
+2019-08-28,Chiloscyllium plagiosum,White-spotted Bamboo Shark,1.5046399821,103.6047517171
+2019-08-28,Carcharhinidae,Requiem Sharks,1.492659,103.7413591
+2019-08-28,Carcharhinidae,Requiem Sharks,1.492659,103.7413591
+2019-08-28,Carcharhinus,Typical Requiem Sharks,1.492659,103.7413591
+2019-08-28,Loxodon macrorhinus,Sliteye Shark,1.492659,103.7413591
+2019-08-28,Carcharhinidae,Requiem Sharks,1.4499574621,103.727249374
+2019-08-25,Taeniura lymma,Bluespotted Fantail Ray,-5.6326806,123.8902463
+2019-08-25,Mobula alfredi,Reef Manta Ray,-8.5377654896,119.5129287241
+2019-08-25,Neotrygon caeruleopunctata,Bluespotted Maskray,-8.5499433604,115.5121907789
+2019-08-24,Neotrygon orientale,Oriental Bluespotted Maskray,4.2466083333,118.6367416667
+2019-08-24,Chiloscyllium punctatum,Brown-banded Bamboo Shark,-8.7090959051,115.4755656667
+2019-08-23,Orectolobus leptolineatus,Indonesian Wobbegong,-8.5097368476,115.4454309597
+2019-08-22,Mobula alfredi,Reef Manta Ray,-8.6479007457,115.4822710079
+2019-08-22,Neotrygon caeruleopunctata,Bluespotted Maskray,-8.7949684566,115.5261498859
+2019-08-21,Orectolobus leptolineatus,Indonesian Wobbegong,-8.6725470591,115.5718690009
+2019-08-18,Eucrossorhinus dasypogon,Tasselled Wobbegong,-0.6113317126,130.6155569221
+2019-08-18,Neotrygon caeruleopunctata,Bluespotted Maskray,-8.6785828,115.4555858
+2019-08-17,Rhynchobatus australiae,Whitespotted Guitarfish,1.3707787213,103.8264717651
+2019-08-16,Carcharhinus melanopterus,Blacktip Reef Shark,-0.6628903093,130.7120734287
+2019-08-13,Triaenodon obesus,Whitetip Reef Shark,-8.5391492137,119.6771239489
+2019-08-12,Atelomycterus marmoratus,Coral catshark,-8.754095149,119.8812848153
+2019-08-12,Triaenodon obesus,Whitetip Reef Shark,-8.4616235947,119.5644006346
+2019-08-12,Carcharhinus melanopterus,Blacktip Reef Shark,-8.4662145756,119.721094019
+2019-08-11,Chiloscyllium punctatum,Brown-banded Bamboo Shark,3.1426475226,101.6378977961
+2019-08-09,Taeniura lymma,Bluespotted Fantail Ray,2.9346066812,104.0986434938
+2019-08-09,Mobula alfredi,Reef Manta Ray,-8.6768786296,115.554689915
+2019-08-09,Mobula alfredi,Reef Manta Ray,-8.716175388,115.5601300796
+2019-08-09,Mobula alfredi,Reef Manta Ray,-8.6429485609,119.4307580063
+2019-08-08,Atelomycterus erdmanni,Spotted-belly catshark,-8.7433221014,119.5914895352
+2019-08-08,Mobula alfredi,Reef Manta Ray,-8.6314626303,119.5230304276
+2019-08-08,Carcharhinus melanopterus,Blacktip Reef Shark,5.614683294,102.9838306179
+2019-08-06,Carcharhinus melanopterus,Blacktip Reef Shark,-8.4093630598,119.6201139594
+2019-08-04,Neotrygon caeruleopunctata,Bluespotted Maskray,-8.7974310785,115.5262938568
+2019-08-04,Mobula alfredi,Reef Manta Ray,-8.7228279295,115.5973782423
+2019-07-30,Atelomycterus marmoratus,Coral catshark,-8.2072379947,124.0369844113
+2019-07-30,Taeniura lymma,Bluespotted Fantail Ray,2.874046536,104.1465908299
+2019-07-30,Mustelus,Smooth-Hounds,-5.5007972717,104.619758606
+2019-07-29,Neotrygon australiae,Australian Bluespotted Maskray,-8.2478578849,123.7639536819
+2019-07-27,Taeniura lymma,Bluespotted Fantail Ray,-2.5575284293,107.6881244847
+2019-07-26,Triaenodon obesus,Whitetip Reef Shark,-8.3481897118,116.0883166363
+2019-07-26,Mobula alfredi,Reef Manta Ray,-8.7211794699,115.5076201439
+2019-07-25,Mobula alfredi,Reef Manta Ray,-8.6151605128,115.5298559549
+2019-07-24,Pateobatis fai,Pink Whipray,-6.174750646,106.7899414524
+2019-07-22,Taeniura lymma,Bluespotted Fantail Ray,-8.128147562,115.3676293192
+2019-07-22,Carcharhinus amblyrhynchos,Grey Reef Shark,-0.5488132742,130.7817112221
+2019-07-21,Taeniura lymma,Bluespotted Fantail Ray,1.2269655417,103.7516330248
+2019-07-21,Taeniura lymma,Bluespotted Fantail Ray,5.938338212,102.7174466103
+2019-07-18,Glaucostegus typus,Giant Guitarfish,-6.071293169,106.7296730261
+2019-07-17,Mobula alfredi,Reef Manta Ray,-8.6549428744,115.4459805796
+2019-07-16,Mobula alfredi,Reef Manta Ray,-8.7961921205,115.5822645894
+2019-07-14,Mobula alfredi,Reef Manta Ray,-8.6643609786,115.4253270948
+2019-07-13,Neotrygon caeruleopunctata,Bluespotted Maskray,-8.7939035,115.527015
+2019-07-13,Aetobatus ocellatus,White-spotted Eagle Ray,-8.5408464947,119.6439122322
+2019-07-12,Mobula alfredi,Reef Manta Ray,-8.4531459416,119.5437525006
+2019-07-12,Mobula alfredi,Reef Manta Ray,-8.5759215972,119.4430734441
+2019-07-12,Mobula alfredi,Reef Manta Ray,-8.4272680638,119.5000449976
+2019-07-12,Mobula,Devil Rays,-8.4471714543,119.5680296122
+2019-07-11,Carcharhinus melanopterus,Blacktip Reef Shark,-8.4939605067,119.7004335952
+2019-07-11,Triaenodon obesus,Whitetip Reef Shark,4.1186803245,118.6283798033
+2019-07-11,Mobula alfredi,Reef Manta Ray,-8.5317326382,119.752447358
+2019-07-11,Triaenodon obesus,Whitetip Reef Shark,-8.5631888,119.6000926
+2019-07-11,Mobula alfredi,Reef Manta Ray,-8.4694093199,119.6697380181
+2019-07-11,Mobula alfredi,Reef Manta Ray,-8.4301287916,119.6281818345
+2019-07-11,Mobula alfredi,Reef Manta Ray,-8.5066245555,119.6537263026
+2019-07-11,Mobula alfredi,Reef Manta Ray,-8.5789400593,119.6926777446
+2019-07-11,Mobula alfredi,Reef Manta Ray,-8.4329816979,119.7105887096
+2019-07-10,Taeniura lymma,Bluespotted Fantail Ray,-8.5589252622,119.6290635206
+2019-07-10,Taeniura lymma,Bluespotted Fantail Ray,-8.5448357797,119.6482895973
+2019-07-09,Mobula alfredi,Reef Manta Ray,-8.4307486213,119.5726462818
+2019-07-08,Triaenodon obesus,Whitetip Reef Shark,-8.527716,119.4833198
+2019-07-08,Neotrygon australiae,Australian Bluespotted Maskray,-8.4929865482,119.3788330197
+2019-07-05,Taeniura lymma,Bluespotted Fantail Ray,1.4087305,103.9910305
+2019-06-30,Mobula birostris,Oceanic Manta Ray,-8.7662340601,119.250823234
+2019-06-29,Potamotrygon motoro,Peacock River Stingray,1.373204633,103.8128549418
+2019-06-29,Potamotrygon motoro,Peacock River Stingray,1.3733692218,103.8241758917
+2019-06-29,Potamotrygon motoro,Peacock River Stingray,1.3678629839,103.8285135284
+2019-06-23,Taeniura lymma,Bluespotted Fantail Ray,2.6624504167,104.0607075243
+2019-06-22,Triaenodon obesus,Whitetip Reef Shark,-8.5706013469,119.6860861444
+2019-06-21,Rhincodon typus,Whale Shark,5.8636009614,102.6222378405
+2019-06-20,Urogymnus granulatus,Mangrove Whipray,-8.4522349026,119.5587065835
+2019-06-19,Carcharhinus melanopterus,Blacktip Reef Shark,5.9373137968,102.7514721036
+2019-06-18,Taeniura lymma,Bluespotted Fantail Ray,5.9026756995,102.7413712442
+2019-06-18,Carcharhinus melanopterus,Blacktip Reef Shark,5.9978137854,102.6063578934
+2019-06-18,Carcharhinus melanopterus,Blacktip Reef Shark,5.8819303625,102.7047638507
+2019-06-18,Carcharhinus melanopterus,Blacktip Reef Shark,5.9382804257,102.7194886234
+2019-06-18,Taeniura lymma,Bluespotted Fantail Ray,-8.5867316188,119.6477422461
+2019-06-17,Carcharhinus melanopterus,Blacktip Reef Shark,5.8488615796,102.6502294918
+2019-06-11,Mobula alfredi,Reef Manta Ray,-8.681758237,115.4865669281
+2019-06-10,Nebrius ferrugineus,Tawny Nurse Shark,-6.1279805748,106.8313302448
+2019-06-10,Sphyrna lewini,Scalloped Hammerhead,-6.0205001394,106.8408977474
+2019-06-07,Taeniura lymma,Bluespotted Fantail Ray,2.8300686627,104.1246386173
+2019-06-02,Taeniura lymma,Bluespotted Fantail Ray,0.9798222003,124.9014699832
+2019-06-01,Atelomycterus marmoratus,Coral catshark,2.860683854,104.1208355373
+2019-05-27,Taeniura lymma,Bluespotted Fantail Ray,2.76664,104.179277
+2019-05-26,Taeniura lymma,Bluespotted Fantail Ray,1.4114027778,124.6308138889
+2019-05-25,Neotrygon orientale,Oriental Bluespotted Maskray,1.4203444444,124.7072472222
+2019-05-25,Potamotrygon motoro,Peacock River Stingray,1.3675883333,103.8248216667
+2019-05-23,Triaenodon obesus,Whitetip Reef Shark,-8.5298984,115.5074108
+2019-05-22,Neotrygon orientale,Oriental Bluespotted Maskray,1.4205722222,124.7072472222
+2019-05-22,Triaenodon obesus,Whitetip Reef Shark,-8.4115843728,119.8684850051
+2019-05-22,Triaenodon obesus,Whitetip Reef Shark,1.6075527778,124.7706888889
+2019-05-21,Mobula alfredi,Reef Manta Ray,-8.7306548705,119.4279119986
+2019-05-21,Galeocerdo cuvier,Tiger Shark,-6.6479525759,124.2761579067
+2019-05-21,Triaenodon obesus,Whitetip Reef Shark,-8.4114040846,119.8681003058
+2019-05-20,Atelomycterus marmoratus,Coral catshark,2.9746037855,104.0119063765
+2019-05-19,Taeniura lymma,Bluespotted Fantail Ray,1.5950305556,124.7786
+2019-05-18,Carcharhinus melanopterus,Blacktip Reef Shark,2.8007053386,104.0231881017
+2019-05-18,Pastinachus ater,Broad Cowtail Stingray,2.2333729465,104.1820017613
+2019-05-16,Neotrygon orientale,Oriental Bluespotted Maskray,2.5204381,103.9760408
+2019-05-13,Carcharhinus melanopterus,Blacktip Reef Shark,-8.5006133756,119.7019436656
+2019-05-13,Hemiscyllium freycineti,Indonesian Speckled Carpetshark,-0.2648104387,130.5441230269
+2019-05-11,Mobula alfredi,Reef Manta Ray,-8.4979806191,119.4889444174
+2019-05-11,Triaenodon obesus,Whitetip Reef Shark,-8.53736,119.613724
+2019-05-10,Mobula alfredi,Reef Manta Ray,-8.4172627603,119.6611123402
+2019-05-05,Taeniura lymma,Bluespotted Fantail Ray,1.2269324041,103.7280556419
+2019-05-05,Potamotrygon motoro,Peacock River Stingray,-6.9156097733,107.5014423206
+2019-04-28,Chiloscyllium punctatum,Brown-banded Bamboo Shark,5.1770157682,115.1879916111
+2019-04-28,Hemiscyllium freycineti,Indonesian Speckled Carpetshark,-1.0138785342,130.4290717275
+2019-04-28,Carcharhinus melanopterus,Blacktip Reef Shark,-1.1361037843,130.5657500779
+2019-04-28,Triaenodon obesus,Whitetip Reef Shark,-1.0320467503,130.5052175718
+2019-04-28,Rhincodon typus,Whale Shark,-8.278236346,116.1371231323
+2019-04-27,Chiloscyllium punctatum,Brown-banded Bamboo Shark,5.2470822063,100.3030980819
+2019-04-27,Triaenodon obesus,Whitetip Reef Shark,-8.4755471893,125.8831027657
+2019-04-27,Neotrygon,Maskrays,-1.0320467503,130.5052175718
+2019-04-26,Eucrossorhinus dasypogon,Tasselled Wobbegong,-0.4739392675,130.6844977896
+2019-04-26,Mitsukurina owstoni,Goblin Shark,5.5866554328,95.319849439
+2019-04-25,Eucrossorhinus dasypogon,Tasselled Wobbegong,-0.426412688,130.6003404616
+2019-04-25,Mobula alfredi,Reef Manta Ray,-8.5284478403,119.7546506518
+2019-04-25,Neotrygon australiae,Australian Bluespotted Maskray,-8.4287533998,119.6011742804
+2019-04-24,Neotrygon moluccensis,Moluccan Bluespotted Maskray,-0.590433333,130.6027028
+2019-04-24,Mobula,Devil Rays,-0.5880552613,130.5792730859
+2019-04-23,Hemiscyllium freycineti,Indonesian Speckled Carpetshark,-0.5009568534,130.4907902416
+2019-04-23,Eucrossorhinus dasypogon,Tasselled Wobbegong,-0.4877867986,130.452069082
+2019-04-23,Aetobatus ocellatus,White-spotted Eagle Ray,-8.5514356882,119.6188731528
+2019-04-23,Chiloscyllium punctatum,Brown-banded Bamboo Shark,-8.4415890512,119.6697009022
+2019-04-22,Eucrossorhinus dasypogon,Tasselled Wobbegong,-0.4836945567,130.2170515389
+2019-04-22,Carcharhinus melanopterus,Blacktip Reef Shark,-0.433395463,130.3195751083
+2019-04-21,Triaenodon obesus,Whitetip Reef Shark,-2.218933333,130.5677167
+2019-04-20,Mobula alfredi,Reef Manta Ray,-8.756903876,115.4457257015
+2019-04-20,Neotrygon caeruleopunctata,Bluespotted Maskray,-8.7918330354,115.5249557644
+2019-04-20,Taeniura lymma,Bluespotted Fantail Ray,5.9092309072,102.7479949594
+2019-04-19,Carcharhinus amblyrhynchos,Grey Reef Shark,-2.280817553,130.7742834563
+2019-04-19,Chiloscyllium punctatum,Brown-banded Bamboo Shark,-2.3001678672,130.6385607513
+2019-04-18,Carcharhinus melanopterus,Blacktip Reef Shark,-2.1976859086,130.5248811844
+2019-04-18,Potamotrygon motoro,Peacock River Stingray,1.3674833333,103.824495
+2019-04-18,Rhizoprionodon,Sharpnose Sharks,-7.6793169975,108.4893875122
+2019-04-17,Aetobatus ocellatus,White-spotted Eagle Ray,-2.2485376569,130.5586742907
+2019-04-16,Atelomycterus marmoratus,Coral catshark,4.5863494028,118.9142236873
+2019-04-13,Mobula alfredi,Reef Manta Ray,-8.6474329031,115.4808815998
+2019-04-13,Neotrygon caeruleopunctata,Bluespotted Maskray,-8.727807,115.5444231
+2019-04-10,Taeniura lymma,Bluespotted Fantail Ray,5.6138553524,103.056464754
+2019-03-30,Mobula alfredi,Reef Manta Ray,-8.6110634054,119.4734012776
+2019-03-29,Chiloscyllium plagiosum,White-spotted Bamboo Shark,5.8483963805,116.0101751883
+2019-03-29,Carcharhinus sorrah,Spot-tail Shark,5.8020977423,116.1979908759
+2019-03-29,Carcharhinus tjutjot,Indonesian Whaler,5.8951752896,116.0528943284
+2019-03-29,Carcharhinus,Typical Requiem Sharks,5.980408,116.0734568
+2019-03-29,Chiloscyllium punctatum,Brown-banded Bamboo Shark,5.8451343288,116.0175828862
+2019-03-29,Himantura uarnak,Reticulate Whipray,5.8754295064,116.0486124659
+2019-03-27,Mobula alfredi,Reef Manta Ray,-8.5910413374,119.5877250793
+2019-03-27,Chiloscyllium punctatum,Brown-banded Bamboo Shark,5.8866891885,116.0589152981
+2019-03-27,Chiloscyllium plagiosum,White-spotted Bamboo Shark,5.8289728889,116.1269454984
+2019-03-27,Mobula birostris,Oceanic Manta Ray,-0.570434307,130.6207163513
+2019-03-26,Pateobatis fai,Pink Whipray,-2.2505501231,130.5419724549
+2019-03-25,Aetobatus ocellatus,White-spotted Eagle Ray,-4.5024784351,129.9014922081
+2019-03-25,Taeniura lymma,Bluespotted Fantail Ray,2.224167,104.135833
+2019-03-25,Eucrossorhinus dasypogon,Tasselled Wobbegong,-0.4518349061,130.7851878772
+2019-03-24,Mobula alfredi,Reef Manta Ray,-2.2903792003,130.4822942961
+2019-03-24,Hemipristis elongata,Snaggletooth Shark,-8.3510732247,115.4942366924
+2019-03-21,Mobula,Devil Rays,5.980408,116.0734568
+2019-03-20,Mobula birostris,Oceanic Manta Ray,-0.5231632634,130.7578938877
+2019-03-19,Eucrossorhinus dasypogon,Tasselled Wobbegong,-0.5591887121,130.7841878724
+2019-03-18,Chiloscyllium punctatum,Brown-banded Bamboo Shark,-8.7579895264,115.4835673328
+2019-03-17,Mobula alfredi,Reef Manta Ray,-8.6320978912,115.5727924429
+2019-03-16,Carcharhinus sealei,Blackspot Shark,1.2526534484,103.7844183183
+2019-03-13,Taeniura lymma,Bluespotted Fantail Ray,-5.632681,123.890246
+2019-03-12,Atelomycterus erdmanni,Spotted-belly catshark,0.9536110268,124.8791667446
+2019-03-10,Carcharhinus melanopterus,Blacktip Reef Shark,-0.5922732507,130.6794973655
+2019-03-08,Carcharhinus melanopterus,Blacktip Reef Shark,-0.4050274499,130.7145155206
+2019-03-07,Mobula alfredi,Reef Manta Ray,-0.5661409507,130.5529749587
+2019-03-06,Temera hardwickii,Finless Sleeper Ray,2.2139163219,104.0113641285
+2019-03-05,Sphyrna lewini,Scalloped Hammerhead,5.0224609552,118.2908099986
+2019-03-05,Rhynchobatus australiae,Whitespotted Guitarfish,5.0320400955,118.3891920895
+2019-03-03,Carcharhinus melanopterus,Blacktip Reef Shark,-0.5916147698,130.779021536
+2019-03-01,Taeniura lymma,Bluespotted Fantail Ray,4.253618,118.6334677
+2019-02-28,Himantura undulata,Honeycomb Whipray,-10.123354348,123.7024024831
+2019-02-27,Triaenodon obesus,Whitetip Reef Shark,4.116287979,118.6299362126
+2019-02-26,Mobula alfredi,Reef Manta Ray,-8.7256565405,115.5430752244
+2019-02-26,Neotrygon caeruleopunctata,Bluespotted Maskray,-8.7376485419,115.4743883486
+2019-02-25,Hemiscyllium freycineti,Indonesian Speckled Carpetshark,-0.4332282298,130.7816778625
+2019-02-24,Orectolobus ornatus,Ornate Wobbegong,-0.5957199586,130.6108992174
+2019-02-23,Triakis semifasciata,Leopard Shark,5.3826286,100.2806469
+2019-02-23,Sphyrna lewini,Scalloped Hammerhead,5.3246850046,100.3146894746
+2019-02-23,Galeomorphi,Galean Sharks,5.3826192,100.2806435
+2019-02-23,Carcharhinus plumbeus,Sandbar Shark,5.3401356208,100.2401966195
+2019-02-23,Triaenodon obesus,Whitetip Reef Shark,5.382647,100.2806506
+2019-02-23,Taeniurops meyeni,Blotched Fantail Ray,5.3035102289,100.3002700505
+2019-02-23,Neoselachii,Sharks and Rays,5.3826279,100.2806457
+2019-02-23,Dasyatidae,Whiptail Stingrays,5.418105,100.331855
+2019-02-23,Potamotrygon motoro,Peacock River Stingray,5.4191672802,100.3278136253
+2019-02-23,Potamotrygon motoro,Peacock River Stingray,5.4193177,100.3274951
+2019-02-23,Carcharhiniformes,Ground Sharks,5.4192598164,100.327878669
+2019-02-23,Myliobatiformes,Stingrays,5.4192333333,100.3277283333
+2019-02-23,Aetobatus,Painted Rays,5.38264,100.2806479
+2019-02-23,Myliobatiformes,Stingrays,5.3249068489,100.2846847102
+2019-02-23,Galeomorphi,Galean Sharks,5.5894101304,100.2077210477
+2019-02-23,Chiloscyllium griseum,Grey Bamboo Shark,5.2292795956,100.1261786482
+2019-02-23,Selachii,Sharks,5.3516343,100.2389973
+2019-02-23,Potamotrygon motoro,Peacock River Stingray,5.420008,100.3296168
+2019-02-23,Potamotrygon motoro,Peacock River Stingray,5.4192323561,100.3276705326
+2019-02-23,Potamotrygon,river rays,5.4191276182,100.3277880159
+2019-02-23,Triakis semifasciata,Leopard Shark,5.4190729,100.3275786
+2019-02-23,Potamotrygon motoro,Peacock River Stingray,5.4195380211,100.3273696899
+2019-02-23,Carcharhinus melanopterus,Blacktip Reef Shark,5.4888951696,100.2183918947
+2019-02-23,Urobatis halleri,Haller's Round Ray,5.4189656755,100.327696614
+2019-02-23,Hypanus sabinus,Atlantic Stingray,5.4195122719,100.3274154663
+2019-02-23,Hypanus sabinus,Atlantic Stingray,5.4195122719,100.3274154663
+2019-02-23,Hypanus sabinus,Atlantic Stingray,5.419532299,100.3273925781
+2019-02-23,Potamotrygon motoro,Peacock River Stingray,5.4190366667,100.327745
+2019-02-23,Myliobatiformes,Stingrays,5.41929,100.3277966667
+2019-02-23,Potamotrygon motoro,Peacock River Stingray,5.4194772,100.3274763
+2019-02-23,Myliobatiformes,Stingrays,5.4168658257,100.3247070313
+2019-02-23,Chiloscyllium punctatum,Brown-banded Bamboo Shark,5.2557699648,100.3688510379
+2019-02-23,Potamotrygon motoro,Peacock River Stingray,5.4192260199,100.3278290754
+2019-02-23,Chiloscyllium punctatum,Brown-banded Bamboo Shark,5.3815694889,100.3488875086
+2019-02-23,Potamotrygon,river rays,5.418954454,100.3277282829
+2019-02-23,Potamotrygon leopoldi,Xingu River Ray,5.2866125107,100.2862286568
+2019-02-23,Potamotrygon motoro,Peacock River Stingray,5.4193390673,100.327818906
+2019-02-23,Batoidea,Rays,5.4191104,100.3277395
+2019-02-23,Potamotrygon motoro,Peacock River Stingray,5.419289807,100.32801263
+2019-02-23,Triakis semifasciata,Leopard Shark,5.3376098,100.2966401
+2019-02-23,Potamotrygon motoro,Peacock River Stingray,5.4206713,100.3285645
+2019-02-23,Myliobatiformes,Stingrays,5.4194960594,100.3273849487
+2019-02-23,Chiloscyllium punctatum,Brown-banded Bamboo Shark,5.3648259269,100.2903509584
+2019-02-23,Triakis semifasciata,Leopard Shark,5.3929888,100.284012
+2019-02-23,Potamotrygon leopoldi,Xingu River Ray,5.2866093932,100.2862894789
+2019-02-23,Myliobatiformes,Stingrays,5.418966669,100.3277357441
+2019-02-23,Carcharhinus melanopterus,Blacktip Reef Shark,-2.2659699993,130.4845312207
+2019-02-23,Chiloscyllium punctatum,Brown-banded Bamboo Shark,5.266471832,100.3051066329
+2019-02-23,Chiloscyllium punctatum,Brown-banded Bamboo Shark,5.2176700479,100.3772010423
+2019-02-23,Potamotrygon leopoldi,Xingu River Ray,5.2865583587,100.2863118052
+2019-02-23,Potamotrygon leopoldi,Xingu River Ray,5.2869672,100.2878828
+2019-02-23,Potamotrygon leopoldi,Xingu River Ray,5.28658751,100.28625312
+2019-02-23,Potamotrygon leopoldi,Xingu River Ray,5.28688487,100.2858465
+2019-02-23,Potamotrygon,river rays,5.3082267899,100.274057001
+2019-02-23,Aptychotrema rostrata,Eastern Shovelnose Ray,5.4026966667,100.2945333333
+2019-02-23,Dasyatidae,Whiptail Stingrays,5.4193199888,100.3278940378
+2019-02-23,Batoidea,Rays,5.3186868,100.2865899
+2019-02-22,Triaenodon obesus,Whitetip Reef Shark,4.114974,118.628667
+2019-02-19,Rhincodon typus,Whale Shark,-4.536906071,134.4516949015
+2019-02-18,Sphyrna mokarran,Great Hammerhead,1.7200994181,98.7893804958
+2019-02-18,Stegostoma tigrinum,Zebra Shark,4.1149742,118.6286669
+2019-02-17,Mobula alfredi,Reef Manta Ray,-2.090616632,130.9308528968
+2019-02-16,Carcharhinus melanopterus,Blacktip Reef Shark,-7.2735118211,112.6230657768
+2019-02-15,Pastinachus ater,Broad Cowtail Stingray,-2.2029075636,130.5121725859
+2019-02-14,Atelomycterus,,-3.6623366565,128.0058511896
+2019-02-11,Odontaspis ferox,Smalltooth Sand Tiger,1.7459087514,98.7600915507
+2019-02-11,Mobula alfredi,Reef Manta Ray,-0.6886317072,130.7114163082
+2019-02-10,Taeniura lymma,Bluespotted Fantail Ray,5.880935507,95.2478609607
+2019-02-10,Taeniura lymma,Bluespotted Fantail Ray,-0.7698833333,130.7456
+2019-02-08,Carcharhinus melanopterus,Blacktip Reef Shark,-2.353122936,130.5310071905
+2019-02-08,Pastinachus ater,Broad Cowtail Stingray,-2.215653049,130.5962292543
+2019-02-08,Taeniura lymma,Bluespotted Fantail Ray,4.5958254,118.8643398
+2019-02-07,Carcharhinus melanopterus,Blacktip Reef Shark,-2.2983575601,130.4262063843
+2019-02-07,Hemiscyllium freycineti,Indonesian Speckled Carpetshark,-2.2737650014,130.4524609131
+2019-02-06,Mobula alfredi,Reef Manta Ray,-8.6599927439,115.5772530416
+2019-02-06,Rhincodon typus,Whale Shark,2.2969098441,118.3240876339
+2019-02-06,Hemiscyllium freycineti,Indonesian Speckled Carpetshark,-2.1290572961,130.8764349717
+2019-02-05,Mobula alfredi,Reef Manta Ray,-2.3561646791,130.402206373
+2019-02-05,Carcharhinus falciformis,Silky Shark,0.3521167397,127.9603077644
+2019-02-04,Mobula alfredi,Reef Manta Ray,-8.6995405415,115.4596744057
+2019-02-02,Carcharhinus leucas,Bull Shark,1.782458603,98.7771074176
+2019-02-01,Stegostoma tigrinum,Zebra Shark,1.7201747599,98.7957194075
+2019-01-31,Triaenodon obesus,Whitetip Reef Shark,-8.349260505,116.0430214515
+2019-01-31,Taeniura lymma,Bluespotted Fantail Ray,-8.3492214,116.0428781
+2019-01-31,Gymnura,Butterfly Rays,5.355229149,100.295306623
+2019-01-31,Brevitrygon,Dwarf Whiprays,5.355242441,100.295465424
+2019-01-31,Selachii,Sharks,5.3560743568,100.3012372926
+2019-01-30,Neotrygon orientale,Oriental Bluespotted Maskray,1.4594482839,125.241597709
+2019-01-30,Chiloscyllium punctatum,Brown-banded Bamboo Shark,0.8710415073,124.9244033535
+2019-01-29,Triaenodon obesus,Whitetip Reef Shark,1.5939099046,124.7686040451
+2019-01-24,Taeniura lymma,Bluespotted Fantail Ray,1.6247739606,124.7824072543
+2019-01-22,Taeniura lymma,Bluespotted Fantail Ray,5.2214830204,103.2587264315
+2019-01-21,Mobula alfredi,Reef Manta Ray,-8.4761186214,119.6800754763
+2019-01-21,Mobula alfredi,Reef Manta Ray,-8.5165135564,119.7096916263
+2019-01-18,Urogymnus polylepis,Giant Freshwater Stingray,-0.2533522547,116.2889614855
+2019-01-15,Carcharhinus falciformis,Silky Shark,-10.5426518761,105.6417951814
+2019-01-15,Carcharhinus falciformis,Silky Shark,-10.5053727637,105.7015632011
+2019-01-14,Neotrygon orientale,Oriental Bluespotted Maskray,1.4797305399,125.2500664207
+2019-01-13,Eucrossorhinus dasypogon,Tasselled Wobbegong,-2.3073354728,130.751253662
+2019-01-13,Neotrygon orientale,Oriental Bluespotted Maskray,1.4583388324,125.232949301
+2019-01-11,Carcharhinus melanopterus,Blacktip Reef Shark,-0.4125310426,130.361342828
+2019-01-10,Eucrossorhinus dasypogon,Tasselled Wobbegong,-0.4594973178,130.4477849469
+2019-01-10,Carcharhinus melanopterus,Blacktip Reef Shark,-0.4550109086,130.5228005981
+2019-01-10,Triaenodon obesus,Whitetip Reef Shark,-0.50884,130.4486833333
+2019-01-10,Eucrossorhinus dasypogon,Tasselled Wobbegong,-0.5218734584,130.4598567685
+2019-01-10,Mobula birostris,Oceanic Manta Ray,-0.4784781657,130.768353543
+2019-01-10,Mobula birostris,Oceanic Manta Ray,-0.4215316458,130.7985885507
+2019-01-09,Eucrossorhinus dasypogon,Tasselled Wobbegong,-0.4547682033,130.6765893891
+2019-01-09,Mobula birostris,Oceanic Manta Ray,-0.5729284693,130.6934377522
+2019-01-09,Mobula alfredi,Reef Manta Ray,-1.0330819213,130.4477263126
+2019-01-09,Mobula alfredi,Reef Manta Ray,-1.1781051428,130.4568002951
+2019-01-08,Mobula birostris,Oceanic Manta Ray,-0.5973170989,130.7558041877
+2019-01-08,Mobula alfredi,Reef Manta Ray,-0.5964819098,130.6339436882
+2019-01-08,Eucrossorhinus dasypogon,Tasselled Wobbegong,-0.564487949,130.7254893239
+2019-01-08,Eucrossorhinus dasypogon,Tasselled Wobbegong,-0.5038150591,130.9967789257
+2019-01-08,Mobula alfredi,Reef Manta Ray,-0.1678068431,130.0172673047
+2019-01-08,Eucrossorhinus dasypogon,Tasselled Wobbegong,-0.0234194978,130.3987667096
+2019-01-08,Mobula alfredi,Reef Manta Ray,-0.0176184257,130.0631764626
+2019-01-08,Mobula alfredi,Reef Manta Ray,-0.0191130433,130.037438002
+2019-01-08,Eucrossorhinus dasypogon,Tasselled Wobbegong,-0.5217658696,130.6369303399
+2019-01-08,Eucrossorhinus dasypogon,Tasselled Wobbegong,-0.4047399438,130.7732285125
+2019-01-08,Carcharhinus melanopterus,Blacktip Reef Shark,-0.5199474505,130.7481888038
+2019-01-08,Triaenodon obesus,Whitetip Reef Shark,-0.558657,130.692257
+2019-01-08,Carcharhinus melanopterus,Blacktip Reef Shark,-0.5232393255,130.7177352429
+2019-01-08,Neotrygon,Maskrays,-0.568656,130.662618
+2019-01-08,Neotrygon moluccensis,Moluccan Bluespotted Maskray,-0.568656,130.662618
+2019-01-08,Eucrossorhinus dasypogon,Tasselled Wobbegong,-0.5503931678,130.6935518243
+2019-01-08,Eucrossorhinus dasypogon,Tasselled Wobbegong,-0.0943878515,130.1389820445
+2019-01-07,Mobula alfredi,Reef Manta Ray,-0.8370253585,130.4478469463
+2019-01-07,Eucrossorhinus dasypogon,Tasselled Wobbegong,-0.7084348411,130.3295599218
+2019-01-07,Eucrossorhinus dasypogon,Tasselled Wobbegong,-0.4348542659,130.3341267198
+2019-01-06,Atelomycterus marmoratus,Coral catshark,4.597536997,118.9533558729
+2019-01-06,Taeniurops meyeni,Blotched Fantail Ray,-2.0031951657,130.2306345879
+2019-01-05,Neotrygon orientale,Oriental Bluespotted Maskray,1.4813883333,125.2527783333
+2019-01-05,Neotrygon orientale,Oriental Bluespotted Maskray,1.4813883333,125.2527783333
+2019-01-05,Taeniura lymma,Bluespotted Fantail Ray,1.4856883333,125.2412316667
+2019-01-05,Mobula birostris,Oceanic Manta Ray,-2.342926863,130.7510364077
+2019-01-04,Mobula birostris,Oceanic Manta Ray,-2.3534033413,130.6586247163
+2019-01-03,Carcharhinus melanopterus,Blacktip Reef Shark,-2.3943907128,130.6016235056
+2019-01-03,Eucrossorhinus dasypogon,Tasselled Wobbegong,-2.0335700227,130.996601744
+2019-01-03,Mobula alfredi,Reef Manta Ray,-8.6729925938,115.5737014162
+2019-01-03,Aetobatus ocellatus,White-spotted Eagle Ray,-8.7971209876,115.5239508663
+2019-01-01,Potamotrygon motoro,Peacock River Stingray,1.3723196215,103.8239408383

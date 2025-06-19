@@ -1,0 +1,218 @@
+date,scientific_name,common_name,latitude,longitude
+2023-12-24,Triaenodon obesus,Whitetip Reef Shark,9.51594,123.68425
+2023-12-21,Rhincodon typus,Whale Shark,9.4143838649,123.4824220805
+2023-12-11,Neotrygon orientale,Oriental Bluespotted Maskray,9.0923182995,123.1939498871
+2023-12-07,Atelomycterus marmoratus,Coral catshark,4.5380209079,118.8550944477
+2023-11-25,Rhincodon typus,Whale Shark,9.5306459839,123.55981144
+2023-11-15,Neotrygon orientale,Oriental Bluespotted Maskray,9.1171501241,123.2132899762
+2023-11-13,Neotrygon orientale,Oriental Bluespotted Maskray,9.17797,123.25603
+2023-11-13,Rhincodon typus,Whale Shark,9.4883783275,123.3462788282
+2023-11-11,Rhincodon typus,Whale Shark,9.5195359969,123.2527437044
+2023-11-11,Rhincodon typus,Whale Shark,9.4483046428,123.2482077394
+2023-11-06,Carcharhinus melanopterus,Blacktip Reef Shark,9.3257386142,123.6675664513
+2023-11-06,Alopias pelagicus,Pelagic Thresher Shark,11.3106190094,124.3423899955
+2023-11-05,Triaenodon obesus,Whitetip Reef Shark,11.448625204,124.0205499727
+2023-10-31,Carcharhinus melanopterus,Blacktip Reef Shark,9.7905439546,123.7668533669
+2023-10-29,Taeniura lymma,Bluespotted Fantail Ray,18.547208105,122.1241917374
+2023-10-23,Hemipristis elongata,Snaggletooth Shark,5.8314589197,118.1671933684
+2023-10-23,Hemigaleus microstoma,Sicklefin Weasel Shark,5.9001057157,118.0826041
+2023-10-23,Rhizoprionodon acutus,Milk Shark,5.8388174,118.1204697
+2023-10-23,Carcharhinidae,Requiem Sharks,5.8388174,118.1204697
+2023-10-23,Carcharhinus leucas,Bull Shark,5.9388420286,118.0519431616
+2023-10-23,Chiloscyllium punctatum,Brown-banded Bamboo Shark,5.8791506493,118.0684038907
+2023-10-19,Rhincodon typus,Whale Shark,11.2106199244,119.4060029092
+2023-10-11,Rhincodon typus,Whale Shark,9.5363752125,123.5786604865
+2023-09-28,Carcharhinus melanopterus,Blacktip Reef Shark,13.6656594175,120.8206630943
+2023-09-21,Rhincodon typus,Whale Shark,9.4487783059,123.3662871589
+2023-09-09,Taeniura lymma,Bluespotted Fantail Ray,10.0488681417,125.026715985
+2023-09-08,Alopias pelagicus,Pelagic Thresher Shark,11.2378331267,124.1803306087
+2023-09-05,Chiloscyllium plagiosum,White-spotted Bamboo Shark,11.2880420609,124.0686402002
+2023-09-04,Mobula,Devil Rays,4.5958254,118.8643398
+2023-09-04,Rhincodon typus,Whale Shark,9.5225332357,123.5804990646
+2023-09-04,Taeniura lymma,Bluespotted Fantail Ray,10.04804863,125.0274526317
+2023-09-04,Taeniura lymma,Bluespotted Fantail Ray,10.0162338833,125.0261494417
+2023-08-30,Taeniura lymma,Bluespotted Fantail Ray,10.1423678217,125.0037591217
+2023-08-12,Triaenodon obesus,Whitetip Reef Shark,9.4696731643,123.949037537
+2023-08-09,Carcharhinidae,Requiem Sharks,6.8830571,116.8466165
+2023-08-09,Chiloscyllium punctatum,Brown-banded Bamboo Shark,6.9024358028,116.8271260975
+2023-08-09,Triaenodon obesus,Whitetip Reef Shark,6.8830571,116.8466165
+2023-08-09,Triaenodon obesus,Whitetip Reef Shark,6.8830571,116.8466165
+2023-08-09,Carcharhinus sorrah,Spot-tail Shark,6.8671120861,116.9554144366
+2023-07-29,Neotrygon orientale,Oriental Bluespotted Maskray,9.1779832758,123.2571909034
+2023-07-29,Neotrygon orientale,Oriental Bluespotted Maskray,9.1779832758,123.2571909034
+2023-07-28,Rhincodon typus,Whale Shark,9.5565975128,123.2996021032
+2023-07-28,Rhincodon typus,Whale Shark,9.5425457325,123.246409399
+2023-07-27,Neotrygon orientale,Oriental Bluespotted Maskray,9.1922459604,123.2726313369
+2023-07-23,Rhynchobatus australiae,Whitespotted Guitarfish,6.9530271184,116.8373636341
+2023-07-23,Carcharhinidae,Requiem Sharks,6.8830571,116.8466165
+2023-07-23,Carcharhinidae,Requiem Sharks,6.8830571,116.8466165
+2023-07-23,Sphyrna lewini,Scalloped Hammerhead,6.8664707943,116.9846718941
+2023-07-23,Carcharhinus tjutjot,Indonesian Whaler,6.9573124097,116.9340799915
+2023-07-15,Rhincodon typus,Whale Shark,9.5446779605,123.266128418
+2023-07-11,Chiloscyllium punctatum,Brown-banded Bamboo Shark,6.913018139,116.8151382494
+2023-07-11,Chiloscyllium,Bamboo Sharks,6.8830571,116.8466165
+2023-07-11,Carcharhinidae,Requiem Sharks,6.8830571,116.8466165
+2023-07-11,Carcharhinidae,Requiem Sharks,6.8830571,116.8466165
+2023-07-10,Glaucostegus typus,Giant Guitarfish,6.9024097994,116.8186597068
+2023-07-10,Rhynchobatus australiae,Whitespotted Guitarfish,6.9470432053,116.9711131947
+2023-07-10,Carcharhinidae,Requiem Sharks,6.8830571,116.8466165
+2023-07-10,Carcharhinus tjutjot,Indonesian Whaler,6.9098772312,116.8113403353
+2023-07-10,Carcharhinidae,Requiem Sharks,6.8830571,116.8466165
+2023-07-10,Carcharhinidae,Requiem Sharks,6.8830571,116.8466165
+2023-06-30,Carcharhinus melanopterus,Blacktip Reef Shark,12.7871696615,123.5887372617
+2023-06-23,Neotrygon orientale,Oriental Bluespotted Maskray,9.8051231207,124.599004073
+2023-06-21,Neotrygon orientale,Oriental Bluespotted Maskray,9.17797,123.25603
+2023-06-21,Carcharhinus melanopterus,Blacktip Reef Shark,11.2680027926,124.1089259011
+2023-06-18,Taeniura lymma,Bluespotted Fantail Ray,13.9060534502,123.6799482288
+2023-06-18,Alopias pelagicus,Pelagic Thresher Shark,11.2866094016,124.2727404206
+2023-06-18,Alopias pelagicus,Pelagic Thresher Shark,11.2139405766,124.2114030976
+2023-06-16,Rhincodon typus,Whale Shark,12.7143846629,123.6309954684
+2023-06-16,Alopias pelagicus,Pelagic Thresher Shark,11.2051567893,124.0508988978
+2023-06-15,Rhincodon typus,Whale Shark,4.5048671886,118.9905312005
+2023-06-15,Alopias pelagicus,Pelagic Thresher Shark,11.2206576892,124.258349651
+2023-06-15,Selachii,Sharks,11.3158028745,124.3686451106
+2023-06-14,Triaenodon obesus,Whitetip Reef Shark,8.943333,120.029722
+2023-06-14,Carcharhinus amblyrhynchos,Grey Reef Shark,8.8903720842,120.0673664453
+2023-06-14,Triaenodon obesus,Whitetip Reef Shark,8.925278,120.009722
+2023-06-14,Aetobatus ocellatus,White-spotted Eagle Ray,8.925278,120.009722
+2023-06-14,Triaenodon obesus,Whitetip Reef Shark,8.925278,120.009722
+2023-06-14,Triaenodon obesus,Whitetip Reef Shark,8.739517,119.819183
+2023-06-14,Carcharhinus amblyrhynchos,Grey Reef Shark,8.6994654239,119.9387271328
+2023-06-13,Carcharhinus amblyrhynchos,Grey Reef Shark,8.6756526288,119.8136312252
+2023-06-12,Rhincodon typus,Whale Shark,8.8492920874,120.0518006824
+2023-06-12,Triaenodon obesus,Whitetip Reef Shark,8.925278,120.009722
+2023-06-12,Aetobatus ocellatus,White-spotted Eagle Ray,8.925278,120.009722
+2023-06-12,Triaenodon obesus,Whitetip Reef Shark,8.925278,120.009722
+2023-06-12,Triaenodon obesus,Whitetip Reef Shark,8.943333,120.029722
+2023-06-11,Triaenodon obesus,Whitetip Reef Shark,8.865278,119.898056
+2023-06-11,Carcharhinus amblyrhynchos,Grey Reef Shark,8.9075339016,119.9601211646
+2023-06-11,Taeniura lymma,Bluespotted Fantail Ray,8.88694444,119.89166667
+2023-06-11,Carcharhinus,Typical Requiem Sharks,8.9815062518,119.9399083149
+2023-06-10,Triaenodon obesus,Whitetip Reef Shark,9.0461672,119.8138596
+2023-06-10,Carcharhinus amblyrhynchos,Grey Reef Shark,9.1679748419,119.9459836774
+2023-06-07,Triaenodon obesus,Whitetip Reef Shark,12.662910035,120.4256894405
+2023-06-05,Triaenodon obesus,Whitetip Reef Shark,8.7720975325,119.8168229992
+2023-06-05,Triaenodon obesus,Whitetip Reef Shark,14.5792617438,120.972738862
+2023-06-05,Stegostoma tigrinum,Zebra Shark,14.5792617438,120.972738862
+2023-06-05,Potamotrygon motoro,Peacock River Stingray,14.5792617438,120.972738862
+2023-06-05,Mobula,Devil Rays,8.771962375,119.9628296988
+2023-06-04,Taeniura lymma,Bluespotted Fantail Ray,6.0069845717,116.0092872831
+2023-06-04,Taeniura lymma,Bluespotted Fantail Ray,8.7720975325,119.8168229992
+2023-06-04,Triaenodon obesus,Whitetip Reef Shark,8.7720975325,119.8168229992
+2023-05-25,Rhincodon typus,Whale Shark,9.4303512228,123.5067963767
+2023-05-18,Alopias pelagicus,Pelagic Thresher Shark,11.3530094425,124.0636368443
+2023-05-18,Galeocerdo cuvier,Tiger Shark,11.3333962243,124.178405386
+2023-05-18,Triaenodon obesus,Whitetip Reef Shark,11.3358464,124.1156362
+2023-05-17,Chiloscyllium plagiosum,White-spotted Bamboo Shark,14.1903809052,120.7428962386
+2023-05-15,Neotrygon orientale,Oriental Bluespotted Maskray,13.7588749519,120.9186700833
+2023-05-13,Atelomycterus marmoratus,Coral catshark,11.2784267661,124.0763874821
+2023-05-06,Chiloscyllium plagiosum,White-spotted Bamboo Shark,5.8290374007,116.0657482328
+2023-05-06,Rhynchobatus australiae,Whitespotted Guitarfish,5.807924437,116.0135628644
+2023-05-06,Neotrygon orientale,Oriental Bluespotted Maskray,5.9805083333,116.0707694444
+2023-05-04,Alopias pelagicus,Pelagic Thresher Shark,11.3670370645,124.2971491443
+2023-04-24,Negaprion acutidens,Sicklefin Lemon Shark,20.6165896628,116.6704085855
+2023-04-24,Neotrygon orientale,Oriental Bluespotted Maskray,5.980408,116.0734568
+2023-04-24,Telatrygon biasa,Indonesian Sharpnose Stingray,5.8470700789,116.1891711348
+2023-04-24,Carcharhinus,Typical Requiem Sharks,5.980408,116.0734568
+2023-04-24,Sphyrna lewini,Scalloped Hammerhead,5.9411565525,116.123485474
+2023-04-24,Rhynchobatus australiae,Whitespotted Guitarfish,5.9555545408,116.1799234878
+2023-04-24,Chiloscyllium plagiosum,White-spotted Bamboo Shark,5.902795253,116.1952873115
+2023-04-24,Chiloscyllium punctatum,Brown-banded Bamboo Shark,5.9307571213,116.0030986559
+2023-04-19,Neotrygon orientale,Oriental Bluespotted Maskray,12.5631334212,122.2446167871
+2023-04-19,Neotrygon orientale,Oriental Bluespotted Maskray,12.5631334212,122.2446167871
+2023-04-15,Carcharhinus sorrah,Spot-tail Shark,5.9611362443,118.0090270707
+2023-04-15,Aetobatus ocellatus,White-spotted Eagle Ray,5.8388174,118.1204697
+2023-04-15,Rhynchobatus australiae,Whitespotted Guitarfish,5.8699957972,118.007205811
+2023-04-15,Chiloscyllium plagiosum,White-spotted Bamboo Shark,5.9692813046,118.0698623653
+2023-04-15,Chiloscyllium punctatum,Brown-banded Bamboo Shark,5.8789409558,118.1562287125
+2023-04-15,Neotrygon orientale,Oriental Bluespotted Maskray,5.8388174,118.1204697
+2023-04-15,Taeniura lymma,Bluespotted Fantail Ray,5.8388174,118.1204697
+2023-04-15,Mobula,Devil Rays,5.8388174,118.1204697
+2023-04-15,Himantura,Whiprays,5.8388174,118.1204697
+2023-04-15,Himantura,Whiprays,5.8388174,118.1204697
+2023-04-15,Carcharhinus sealei,Blackspot Shark,5.9384612163,118.1426242991
+2023-04-15,Loxodon macrorhinus,Sliteye Shark,5.8388174,118.1204697
+2023-04-15,Carcharhinus sorrah,Spot-tail Shark,5.8880242273,118.0536782833
+2023-04-15,Rhizoprionodon acutus,Milk Shark,5.8388174,118.1204697
+2023-04-15,Pateobatis uarnacoides,Whitenose whipray,5.8287212991,118.0008715666
+2023-04-06,Rhincodon typus,Whale Shark,9.8773771314,123.4434915429
+2023-04-04,Triaenodon obesus,Whitetip Reef Shark,8.8499995848,119.9333332479
+2023-04-04,Nebrius ferrugineus,Tawny Nurse Shark,8.8055436079,119.9664572679
+2023-04-04,Taeniura lymma,Bluespotted Fantail Ray,8.8499995848,119.9333332479
+2023-04-03,Nebrius ferrugineus,Tawny Nurse Shark,8.9675354574,119.8346085016
+2023-04-03,Triaenodon obesus,Whitetip Reef Shark,8.8499995848,119.9333332479
+2023-04-03,Chiloscyllium punctatum,Brown-banded Bamboo Shark,6.8452873578,116.9336158676
+2023-04-03,Carcharhinus melanopterus,Blacktip Reef Shark,6.901068362,116.9863763288
+2023-04-03,Carcharhinidae,Requiem Sharks,6.8830571,116.8466165
+2023-04-03,Carcharhinidae,Requiem Sharks,6.8830571,116.8466165
+2023-04-03,Carcharhinidae,Requiem Sharks,8.8572056187,119.821945622
+2023-04-02,Taeniurops meyeni,Blotched Fantail Ray,8.8836076293,119.8081864173
+2023-04-02,Taeniura lymma,Bluespotted Fantail Ray,8.8499995848,119.9333332479
+2023-04-01,Triaenodon obesus,Whitetip Reef Shark,8.8499995848,119.9333332479
+2023-03-30,Neotrygon orientale,Oriental Bluespotted Maskray,13.6863186133,120.8955564528
+2023-03-30,Carcharhinidae,Requiem Sharks,6.8830571,116.8466165
+2023-03-27,Rhynchobatus australiae,Whitespotted Guitarfish,6.8475563136,116.8442200354
+2023-03-27,Rhynchobatus australiae,Whitespotted Guitarfish,6.8763790729,116.9301276198
+2023-03-27,Sphyrna lewini,Scalloped Hammerhead,6.8277890763,116.8100844026
+2023-03-27,Carcharhinus sorrah,Spot-tail Shark,6.8365285043,116.8003459876
+2023-03-27,Carcharhinus,Typical Requiem Sharks,6.8830571,116.8466165
+2023-03-27,Carcharhinus sorrah,Spot-tail Shark,6.905626274,116.8505551114
+2023-03-24,Triaenodon obesus,Whitetip Reef Shark,9.0462816273,119.8091705816
+2023-03-23,Carcharhinus amblyrhynchos,Grey Reef Shark,8.8155558717,119.9816218237
+2023-03-23,Aetobatus ocellatus,White-spotted Eagle Ray,8.9119250128,120.0013112158
+2023-03-23,Taeniura lymma,Bluespotted Fantail Ray,8.9107097068,120.0065469387
+2023-03-23,Triaenodon obesus,Whitetip Reef Shark,8.938681258,120.0237701299
+2023-03-23,Taeniura lymma,Bluespotted Fantail Ray,8.940789906,120.0220913274
+2023-03-23,Triaenodon obesus,Whitetip Reef Shark,8.9396361081,120.0275945486
+2023-03-23,Carcharhinus leucas,Bull Shark,6.5036921575,116.6879577538
+2023-03-23,Carcharhinus,Typical Requiem Sharks,6.4958249,116.7609682
+2023-03-23,Carcharhinus,Typical Requiem Sharks,6.4958249,116.7609682
+2023-03-23,Carcharhinus,Typical Requiem Sharks,6.4958249,116.7609682
+2023-03-22,Carcharhinus amblyrhynchos,Grey Reef Shark,8.9628789503,120.1031609257
+2023-03-22,Carcharhinus amblyrhynchos,Grey Reef Shark,8.8229031873,120.1835530989
+2023-03-22,Triaenodon obesus,Whitetip Reef Shark,8.7944399145,119.8386810829
+2023-03-21,Urogymnus asperrimus,Porcupine Ray,8.6552685747,119.8865696823
+2023-03-21,Triaenodon obesus,Whitetip Reef Shark,8.7588396692,119.8334695146
+2023-03-21,Triaenodon obesus,Whitetip Reef Shark,8.7569158516,119.8329761935
+2023-03-21,Carcharhinus amblyrhynchos,Grey Reef Shark,8.6616235516,119.9021894439
+2023-03-21,Carcharhinus amblyrhynchos,Grey Reef Shark,8.6460968418,119.9487336122
+2023-03-21,Carcharhinus amblyrhynchos,Grey Reef Shark,8.7004543975,119.8511897136
+2023-03-21,Carcharhinus amblyrhynchos,Grey Reef Shark,8.6284118819,119.8810167877
+2023-03-21,Carcharhinus amblyrhynchos,Grey Reef Shark,8.6159922848,119.8935034382
+2023-03-20,Carcharhinus amblyrhynchos,Grey Reef Shark,8.6380573396,119.9134484605
+2023-03-20,Carcharhinus amblyrhynchos,Grey Reef Shark,8.7185710524,119.9989860981
+2023-03-20,Nebrius ferrugineus,Tawny Nurse Shark,8.9261581231,119.8127372749
+2023-03-20,Neotrygon orientale,Oriental Bluespotted Maskray,13.693168407,120.8782284704
+2023-03-19,Taeniurops meyeni,Blotched Fantail Ray,8.8017438281,119.9113762529
+2023-03-19,Carcharhinus amblyrhynchos,Grey Reef Shark,8.8467547376,119.9276709819
+2023-03-19,Triaenodon obesus,Whitetip Reef Shark,8.8739351003,119.8861264266
+2023-03-18,Taeniura lymma,Bluespotted Fantail Ray,9.9822024764,123.3687267426
+2023-03-18,Neotrygon orientale,Oriental Bluespotted Maskray,13.693168407,120.8782284704
+2023-03-18,Neotrygon orientale,Oriental Bluespotted Maskray,13.6876870502,120.8973692901
+2023-03-17,Rhincodon typus,Whale Shark,9.4028779655,123.239117711
+2023-03-17,Neotrygon orientale,Oriental Bluespotted Maskray,13.6912221253,120.9067511672
+2023-03-16,Neotrygon orientale,Oriental Bluespotted Maskray,13.6893874976,120.9016871566
+2023-03-10,Rhincodon typus,Whale Shark,9.5974328547,123.2616490058
+2023-03-07,Alopias pelagicus,Pelagic Thresher Shark,11.3880040612,124.2403866538
+2023-03-05,Carcharhinus melanopterus,Blacktip Reef Shark,5.900061639,116.1557895536
+2023-03-03,Alopias pelagicus,Pelagic Thresher Shark,11.3642727671,124.0424651718
+2023-02-27,Rhincodon typus,Whale Shark,9.5640793713,124.0784777699
+2023-02-27,Rhincodon typus,Whale Shark,9.4054574456,124.1666722642
+2023-02-26,Aetobatus ocellatus,White-spotted Eagle Ray,4.5958254,118.8643398
+2023-02-25,Neotrygon orientale,Oriental Bluespotted Maskray,12.183086693,120.2936362962
+2023-02-24,Triaenodon obesus,Whitetip Reef Shark,11.3231523591,124.1190998501
+2023-02-23,Mobula mobular,Spinetail Devil Ray,4.5741291911,118.723295219
+2023-02-23,Alopias pelagicus,Pelagic Thresher Shark,11.2915762382,124.1945274078
+2023-02-19,Neotrygon orientale,Oriental Bluespotted Maskray,13.6864262549,120.8913929371
+2023-02-19,Dasyatidae,Whiptail Stingrays,20.7104127334,116.7119940868
+2023-02-19,Alopias pelagicus,Pelagic Thresher Shark,11.2658477351,124.1916116183
+2023-02-19,Alopias pelagicus,Pelagic Thresher Shark,11.2193666606,124.1282121892
+2023-02-16,Negaprion acutidens,Sicklefin Lemon Shark,20.6473200461,116.7463752114
+2023-02-16,Alopias pelagicus,Pelagic Thresher Shark,11.3678149203,124.153423115
+2023-02-14,Potamotrygon leopoldi,Xingu River Ray,9.5629402365,123.8103052542
+2023-02-13,Pastinachus,Cowtail Stingrays,10.5305166649,119.2547544837
+2023-01-18,Triaenodon obesus,Whitetip Reef Shark,11.3358464,124.1156362
+2023-01-16,Rhina ancylostomus,Bowmouth Guitarfish,4.516998333,118.6035425205
+2023-01-16,Carcharhinus brevipinna,Spinner Shark,4.5104917397,118.735224935
+2023-01-10,Neotrygon orientale,Oriental Bluespotted Maskray,9.1926375845,123.2727803971
+2023-01-01,Neotrygon orientale,Oriental Bluespotted Maskray,9.21266,123.287415

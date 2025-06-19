@@ -1,0 +1,275 @@
+date,scientific_name,common_name,latitude,longitude
+2019-06-30,Clarias gariepinus,Sharptooth Catfish,1.3138397,103.8159136
+2019-06-30,Lophiocharon trisignatus,Spot-tail Anglerfish,1.2248409939,103.7462988043
+2019-06-30,Symphysodon,Discus Cichlids,1.4034778117,103.7906877862
+2019-06-30,Carassius auratus,Goldfish,4.6063573392,101.0706919319
+2019-06-29,Belonidae,Needlefishes,2.666392657,101.9884758443
+2019-06-29,Amphilophus citrinellus × Vieja melanurus,Blood Parrot Cichlid,1.3014383305,103.839931463
+2019-06-29,Vieja,,1.3591923706,103.8490732901
+2019-06-29,Vieja,,1.3579117294,103.8496017847
+2019-06-29,Vieja,,1.3578230478,103.8496920911
+2019-06-29,Toxotes jaculatrix,Banded Archerfish,2.7875884855,104.1761338552
+2019-06-29,Scorpaenopsis oxycephala,Smallscale Scorpionfish,2.8462874994,104.1262587905
+2019-06-29,Monodactylus argenteus,Diamondfish,1.226938947,103.7516460957
+2019-06-29,Batrachomoeus trispinosus,Threespine Frogfish,1.2269502687,103.7516603868
+2019-06-29,Platax pinnatus,Dusky Batfish,1.2269680292,103.7516828101
+2019-06-29,Pomacanthus sexstriatus,Sixband Angelfish,1.226898409,103.7514856353
+2019-06-29,Doryrhamphus janssi,Cleaner Pipefish,1.2270983521,103.7512880085
+2019-06-28,Channa striata,Striped Snakehead,1.3567733438,103.7719385342
+2019-06-28,Oreochromis mossambicus,Mozambique Tilapia,1.3569324996,103.7718824005
+2019-06-28,Oreochromis,Tilapias,1.3495714619,103.7751935538
+2019-06-28,Otolithoides biauritus,Bronze Croaker,2.2336376791,111.2185407802
+2019-06-28,Exyrias puntang,Puntang Goby,2.8211936636,104.157250243
+2019-06-27,Dactyloptena orientalis,Oriental Flying Gurnard,-8.5562811728,119.5280289662
+2019-06-27,Dactyloptena orientalis,Oriental Flying Gurnard,-8.4805196038,119.5367389539
+2019-06-27,Monocirrhus polyacanthus,Amazon Leaffish,1.3776888259,103.7741528079
+2019-06-27,Exocoetidae,Flyingfishes,-0.789275,113.921327
+2019-06-26,Cymbacephalus,,-8.5144847047,119.4854397021
+2019-06-26,Gymnothorax zonipectis,Barred-fin Moray,-8.5554782744,125.5081568485
+2019-06-26,Antennarius pictus,Painted Frogfish,-8.5554689911,125.5081219798
+2019-06-26,Amatitlania nigrofasciata,Convict Cichlid,5.3277052573,103.1472291815
+2019-06-26,Rubricatochromis bimaculatus,Jewel Cichlid,5.3275609338,103.1471908052
+2019-06-26,Pterygoplichthys,Sailfin Catfishes,2.9463889599,101.8572235107
+2019-06-26,Poecilia reticulata,Guppy,2.9461112022,101.8555526733
+2019-06-24,Belonidae,Needlefishes,2.5264674982,101.7909495905
+2019-06-24,Chaetodon rafflesii,Lattice Butterflyfish,-8.3442751705,116.0507022589
+2019-06-24,Zanclus cornutus,Moorish Idol,-8.3455277692,116.0492662713
+2019-06-24,Fistularia commersonii,Blue-spotted Cornetfish,-8.3435802021,116.0508685559
+2019-06-24,Sufflamen chrysopterum,Flagtail Triggerfish,-8.344838774,116.0502550006
+2019-06-24,Aulostomus chinensis,Pacific Trumpetfish,-8.3440651873,116.0502362251
+2019-06-24,Acanthurus nigricauda,Eyeline Surgeonfish,-8.3477907961,116.0499227419
+2019-06-24,Balistapus undulatus,Orangestripe Triggerfish,-8.3455045484,116.0483171046
+2019-06-24,Arapaima gigas,Giant arapaima,3.2358334064,101.6291656494
+2019-06-24,Ostracion cubicum,Yellow Boxfish,-8.3443448331,116.0509141535
+2019-06-24,Thalassoma hardwicke,Sixbar Wrasse,-8.3430020007,116.050219126
+2019-06-24,Balistapus undulatus,Orangestripe Triggerfish,-8.3436730857,116.0513396189
+2019-06-24,Chaetodon kleinii,Blacklip Butterflyfish,-8.347052378,116.0512735695
+2019-06-24,Chaetodon adiergastos,Panda Butterflyfish,-8.3529639958,116.0520540923
+2019-06-24,Melichthys niger,Black Triggerfish,-8.3471518954,116.0505178571
+2019-06-24,Naso brachycentron,Humpback Unicornfish,-8.3437241718,116.0492042452
+2019-06-24,Odonus niger,Redtooth Triggerfish,-8.3520680205,116.048955135
+2019-06-24,Pomacentrinae,Typical Damselfishes and Anemonefishes,-8.3524866512,116.0520329699
+2019-06-24,Pomacanthus semicirculatus,Semicircle Angelfish,-8.3489471838,116.0515857115
+2019-06-24,Arothron nigropunctatus,Blackspotted Puffer,-8.3511581108,116.0507491976
+2019-06-24,Pycnochromis margaritifer,Bicolor Chromis,-8.3475967376,116.0506402329
+2019-06-24,Scomberoides,Queenfishes,-8.3446029165,116.0519052297
+2019-06-24,Ostracion,,-8.3528187027,116.0517094284
+2019-06-24,Balistapus undulatus,Orangestripe Triggerfish,-8.3445110282,116.0502586886
+2019-06-24,Ctenochaetus striatus,Lined Bristletooth,-8.3491220018,116.0487442464
+2019-06-24,Acanthurus,,-8.3542484116,116.0495294631
+2019-06-24,Acanthurus nigricauda,Eyeline Surgeonfish,-8.3481112412,116.0505497083
+2019-06-24,Sufflamen chrysopterum,Flagtail Triggerfish,-8.3503138798,116.0458605364
+2019-06-24,Centropyge vrolikii,Pearlscale Angelfish,-8.3526886686,116.0521506518
+2019-06-24,Pomacentrus moluccensis,Lemon Damsel,-8.3517983318,116.0514529422
+2019-06-24,Acanthurus,,-8.3513050631,116.0494972765
+2019-06-24,Platax,Spadefishes,-8.3540142183,116.0474527627
+2019-06-24,Melichthys niger,Black Triggerfish,-8.3487534576,116.0467614233
+2019-06-24,Centropyge bicolor,Bicolor Angelfish,-8.352787521,116.0465461761
+2019-06-24,Centropyge bicolor,Bicolor Angelfish,-8.3474660383,116.0470008105
+2019-06-24,Periophthalmus argentilineatus,Barred Mudskipper,2.8211936636,104.157250243
+2019-06-24,Poropuntius deauratus,,3.2374310242,101.7648916522
+2019-06-24,Lutjanus kasmira,Bluestriped Snapper,1.2713074018,103.8241771
+2019-06-23,Gymnothorax thyrsoideus,White-eyed Moray,2.6624137436,104.0607102091
+2019-06-23,Arothron mappa,Map Puffer,2.6624284798,104.0606753404
+2019-06-22,Siganus corallinus,Coral Rabbitfish,2.9158512142,104.1089413754
+2019-06-22,Sebastapistes strongia,Barchin scorpionfish,2.9155203971,104.1082518432
+2019-06-22,Cephalopholis formosa,Bluelined Rockcod,2.8879726542,104.0645614708
+2019-06-22,Synodus variegatus,Variegated Lizardfish,2.8885149351,104.0646037684
+2019-06-22,Amphiprion ocellaris,Ocellaris Anemonefish,2.8095385194,104.1351715014
+2019-06-22,Istigobius decoratus,Decorated Sandgoby,2.8882971625,104.0644989933
+2019-06-22,Gymnothorax javanicus,Giant Moray,2.8883391383,104.0645765222
+2019-06-22,Dascyllus trimaculatus,Three-spot Dascyllus,2.8934071885,104.0580098223
+2019-06-22,Pomacanthus xanthometopon,Blueface Angelfish,4.5958254,118.8643398
+2019-06-22,Taenianotus triacanthus,Leaf Scorpionfish,4.5958254,118.8643398
+2019-06-22,Scorpaenopsis,Scorpionfishes,4.5958254,118.8643398
+2019-06-22,Pterygoplichthys,Sailfin Catfishes,1.3150744531,103.9161101521
+2019-06-22,Scorpaenopsis,Scorpionfishes,4.5958254,118.8643398
+2019-06-22,Oxycheilinus digramma,Linedcheek Wrasse,2.8096852038,104.1350384541
+2019-06-22,Ostorhinchus neotes,Mini Cardinalfish,2.8095852767,104.1352399149
+2019-06-22,Balistoides viridescens,Titan Triggerfish,2.8095643547,104.1351400837
+2019-06-22,Acanthuriformes,"Butterflyfishes, Angelfishes, and Allies",2.8096766765,104.1349114502
+2019-06-22,Echeneis naucrates,Sharksucker,2.8098801322,104.1349821369
+2019-06-22,Aluterus scriptus,Scrawled Filefish,2.809507267,104.1352459
+2019-06-22,Pomacanthus sexstriatus,Sixband Angelfish,2.8095271919,104.1352304746
+2019-06-22,Thalassoma lunare,Moon Wrasse,2.8100117132,104.1350173571
+2019-06-22,Cheilinus fasciatus,Redbreast Maori Wrasse,2.8101382908,104.1349928016
+2019-06-22,Amphiprion melanopus,Blackback Anemonefish,-2.2437169497,130.5564086293
+2019-06-22,Antennarius,,-2.219009649,130.5679072334
+2019-06-22,Hyphessobrycon herbertaxelrodi,Black neon tetra,1.3150224994,103.9161028059
+2019-06-21,Epinephelus fasciatus,Blacktip Grouper,4.5958254,118.8643398
+2019-06-21,Centropyge tibicen,Keyhole Angelfish,0.9693798599,124.9217059091
+2019-06-21,Pomacanthus imperator,Emperor Angelfish,0.9788188655,124.9204439297
+2019-06-21,Plectorhinchus vittatus,Oriental Sweetlips,0.9692323595,124.9222933128
+2019-06-20,Platax boersii,Golden Spadefish,4.7994448533,103.6760620773
+2019-06-20,Periophthalmodon,Giant Mudskippers,3.3366121189,101.2410813197
+2019-06-20,Periophthalmus gracilis,Slender Mudskipper,3.3329889005,101.2412372231
+2019-06-20,Periophthalmodon,Giant Mudskippers,3.3277460046,101.2384970114
+2019-06-20,Echeneis naucrates,Sharksucker,4.7978314799,103.6752248928
+2019-06-19,Epinephelus,,1.3601524586,103.989768451
+2019-06-19,Oxymonacanthus longirostris,Longnose Filefish,0.9536110268,124.8791667446
+2019-06-18,Amphiprion ocellaris,Ocellaris Anemonefish,0.9798222003,124.9014699832
+2019-06-18,Epinephelus merra,Honeycomb Grouper,0.9798222003,124.9014699832
+2019-06-18,Diodon liturosus,Blackblotched Porcupinefish,0.9798222003,124.9014699832
+2019-06-18,Aluterus scriptus,Scrawled Filefish,0.9798222003,124.9014699832
+2019-06-18,Pempheris,,5.8983515411,102.7378505096
+2019-06-18,Abudefduf vaigiensis,Indo-Pacific Sergeant Major,5.8958579477,102.7375266328
+2019-06-18,Chrysiptera,,5.8958896305,102.7376610786
+2019-06-18,Dischistodus,,5.8950785516,102.7378940955
+2019-06-18,Pomacentrinae,Typical Damselfishes and Anemonefishes,5.8962738253,102.737525627
+2019-06-18,Abudefduf sordidus,Blackspot Sergeant,5.8958816264,102.7377539501
+2019-06-18,Caesio,,5.8961897827,102.738603875
+2019-06-18,Chrysiptera,,5.8961480949,102.7379413694
+2019-06-18,Plectorhinchus gibbosus,Blubberlip,5.8969601727,102.7374636009
+2019-06-18,Stethojulis trilineata,Three-ribbon Wrasse,5.8960030214,102.7371256426
+2019-06-18,Chrysiptera unimaculata,Onespot Demoiselle,5.8984736025,102.7375403792
+2019-06-18,Atheriniformes,Silversides,5.8951809371,102.7363873646
+2019-06-18,Hemigymnus melapterus,Blackeye Thicklip,5.8996765394,102.7360088378
+2019-06-18,Scarus,,5.8964175648,102.7366716787
+2019-06-18,Mugil,Common Mullets,5.8956278309,102.7377375215
+2019-06-18,Dascyllus reticulatus,Reticulated Damselfish,5.8966320067,102.7376805246
+2019-06-18,Kyphosus vaigiensis,Brassy Drummer,5.8992736708,102.7369905263
+2019-06-18,Cheilinus,,5.8957278817,102.7375222743
+2019-06-18,Moolgarda,,5.8971279242,102.737715058
+2019-06-18,Siganus virgatus,Doublebar Rabbitfish,5.8963411928,102.7371437475
+2019-06-18,Salarias fasciatus,Jewelled Blenny,5.8960630518,102.7373854816
+2019-06-18,Dischistodus chrysopoecilus,Whitepatch Damsel,5.8950011789,102.7369794622
+2019-06-18,Dischistodus perspicillatus,White Damsel,5.896302173,102.736765556
+2019-06-18,Siganus corallinus,Coral Rabbitfish,5.8969161505,102.7375661954
+2019-06-18,Scarus niger,Swarthy Parrotfish,5.8955431212,102.7373955399
+2019-06-18,Platax,Spadefishes,5.8955437882,102.7376339212
+2019-06-18,Pomacentrinae,Typical Damselfishes and Anemonefishes,5.8966246697,102.7374971285
+2019-06-18,Arothron mappa,Map Puffer,4.5569594832,118.9219959259
+2019-06-18,Polynemidae,Threadfins,-8.5108194444,126.0306777778
+2019-06-18,Moolgarda,,5.8969044779,102.7371182665
+2019-06-18,Amphiprion ocellaris,Ocellaris Anemonefish,5.8975021131,102.7370334417
+2019-06-18,Halichoeres annularis,Pacific Dusky Wrasse,5.8951008963,102.7366327867
+2019-06-18,Hemigymnus melapterus,Blackeye Thicklip,5.8958766239,102.7374317497
+2019-06-18,Epibulus insidiator,Slingjaw Wrasse,5.8977865899,102.7361164615
+2019-06-18,Belonidae,Needlefishes,5.8965726434,102.7373657003
+2019-06-18,Istiblennius,Rockskippers,5.8982058011,102.7374173328
+2019-06-18,Epinephelus quoyanus,Longfin Rockcod,5.8968928053,102.737175934
+2019-06-18,Lethrinidae,Emperor Breams,5.8954220597,102.7366934717
+2019-06-18,Gerreidae,Mojarras,5.8960493782,102.7377811074
+2019-06-18,Halichoeres nigrescens,Bubblefin Wrasse,5.8970355442,102.7369932085
+2019-06-18,Chaetodon octofasciatus,Eightband Butterflyfish,5.8957272147,102.7377375215
+2019-06-18,Epibulus insidiator,Slingjaw Wrasse,5.896156099,102.7373442426
+2019-06-18,Siganus guttatus,Golden Rabbitfish,5.8958125914,102.7377080172
+2019-06-18,Siganus punctatus,Spotted Rabbitfish,5.8971542708,102.7376319095
+2019-06-18,Mugilidae,Mullets,-8.5117111111,126.0150222222
+2019-06-18,Scarus niger,Swarthy Parrotfish,5.8963391918,102.7377385274
+2019-06-18,Scolopsis margaritifera,Pearly Monocle Bream,5.8957155421,102.7378659323
+2019-06-18,Sillaginidae,Smelt-whitings,-8.5112472222,126.0118722222
+2019-06-18,Acanthuriformes,"Butterflyfishes, Angelfishes, and Allies",-8.5117194444,126.0149916667
+2019-06-17,Lutjanus vitta,Brownstripe Snapper,4.3798105694,113.9270721125
+2019-06-17,Scolopsis bilineata,Bridled Monocle Bream,4.3906679247,113.9425214053
+2019-06-17,Lutjanus,Common Snappers,4.3556408475,113.8954938006
+2019-06-17,Amphiprion clarkii,Clark's Anemonefish,4.3915207531,113.9520813281
+2019-06-17,Amphiprion sandaracinos,Orange Skunk Anemonefish,4.3942648376,113.9585947804
+2019-06-17,Amphiprion ocellaris,Ocellaris Anemonefish,4.3842385656,113.9425307499
+2019-06-17,Acestrorhamphidae,American tetras,1.3333568788,103.7365283121
+2019-06-17,Cyprinus rubrofuscus,Amur Carp,1.1742385188,104.3307651579
+2019-06-16,Betta pugnax,Penang Betta,3.1137848401,101.8138496205
+2019-06-16,Periophthalmodon schlosseri,Giant Mudskipper,1.4479987,103.7245442
+2019-06-16,Pteropterus antennatus,Spotfin Lionfish,4.3433134184,113.8738978039
+2019-06-16,Sphyraena flavicauda,Yellowtail Barracuda,4.352188538,113.8587509917
+2019-06-16,Cephalopholis boenak,Chocolate Grouper,4.3272735021,113.8556958672
+2019-06-16,Cirrhitichthys aprinus,Threadfin Hawkfish,4.3161258491,113.7698364258
+2019-06-16,Epinephelus coioides,Goldspotted Rockcod,4.3441399012,113.7456623038
+2019-06-16,Periophthalmodon schlosseri,Giant Mudskipper,1.4483320622,103.7255777001
+2019-06-15,Pomacanthus annularis,Bluering Angelfish,4.43367054,113.928084106
+2019-06-15,Pomacentrus grammorhynchus,Bluespot damsel,0.9798222003,124.9014699832
+2019-06-15,Fusigobius neophytus,Neophyte Sandgoby,0.9798222003,124.9014699832
+2019-06-14,Mugilidae,Mullets,5.4406149044,100.3080808841
+2019-06-14,Boleophthalmus boddarti,Boddart's Blue-spotted Mudskipper,1.6662559738,110.4313496466
+2019-06-13,Sphyraena,Barracudas,-8.4090888889,127.298775
+2019-06-13,Hippocampus bargibanti,Pygmy Seahorse,-8.4061004914,119.5285199821
+2019-06-13,Clarias gariepinus,Sharptooth Catfish,-6.8949099,112.0416754
+2019-06-12,Stiphodon maculidorsalis,Orange-fin Stiphodon,-1.0961090432,100.3907644004
+2019-06-12,Aeoliscus strigatus,Jointed Razorfish,4.5785925342,118.9459490645
+2019-06-12,Scombrinae,,2.254766218,118.5508799184
+2019-06-12,Taenianotus triacanthus,Leaf Scorpionfish,2.1916423843,118.5824656117
+2019-06-12,Gymnothorax richardsonii,Richardson's Moray,-8.7126068485,119.376614395
+2019-06-11,Aplocheilus armatus,Whitespot,1.3414263883,103.8313838883
+2019-06-11,Ambassis kopsii,Singapore Glassy Perchlet,1.3414433333,103.8314008333
+2019-06-11,Pangasius sanitwongsei,Giant Pangasius,1.4547174732,103.7873670667
+2019-06-11,Piaractus brachypomus,Red-bellied Pacu,-7.3327660561,108.0766525269
+2019-06-11,Forcipiger flavissimus,Forceps Butterflyfish,2.2776727378,118.5662504906
+2019-06-11,Hemitaurichthys polylepis,Pyramid Butterflyfish,2.1948285503,118.588731252
+2019-06-11,Gymnothorax favagineus,Laced Moray,2.2444744734,118.5536265004
+2019-06-11,Amblyeleotris gymnocephala,Nakedhead shrimpgoby,1.1872033333,104.0714721667
+2019-06-11,Gymnothorax meleagris,Whitemouth Moray,-8.2568654218,115.5795349484
+2019-06-10,Betta splendens,Siamese Fighting Fish,-6.2288884,106.9476288
+2019-06-10,Acanthopagrus pacificus,Pikey Bream,-6.1242142605,106.8360503018
+2019-06-10,Arapaima gigas,Giant arapaima,-6.1259007396,106.842918098
+2019-06-10,Carassius auratus,Goldfish,4.8584327648,114.8935917113
+2019-06-09,Gerres erythrourus,Short Silverbiddy,1.3086149693,103.9348831177
+2019-06-09,Lethrinus lentjan,Redspot Emperor,1.3111089468,103.9372558594
+2019-06-09,Cymbacephalus beauforti,Crocodile Flathead,0.9798222003,124.9014699832
+2019-06-08,Dascyllus reticulatus,Reticulated Damselfish,-8.4342276173,119.4440628349
+2019-06-08,Batrachomoeus trispinosus,Threespine Frogfish,1.2273193858,103.7464339157
+2019-06-08,Centrogenys vaigiensis,False Scorpionfish,1.2270608965,103.7464749813
+2019-06-08,Synanceia horrida,Estuarine Stonefish,1.2262224291,103.7466806311
+2019-06-08,Scorpaenopsis macrochir,Humpback Scorpionfish,1.2264882232,103.7466748812
+2019-06-08,Channa striata,Striped Snakehead,3.0442278385,101.622795105
+2019-06-08,Ambloplites rupestris,Rock Bass,3.0442948341,101.6227798462
+2019-06-08,Arothron hispidus,White-spotted Puffer,0.9798222003,124.9014699832
+2019-06-08,Caesio teres,Blue-and-yellow Fusilier,0.9798222003,124.9014699832
+2019-06-08,Oreochromis niloticus,Nile Tilapia,2.9848056663,101.8864993354
+2019-06-08,Amphiprion melanopus,Blackback Anemonefish,0.9536110268,124.8791667446
+2019-06-08,Parachromis managuensis,Jaguar Guapote,-6.9034061527,108.1213252991
+2019-06-08,Neoglyphidodon oxyodon,Javanese Damselfish,0.9536110268,124.8791667446
+2019-06-07,Periophthalmus argentilineatus,Barred Mudskipper,5.3963764619,100.3895188362
+2019-06-07,Arothron reticularis,Reticulated Puffer,-7.6718091965,108.7123947144
+2019-06-07,Amphiprion ocellaris,Ocellaris Anemonefish,2.809596847,104.1321811205
+2019-06-07,Diodon hystrix,Spotted Porcupinefish,2.8287996521,104.1284151676
+2019-06-07,Trichopsis vittata,Croaking Gourami,5.3034134864,103.1605640069
+2019-06-06,Cyprinus rubrofuscus,Amur Carp,2.0147618156,103.0583982915
+2019-06-06,Periophthalmus chrysospilos,Gold-spotted Mudskipper,1.2596628362,103.8087983109
+2019-06-06,Periophthalmodon schlosseri,Giant Mudskipper,1.377345,103.9522633333
+2019-06-05,Carassius auratus,Goldfish,3.02958161,101.62082175
+2019-06-05,Cyprinus rubrofuscus,Amur Carp,3.2367217541,101.6646194458
+2019-06-05,Opsanus,,5.3259676346,100.3283673986
+2019-06-05,Eurypegasus draconis,Dragon Seamoth,-8.5446227432,119.4282777448
+2019-06-05,Chromileptes altivelis,Humpback Grouper,2.3619215017,118.5951223384
+2019-06-05,Pterocaesio tile,Neon Fusilier,2.1953431565,118.5833239186
+2019-06-05,Pangasius,,-7.31267004,108.24717834
+2019-06-05,Centrogenys vaigiensis,False Scorpionfish,1.2148577997,103.7862884754
+2019-06-05,Tylosurus crocodilus crocodilus,,1.30603,103.9419416667
+2019-06-05,Terapon jarbua,Crescent Grunter,1.3058084729,103.932303859
+2019-06-04,Favonigobius,,5.2862294939,103.1739159921
+2019-06-04,Monopterus,,5.4269066941,100.5421164853
+2019-06-04,Cichlidae,Cichlids,-7.6709127426,108.7034835815
+2019-06-04,Actinopterygii,Ray-finned Fishes,-7.6709127426,108.7034835815
+2019-06-04,Gobiopterus,,-0.2927641869,100.2270973474
+2019-06-04,Plotosus lineatus,Striped Eel Catfish,4.576924175,118.9464640487
+2019-06-04,Synodus,,4.5958254,118.8643398
+2019-06-04,Cyprinus rubrofuscus,Amur Carp,3.1601528333,101.6910866667
+2019-06-04,Eviota bifasciata,Twostripe Eviota,-8.6838747988,115.510251991
+2019-06-03,Oreochromis,Tilapias,-7.722942,108.469814
+2019-06-03,Osphronemus goramy,Giant Gourami,-7.7266666667,108.4644444444
+2019-06-03,Euthynnus affinis,Mackerel Tuna,-6.8282826543,108.628080748
+2019-06-03,Moolgarda seheli,Bluespot Mullet,-6.8282040904,108.6280877888
+2019-06-03,Amphilophus trimaculatus,Threespot Cichlid,-0.2927641869,100.2270973474
+2019-06-03,Taenianotus triacanthus,Leaf Scorpionfish,-8.2750804669,115.5949075046
+2019-06-02,Cichlinae,South and Central American Cichlids,-6.3200749081,106.8693789075
+2019-06-02,Canthigaster valentini,Blacksaddle Toby,0.9798222003,124.9014699832
+2019-06-02,Chaetodon citrinellus,Speckled Butterflyfish,0.9798222003,124.9014699832
+2019-06-02,Pterophyllum scalare,Freshwater Angelfish,-7.326050999,108.1953717023
+2019-06-02,Apteronotus albifrons,Black Ghost Knifefish,-7.3260320442,108.1953606382
+2019-06-02,Platycephalus indicus,Bartail Flathead,1.305705,103.942025
+2019-06-02,Trichopodus trichopterus,Three Spot Gourami,5.3029466797,103.1608959025
+2019-06-02,Barbonymus schwanefeldii,Tinfoil Barb,2.9446682001,101.6935720264
+2019-06-02,Barbonymus schwanefeldii,Tinfoil Barb,2.9491133495,101.6958682915
+2019-06-02,Ambassidae,Asian Glassfishes,1.305495,103.9422216667
+2019-06-02,Boraras maculatus,Spotted Rasbora,5.2052082364,103.1903966247
+2019-06-01,Periophthalmus walailakae,Yellow-spotted Mudskipper,1.2670271425,103.8057046312
+2019-06-01,Tor,True Mahseers,2.1151309013,111.5227279663
+2019-06-01,Periophthalmodon schlosseri,Giant Mudskipper,1.331848,103.442997
+2019-06-01,Mystus,,-7.6709127426,108.7034835815
+2019-06-01,Lutjanus,Common Snappers,1.3575632291,103.4639531402
+2019-06-01,Beloniformes,"Needlefishes, Halfbeaks, and Allies",1.332941,103.440737
+2019-06-01,Dichotomyctere nigroviridis,Green Spotted Puffer,1.334478,103.440278
+2019-06-01,Boleophthalmus pectinirostris,Great Blue-spotted Mudskipper,1.327765,103.44275
+2019-06-01,Periophthalmodon schlosseri,Giant Mudskipper,1.327768,103.442763
+2019-06-01,Boleophthalmus pectinirostris,Great Blue-spotted Mudskipper,1.327666,103.442927
+2019-06-01,Osphronemus goramy,Giant Gourami,5.3255004963,103.122586902

@@ -1,0 +1,708 @@
+year,date,scientific_name,common_name,latitude,longitude
+2016,2016-12-31,Fistularia commersonii,Blue-spotted Cornetfish,6.484045,99.3334283333
+2016,2016-12-30,Scarus quoyi,Greenblotch Parrotfish,7.7629966667,98.760925
+2016,2016-12-29,Heniochus acuminatus,Longfin Bannerfish,8.626429,98.19676
+2016,2016-12-29,Pempheris oualensis,Copper Sweeper,8.6279285972,98.2086185315
+2016,2016-12-29,Lutjanus fulviflamma,Blackspot Snapper,8.6384881032,98.2150032755
+2016,2016-12-29,Diploprion bifasciatus,Barred Soapfish,8.6486176374,98.1970435889
+2016,2016-12-29,Lutjanus lutjanus,Bigeye Snapper,8.6317483698,98.1898346346
+2016,2016-12-29,Plotosus lineatus,Striped Eel Catfish,8.638644,98.196763
+2016,2016-12-29,Cichlidae,Cichlids,13.7563309,100.5017651
+2016,2016-12-28,Laiphognathus multimaculatus,Manyspot Blenny,10.959952601,103.056784029
+2016,2016-12-28,Amphiprion ephippium,Red Saddleback Anemonefish,9.364385,98.02208
+2016,2016-12-27,Epinephelus coeruleopunctatus,Whitespotted Grouper,9.0781117106,97.8126525879
+2016,2016-12-27,Halichoeres hortulanus,Checkerboard Wrasse,9.0782812218,97.8123092651
+2016,2016-12-27,Sargocentron caudimaculatum,Tailspot Squirrelfish,9.0571764701,97.8126525879
+2016,2016-12-27,Apolemichthys xanthurus,Yellowtail Angelfish,9.064296284,97.8171157837
+2016,2016-12-27,Chaetodon meyeri,Meyer's Butterflyfish,9.0588716767,97.8140258789
+2016,2016-12-26,Aeoliscus strigatus,Jointed Razorfish,6.9432124924,99.4677955296
+2016,2016-12-26,Amphiprion ocellaris,Ocellaris Anemonefish,6.8301707,99.5353647
+2016,2016-12-26,Siganus javus,Java Rabbitfish,6.8301707,99.5353647
+2016,2016-12-26,Scolopsis,Monocle Breams,6.8301707,99.5353647
+2016,2016-12-26,Abudefduf vaigiensis,Indo-Pacific Sergeant Major,6.8301707,99.5353647
+2016,2016-12-26,Dischistodus perspicillatus,White Damsel,6.8301707,99.5353647
+2016,2016-12-26,Pomacentrus,,6.8301707,99.5353647
+2016,2016-12-26,Acanthurus leucosternon,Powder Blue Tang,6.8301707,99.5353647
+2016,2016-12-26,Neopomacentrus,,6.8301707,99.5353647
+2016,2016-12-26,Siganus javus,Java Rabbitfish,6.8301707,99.5353647
+2016,2016-12-26,Chaetodon collare,Red-tailed Butterflyfish,6.8301707,99.5353647
+2016,2016-12-26,Siganus canaliculatus,White-spotted Rabbitfish,6.8301707,99.5353647
+2016,2016-12-25,Pethia ticto,Ticto Barb,19.755885,101.9962713889
+2016,2016-12-25,Gymnothorax javanicus,Giant Moray,8.5936624106,97.6391671986
+2016,2016-12-25,Pterois volitans,Common Lionfish,8.5937688788,97.6389606685
+2016,2016-12-25,Osphronemus goramy,Giant Gourami,17.809281,102.746101
+2016,2016-12-25,Cichla,Peacock Basses,17.809281,102.746101
+2016,2016-12-25,Atractosteus spatula,Alligator Gar,17.809281,102.746101
+2016,2016-12-25,Pangasianodon,,17.809281,102.746101
+2016,2016-12-25,Mastacembelus erythrotaenia,Fire Eel,17.828966549,102.6258203282
+2016,2016-12-25,Channa,Asian Snakeheads,17.809281,102.746101
+2016,2016-12-25,Cyprininae,Typical Carps,17.809281,102.746101
+2016,2016-12-25,Chitala,,17.809281,102.746101
+2016,2016-12-25,Catlocarpio siamensis,Giant Barb,17.9570780076,102.7803567223
+2016,2016-12-25,Scleropages,Asia-Pacific Arowanas,17.809281,102.746101
+2016,2016-12-25,Datnioides,,17.809281,102.746101
+2016,2016-12-25,Gymnothorax javanicus,Giant Moray,17.809281,102.746101
+2016,2016-12-25,Platax,Spadefishes,17.809281,102.746101
+2016,2016-12-25,Gerreidae,Mojarras,17.809281,102.746101
+2016,2016-12-25,Sargocentron,,17.809281,102.746101
+2016,2016-12-25,Pteroinae,Lionfishes,17.809281,102.746101
+2016,2016-12-25,Amphiprion,Anemonefishes,17.809281,102.746101
+2016,2016-12-25,Amphiprion annamensis,Northern Saddleback Anemonefish,17.809281,102.746101
+2016,2016-12-25,Amphiprion ocellaris,Ocellaris Anemonefish,17.809281,102.746101
+2016,2016-12-25,Epinephelus,,17.809281,102.746101
+2016,2016-12-25,Barbonymus schwanefeldii,Tinfoil Barb,17.809281,102.746101
+2016,2016-12-25,Siganus canaliculatus,White-spotted Rabbitfish,6.8301707,99.5353647
+2016,2016-12-25,Scolopsis margaritifera,Pearly Monocle Bream,6.8301707,99.5353647
+2016,2016-12-25,Amphiprion sebae,Sebae Anemonefish,6.8301707,99.5353647
+2016,2016-12-25,Trachinotus baillonii,Smallspotted Dart,6.8301707,99.5353647
+2016,2016-12-25,Epinephelus quoyanus,Longfin Rockcod,6.8301707,99.5353647
+2016,2016-12-25,Amphiprion ocellaris,Ocellaris Anemonefish,6.5401527,99.2951916
+2016,2016-12-25,Thalassoma lunare,Moon Wrasse,6.8301707,99.5353647
+2016,2016-12-25,Neopomacentrus,,6.8301707,99.5353647
+2016,2016-12-25,Arothron nigropunctatus,Blackspotted Puffer,6.5401527,99.2951916
+2016,2016-12-23,Balistoides viridescens,Titan Triggerfish,6.5401527,99.2951916
+2016,2016-12-23,Hemigymnus melapterus,Blackeye Thicklip,6.5175854318,99.3094320649
+2016,2016-12-23,Tylosurus crocodilus,Houndfish,6.5401527,99.2951916
+2016,2016-12-23,Amphiprion clarkii,Clark's Anemonefish,6.5401527,99.2951916
+2016,2016-12-23,Scolopsis lineata,Lined Monocle Bream,6.5175854318,99.3094320649
+2016,2016-12-23,Acanthurus nigricauda,Eyeline Surgeonfish,6.5401527,99.2951916
+2016,2016-12-23,Fistularia commersonii,Blue-spotted Cornetfish,6.5401527,99.2951916
+2016,2016-12-23,Epinephelus fuscoguttatus,Flowery Rockcod,6.5369685699,99.2173772763
+2016,2016-12-23,Epinephelus merra,Honeycomb Grouper,6.5401527,99.2951916
+2016,2016-12-23,Halichoeres hortulanus,Checkerboard Wrasse,6.5401527,99.2951916
+2016,2016-12-23,Chaetodon trifasciatus,Indian Redfin Butterflyfish,6.5401527,99.2951916
+2016,2016-12-23,Cheilinus fasciatus,Redbreast Maori Wrasse,6.5401527,99.2951916
+2016,2016-12-23,Zanclus cornutus,Moorish Idol,6.5401527,99.2951916
+2016,2016-12-23,Siganus guttatus,Golden Rabbitfish,6.5175854318,99.3094320649
+2016,2016-12-23,Neoglyphidodon melas,Black Damsel,6.5401527,99.2951916
+2016,2016-12-23,Scolopsis lineata,Lined Monocle Bream,6.5401527,99.2951916
+2016,2016-12-23,Arothron meleagris,Guineafowl Puffer,6.5401527,99.2951916
+2016,2016-12-22,Hippocampus kuda,Common Seahorse,10.8654594542,103.1822333376
+2016,2016-12-22,Hippocampus kuda,Common Seahorse,10.9587141223,103.1887168853
+2016,2016-12-21,Neolissochilus stracheyi,Blue Mahseer Barb,14.2062980215,99.0613336407
+2016,2016-12-21,Garra fluviatilis,,14.3588885046,99.140971058
+2016,2016-12-16,Pterois miles,Indian Lionfish,7.6224429533,98.7818932906
+2016,2016-12-16,Amphiprion ocellaris,Ocellaris Anemonefish,7.6393437524,98.7768577784
+2016,2016-12-16,Myripristis murdjan,Crimson Soldierfish,7.6965706746,98.7772456929
+2016,2016-12-16,Gymnothorax thyrsoideus,White-eyed Moray,7.691576842,98.7815063819
+2016,2016-12-15,Periophthalmus,,8.1191811,99.1013498
+2016,2016-12-13,Siluridae,Sheatfishes,13.3544616667,103.8540416667
+2016,2016-12-13,Actinopterygii,Ray-finned Fishes,13.3540633333,103.85553
+2016,2016-12-11,Dermogenys,,5.6163599227,102.7325838018
+2016,2016-12-08,Epinephelus coeruleopunctatus,Whitespotted Grouper,10.168301718,99.9717086259
+2016,2016-12-07,Terapon jarbua,Crescent Grunter,10.101875,99.8272783333
+2016,2016-12-02,Raiamas guttatus,Burmese Trout,13.9819114997,100.6126890332
+2016,2016-12-02,Channa limbata,,13.7109467145,100.4672355205
+2016,2016-11-29,Hippocampus mohnikei,Japanese Seahorse,10.9445380164,103.187384548
+2016,2016-11-29,Hippocampus mohnikei,Japanese Seahorse,10.841703332,103.027952149
+2016,2016-11-29,Hippocampus trimaculatus,Three-spot Seahorse,10.9044126725,103.0040926397
+2016,2016-11-26,Gymnothorax isingteena,Spotted Moray,8.593870498,97.6402029768
+2016,2016-11-26,Hippocampus kuda,Common Seahorse,10.8331871727,103.13834357
+2016,2016-11-24,Pleurosicya mossambica,Many-host Ghostgoby,8.5778591361,97.6375164092
+2016,2016-11-24,Hippocampus kelloggi,Great Seahorse,10.9546309909,103.1372091273
+2016,2016-11-23,Cephalopholis argus,Peacock Grouper,8.6740483914,97.6525119692
+2016,2016-11-20,Zenarchopterus buffonis,Northern River Garfish,7.5319813055,99.0946226049
+2016,2016-11-20,Nuchequula,,7.5296892614,99.0925029076
+2016,2016-11-19,Muraenidae,Morays,7.592195,99.03224
+2016,2016-11-18,Tetraodontidae,Pufferfishes,8.911105,98.507366
+2016,2016-11-18,Hippocampus kuda,Common Seahorse,10.8765658168,103.1323540613
+2016,2016-11-18,Hippocampus kuda,Common Seahorse,10.836240169,103.1018324796
+2016,2016-11-18,Hippocampus kuda,Common Seahorse,11.0783848702,103.0966198152
+2016,2016-11-17,Hippocampus kuda,Common Seahorse,10.9073380695,103.1263280391
+2016,2016-11-10,Channa striata,Striped Snakehead,13.9818910031,100.6126809865
+2016,2016-11-09,Scarus russelii,Eclipse Parrotfish,7.730537,98.779922
+2016,2016-11-09,Abudefduf sordidus,Blackspot Sergeant,7.730537,98.779922
+2016,2016-11-09,Upeneus tragula,Freckled Goatfish,7.730537,98.779922
+2016,2016-11-09,Halichoeres hortulanus,Checkerboard Wrasse,7.730537,98.779922
+2016,2016-11-09,Thalassoma lunare,Moon Wrasse,7.730537,98.779922
+2016,2016-11-09,Siganus guttatus,Golden Rabbitfish,7.730537,98.779922
+2016,2016-11-09,Epinephelus merra,Honeycomb Grouper,7.730537,98.779922
+2016,2016-11-09,Chaetodon decussatus,Indian Vagabond Butterflyfish,7.730537,98.779922
+2016,2016-11-09,Abudefduf vaigiensis,Indo-Pacific Sergeant Major,7.730537,98.779922
+2016,2016-11-09,Siganus javus,Java Rabbitfish,7.730537,98.779922
+2016,2016-11-09,Siganus virgatus,Doublebar Rabbitfish,7.692211,98.803654
+2016,2016-11-05,Boleophthalmus boddarti,Boddart's Blue-spotted Mudskipper,6.4048564177,99.858234264
+2016,2016-10-29,Sillago,Sillago Whitings,12.2432784662,99.9841113389
+2016,2016-10-29,Gobioidei,Gobies and allies,12.2432784662,99.9841113389
+2016,2016-10-29,Actinopterygii,Ray-finned Fishes,11.6360855523,99.7025018558
+2016,2016-10-28,Smiliogastrinae,Cape Carps,18.7514315948,98.929129299
+2016,2016-10-20,Cyprinidae,Cyprinids,20.0516956781,102.212677002
+2016,2016-10-20,Salariinae,,10.9414818272,103.081100624
+2016,2016-10-14,Rasbora borapetensis,Red-tailed Rasbora,14.2021967448,100.8559325337
+2016,2016-10-14,Hippocampus comes,Tiger Tail Seahorse,7.9519895562,98.6557960587
+2016,2016-10-13,Hippocampus spinosissimus,Queensland Seahorse,10.4000484061,103.2365918033
+2016,2016-10-08,Hippocampus spinosissimus,Queensland Seahorse,12.5248336831,100.8044580659
+2016,2016-10-08,Channa limbata,,10.4490224127,98.8545038943
+2016,2016-10-07,Channa limbata,,13.7109467145,100.4672646895
+2016,2016-10-07,Scolopsis monogramma,Rainbow Monocle Bream,5.617011,103.028069
+2016,2016-10-06,Hippocampus kuda,Common Seahorse,10.9684403951,103.1445298586
+2016,2016-10-06,Hippocampus kuda,Common Seahorse,10.8395916497,103.0840688939
+2016,2016-09-28,Pangasianodon gigas,Mekong Giant Catfish,13.7792888487,100.4543469066
+2016,2016-09-28,Megalops cyprinoides,Indo-Pacific Tarpon,13.7109450859,100.4672667012
+2016,2016-09-27,Anabas testudineus,Climbing Perch,13.7109512746,100.4672298208
+2016,2016-09-24,Boleophthalmus boddarti,Boddart's Blue-spotted Mudskipper,8.0643754,98.9165197
+2016,2016-09-22,Hippocampus kuda,Common Seahorse,10.8809620515,103.0973446397
+2016,2016-09-19,Bagarius lica,,13.9819215853,100.6127426773
+2016,2016-09-19,Hippocampus kuda,Common Seahorse,10.94679492,103.0895656538
+2016,2016-09-19,Hippocampus kuda,Common Seahorse,10.8890016271,103.0603923726
+2016,2016-09-18,Oreochromis niloticus,Nile Tilapia,13.8128693,100.5545288
+2016,2016-09-15,Hippocampus mohnikei,Japanese Seahorse,10.8372475995,103.153884761
+2016,2016-09-11,Pangasiidae,Shark Catfishes,13.7454595517,100.4902482033
+2016,2016-09-09,Chaetodon falcula,Saddleback Butterflyfish,10.0867532994,99.8223579354
+2016,2016-09-08,Alepes vari,Herring scad,9.4241513759,99.9994839555
+2016,2016-09-08,Halichoeres chloropterus,Pastel-green Wrasse,9.626492471,100.0465033154
+2016,2016-09-08,Chelmon rostratus,Copperband Butterflyfish,9.3772458824,99.951459661
+2016,2016-09-08,Sargocentron rubrum,Red Squirrelfish,9.6463685263,100.0605375283
+2016,2016-09-08,Scolopsis margaritifera,Pearly Monocle Bream,9.5918398928,100.0465130888
+2016,2016-09-08,Chaetodon octofasciatus,Eightband Butterflyfish,9.526529417,99.9252412376
+2016,2016-09-08,Chelmon rostratus,Copperband Butterflyfish,9.3780048503,99.9517112782
+2016,2016-09-08,Abudefduf sexfasciatus,Scissortail Sergeant,10.0734013807,99.8426139778
+2016,2016-09-08,Halichoeres chloropterus,Pastel-green Wrasse,9.3681870201,99.9365955994
+2016,2016-09-08,Epinephelus quoyanus,Longfin Rockcod,9.5677762033,100.0295246964
+2016,2016-09-08,Plectroglyphidodon obreptus,Western Gregory,9.3706349096,99.9383899417
+2016,2016-09-08,Chaetodon octofasciatus,Eightband Butterflyfish,9.5609544886,100.048922432
+2016,2016-09-07,Hippocampus kuda,Common Seahorse,10.8349976757,103.0948293079
+2016,2016-09-06,Siganus punctatus,Spotted Rabbitfish,10.1094009991,99.8272306623
+2016,2016-09-06,Chaetodon wiebeli,Hong Kong Butterflyfish,10.1401570724,99.8377619121
+2016,2016-09-06,Siganus guttatus,Golden Rabbitfish,10.0694453461,99.8378074593
+2016,2016-09-06,Siganus guttatus,Golden Rabbitfish,9.4349892539,100.0338162309
+2016,2016-09-06,Siganus virgatus,Doublebar Rabbitfish,10.1014566706,99.8251045174
+2016,2016-09-04,Boleophthalmus boddarti,Boddart's Blue-spotted Mudskipper,13.4380316447,100.9708809865
+2016,2016-09-02,Balistoides viridescens,Titan Triggerfish,10.1062969134,99.8669328694
+2016,2016-09-02,Heniochus acuminatus,Longfin Bannerfish,9.8635550684,100.0529531582
+2016,2016-09-02,Pempheris oualensis,Copper Sweeper,5.9018333044,102.7150501103
+2016,2016-09-02,Amphiprion ocellaris,Ocellaris Anemonefish,5.9020934147,102.7150607788
+2016,2016-09-02,Sphyraena barracuda,Great Barracuda,5.9054400909,102.71509378
+2016,2016-09-02,Tylosurus crocodilus,Houndfish,5.9078992964,102.7149134116
+2016,2016-09-02,Abudefduf sexfasciatus,Scissortail Sergeant,5.9052226216,102.7150168642
+2016,2016-09-02,Scarus rivulatus,Surf Parrotfish,5.893099457,102.7238445533
+2016,2016-09-02,Siganus virgatus,Doublebar Rabbitfish,5.890804585,102.7236351844
+2016,2016-08-29,Lutjanus sebae,Red Emperor Snapper,12.5729391469,101.8949157
+2016,2016-08-29,Plectropomus maculatus,Spotted Coral Grouper,12.572882535,101.8948741257
+2016,2016-08-26,Neolissochilus,Lesser Mahseers,12.06480419,102.3127022758
+2016,2016-08-24,Hippocampus kuda,Common Seahorse,10.8194686366,103.1986374399
+2016,2016-08-24,Hippocampus kuda,Common Seahorse,10.8828235854,103.0727449406
+2016,2016-08-17,Barbonymus gonionotus,Java Barb,13.7978182692,100.5189076066
+2016,2016-08-16,Arapaima gigas,Giant arapaima,13.7714645755,100.4775707424
+2016,2016-08-15,Arapaima gigas,Giant arapaima,13.7660110535,100.5050798133
+2016,2016-08-15,Piaractus brachypomus,Red-bellied Pacu,13.7367327125,100.5122020841
+2016,2016-08-15,Arapaima gigas,Giant arapaima,13.7776164463,100.5141852424
+2016,2016-08-15,Hippocampus kuda,Common Seahorse,10.9692492549,103.1623913606
+2016,2016-08-14,Atractosteus spatula,Alligator Gar,13.7109193539,100.467248261
+2016,2016-08-10,Abudefduf vaigiensis,Indo-Pacific Sergeant Major,9.754005207,100.0831332158
+2016,2016-08-09,Atractosteus spatula,Alligator Gar,13.7725189887,100.5020019785
+2016,2016-08-09,Schistura,,20.0449598986,99.8285361547
+2016,2016-08-09,Barbonymus gonionotus,Java Barb,13.3072511039,99.9525202811
+2016,2016-08-09,Phractocephalus hemioliopterus,Redtail Catfish,13.8628815548,99.8351525143
+2016,2016-08-08,Pangasius sanitwongsei,Giant Pangasius,13.729242129,100.536167176
+2016,2016-08-08,Hemibagrus wyckioides,Asian Redtail Catfish,13.8628815548,99.8351525143
+2016,2016-08-08,Pangasius sanitwongsei,Giant Pangasius,13.8352932127,100.5366265372
+2016,2016-08-05,Scolopsis bilineata,Bridled Monocle Bream,7.6215048313,98.374671936
+2016,2016-08-05,Lutjanus quinquelineatus,Fiveline Snapper,7.6177616273,98.3688354492
+2016,2016-08-05,Amphiprion clarkii,Clark's Anemonefish,7.6174213344,98.3690071106
+2016,2016-08-05,Zanclus cornutus,Moorish Idol,7.6184422123,98.3695220947
+2016,2016-08-05,Heniochus acuminatus,Longfin Bannerfish,7.6177616273,98.3715820313
+2016,2016-08-05,Amblyglyphidodon aureus,Golden Damselfish,7.6164004541,98.3708953857
+2016,2016-08-05,Amphiprion akallopisos,Skunk Anemonefish,7.6195056241,98.373169899
+2016,2016-08-05,Acanthurus lineatus,Striped Surgeonfish,7.619803379,98.3684921265
+2016,2016-08-05,Chaetodon trifasciatus,Indian Redfin Butterflyfish,7.6216749761,98.3696937561
+2016,2016-07-30,Zenarchopterus buffonis,Northern River Garfish,8.3078976371,98.4888267517
+2016,2016-07-28,Channa striata,Striped Snakehead,14.3109229,101.5304415
+2016,2016-07-28,Scolopsis ciliata,Whitestreak Monocle Bream,9.7947634,99.9796253
+2016,2016-07-28,Halichoeres chloropterus,Pastel-green Wrasse,9.7947634,99.9796253
+2016,2016-07-28,Halichoeres chloropterus,Pastel-green Wrasse,9.7947634,99.9796253
+2016,2016-07-28,Salarias fasciatus,Jewelled Blenny,9.7947634,99.9796253
+2016,2016-07-28,Gobioidei,Gobies and allies,12.9577394999,100.883256197
+2016,2016-07-28,Scatophagus argus,Spotted Scat,12.9574965912,100.8835283194
+2016,2016-07-27,Chaetodon lineolatus,Lined Butterflyfish,9.7947634,99.9796253
+2016,2016-07-27,Caesio caerulaurea,Scissor-tailed Fusilier,9.7947634,99.9796253
+2016,2016-07-27,Amphiprion perideraion,Pink Skunk Anemonefish,9.7947634,99.9796253
+2016,2016-07-27,Upeneus tragula,Freckled Goatfish,9.7947634,99.9796253
+2016,2016-07-27,Valenciennea muralis,Mural Glidergoby,9.7947634,99.9796253
+2016,2016-07-27,Abudefduf bengalensis,Bengal Sergeant,9.7947634,99.9796253
+2016,2016-07-27,Abudefduf bengalensis,Bengal Sergeant,9.7947634,99.9796253
+2016,2016-07-27,Scolopsis margaritifera,Pearly Monocle Bream,9.7947634,99.9796253
+2016,2016-07-27,Epinephelus merra,Honeycomb Grouper,9.7947634,99.9796253
+2016,2016-07-27,Cheilodipterus quinquelineatus,Fiveline Cardinalfish,9.7947634,99.9796253
+2016,2016-07-26,Cheilinus fasciatus,Redbreast Maori Wrasse,9.7947634,99.9796253
+2016,2016-07-26,Cheilinus chlorourus,Floral Maori Wrasse,9.7979612172,99.9781179428
+2016,2016-07-26,Chaetodon octofasciatus,Eightband Butterflyfish,9.7947634,99.9796253
+2016,2016-07-26,Chaetodon octofasciatus,Eightband Butterflyfish,9.7947634,99.9796253
+2016,2016-07-26,Chaetodon wiebeli,Hong Kong Butterflyfish,9.7947634,99.9796253
+2016,2016-07-26,Upeneus tragula,Freckled Goatfish,9.7947634,99.9796253
+2016,2016-07-26,Upeneus tragula,Freckled Goatfish,9.7947634,99.9796253
+2016,2016-07-26,Abudefduf sexfasciatus,Scissortail Sergeant,9.7947634,99.9796253
+2016,2016-07-26,Abudefduf sexfasciatus,Scissortail Sergeant,9.7947634,99.9796253
+2016,2016-07-26,Siganus javus,Java Rabbitfish,9.7947634,99.9796253
+2016,2016-07-26,Siganus virgatus,Doublebar Rabbitfish,9.7947634,99.9796253
+2016,2016-07-26,Siganus virgatus,Doublebar Rabbitfish,9.7947634,99.9796253
+2016,2016-07-26,Siganus punctatus,Spotted Rabbitfish,9.7947634,99.9796253
+2016,2016-07-26,Scolopsis margaritifera,Pearly Monocle Bream,9.7947634,99.9796253
+2016,2016-07-26,Scolopsis ciliata,Whitestreak Monocle Bream,9.7947634,99.9796253
+2016,2016-07-26,Scolopsis margaritifera,Pearly Monocle Bream,9.7947634,99.9796253
+2016,2016-07-26,Scarus rivulatus,Surf Parrotfish,9.7947634,99.9796253
+2016,2016-07-26,Scarus ghobban,Blue-barred Parrotfish,9.7947634,99.9796253
+2016,2016-07-26,Sargocentron rubrum,Red Squirrelfish,9.7947634,99.9796253
+2016,2016-07-26,Hemigymnus melapterus,Blackeye Thicklip,9.7947634,99.9796253
+2016,2016-07-26,Hemigymnus melapterus,Blackeye Thicklip,9.7947634,99.9796253
+2016,2016-07-26,Istigobius,,9.798817576,99.9797379971
+2016,2016-07-26,Cheilinus chlorourus,Floral Maori Wrasse,9.798817576,99.9797379971
+2016,2016-07-26,Epinephelus fasciatus,Blacktip Grouper,9.798817576,99.9797379971
+2016,2016-07-26,Scarus ghobban,Blue-barred Parrotfish,9.798817576,99.9797379971
+2016,2016-07-26,Salarias guttatus,Breastspot Blenny,9.798817576,99.9797379971
+2016,2016-07-26,Naso lituratus,Pacific Orange-spine Unicornfish,9.798817576,99.9797379971
+2016,2016-07-26,Halichoeres chloropterus,Pastel-green Wrasse,9.798817576,99.9797379971
+2016,2016-07-26,Abudefduf bengalensis,Bengal Sergeant,9.798817576,99.9797379971
+2016,2016-07-26,Halichoeres nigrescens,Bubblefin Wrasse,9.798817576,99.9797379971
+2016,2016-07-26,Pomacentrus tripunctatus,Threespot Damsel,9.7947634,99.9796253
+2016,2016-07-26,Pomacentrus chrysurus,Whitetail Damsel,9.7947634,99.9796253
+2016,2016-07-26,Pomacentrus simsiang,Blueback Damselfish,9.7947634,99.9796253
+2016,2016-07-26,Pomacentrus moluccensis,Lemon Damsel,9.7947634,99.9796253
+2016,2016-07-26,Halichoeres chloropterus,Pastel-green Wrasse,9.7947634,99.9796253
+2016,2016-07-26,Plectorhinchus chaetodonoides,Harlequin Sweetlips,9.7947634,99.9796253
+2016,2016-07-26,Epinephelus merra,Honeycomb Grouper,9.7947634,99.9796253
+2016,2016-07-26,Epinephelus fasciatus,Blacktip Grouper,9.7947634,99.9796253
+2016,2016-07-26,Lutjanus monostigma,Onespot Snapper,9.7947634,99.9796253
+2016,2016-07-26,Labroides dimidiatus,Bluestreak Cleaner Wrasse,9.7947634,99.9796253
+2016,2016-07-26,Istigobius ornatus,Ornate Sandgoby,9.7947634,99.9796253
+2016,2016-07-26,Dascyllus trimaculatus,Three-spot Dascyllus,9.7947634,99.9796253
+2016,2016-07-26,Dascyllus trimaculatus,Three-spot Dascyllus,9.7947634,99.9796253
+2016,2016-07-26,Moolgarda tade,Blue-tail Mullet,9.7947634,99.9796253
+2016,2016-07-26,Pomacentrus coelestis,Neon Damselfish,9.7947634,99.9796253
+2016,2016-07-26,Chelmon rostratus,Copperband Butterflyfish,9.7947634,99.9796253
+2016,2016-07-26,Chromis ternatensis,Ternate Chromis,9.798817576,99.9797379971
+2016,2016-07-26,Toxotes jaculatrix,Banded Archerfish,6.4026225356,99.7281889589
+2016,2016-07-25,Boleophthalmus boddarti,Boddart's Blue-spotted Mudskipper,6.3986144795,99.7282323772
+2016,2016-07-25,Halichoeres chloropterus,Pastel-green Wrasse,9.7974537442,99.9778175354
+2016,2016-07-25,Lutjanus carponotatus,Spanish Flag Snapper,9.7958467415,99.9783325195
+2016,2016-07-25,Cephalopholis boenak,Chocolate Grouper,9.7947634,99.9796253
+2016,2016-07-25,Amblygobius stethophthalmus,Freckled Goby,9.7947634,99.9796253
+2016,2016-07-25,Abudefduf bengalensis,Bengal Sergeant,9.7947634,99.9796253
+2016,2016-07-25,Pomacentrus chrysurus,Whitetail Damsel,9.7947634,99.9796253
+2016,2016-07-25,Halichoeres nigrescens,Bubblefin Wrasse,9.7947634,99.9796253
+2016,2016-07-25,Halichoeres chloropterus,Pastel-green Wrasse,9.7947634,99.9796253
+2016,2016-07-25,Diodon liturosus,Blackblotched Porcupinefish,9.7947634,99.9796253
+2016,2016-07-24,Channa,Asian Snakeheads,18.8155773913,98.9267118357
+2016,2016-07-24,Gambusia affinis,Western Mosquitofish,18.8163316976,98.9269693278
+2016,2016-07-24,Gymnothorax isingteena,Spotted Moray,5.9048167039,102.7432145776
+2016,2016-07-23,Balistoides viridescens,Titan Triggerfish,5.9051404694,102.7432902179
+2016,2016-07-23,Siganus vulpinus,Foxface,5.9046683268,102.7429684796
+2016,2016-07-23,Cheilinus fasciatus,Redbreast Maori Wrasse,5.9042849601,102.742985768
+2016,2016-07-23,Naso lituratus,Pacific Orange-spine Unicornfish,5.9047449315,102.7429643078
+2016,2016-07-22,Amphiprion ocellaris,Ocellaris Anemonefish,6.0711155203,100.049893301
+2016,2016-07-22,Gymnothorax javanicus,Giant Moray,6.0708808097,100.049957674
+2016,2016-07-22,Hippocampus spinosissimus,Queensland Seahorse,6.0483708306,100.1114815662
+2016,2016-07-22,Hippocampus barbouri,Barbour's Seahorse,6.0395229192,100.1181446244
+2016,2016-07-21,Garra rufa,Doctor Fish,14.36109,99.142868
+2016,2016-07-21,Parasikukia maculata,,14.36109,99.142868
+2016,2016-07-21,Parasikukia maculata,,14.36109,99.142868
+2016,2016-07-21,Neolissochilus stracheyi,Blue Mahseer Barb,14.3791195068,99.0250075668
+2016,2016-07-21,Neolissochilus stracheyi,Blue Mahseer Barb,14.2026065607,99.0930356568
+2016,2016-07-21,Chaetodon octofasciatus,Eightband Butterflyfish,5.904763,102.742913
+2016,2016-07-21,Hemigymnus melapterus,Blackeye Thicklip,5.9045918798,102.7429567373
+2016,2016-07-21,Gomphosus varius,Bird Wrasse,5.904307933,102.7429069701
+2016,2016-07-21,Amphiprion frenatus,Tomato Clownfish,5.904873,102.742778
+2016,2016-07-21,Amphiprion ocellaris,Ocellaris Anemonefish,5.904771,102.743456
+2016,2016-07-21,Amphiprion perideraion,Pink Skunk Anemonefish,5.90479,102.742768
+2016,2016-07-21,Amphiprion frenatus,Tomato Clownfish,5.9046498836,102.7427901924
+2016,2016-07-21,Amphiprion frenatus,Tomato Clownfish,5.904147,102.74287
+2016,2016-07-21,Amphiprion clarkii,Clark's Anemonefish,5.904885,102.743054
+2016,2016-07-21,Amphiprion ocellaris,Ocellaris Anemonefish,5.911936,102.752983
+2016,2016-07-21,Tylosurus crocodilus,Houndfish,5.904455,102.74246
+2016,2016-07-21,Gymnothorax favagineus,Laced Moray,5.904596643,102.7431778268
+2016,2016-07-21,Gymnothorax isingteena,Spotted Moray,5.904856,102.743032
+2016,2016-07-21,Abudefduf bengalensis,Bengal Sergeant,5.9049594676,102.7432796105
+2016,2016-07-21,Abudefduf vaigiensis,Indo-Pacific Sergeant Major,5.9049917513,102.7432588472
+2016,2016-07-21,Bolbometopon muricatum,Bumphead Parrotfish,5.84468765,102.7393961126
+2016,2016-07-21,Gymnothorax thyrsoideus,White-eyed Moray,5.904690653,102.7432461428
+2016,2016-07-18,Pterois miles,Indian Lionfish,6.0714490783,100.0499063722
+2016,2016-07-18,Scorpaeninae,Typical Scorpionfishes,6.0706062538,100.0497990839
+2016,2016-07-18,Diodon hystrix,Spotted Porcupinefish,6.0704503866,100.0496488802
+2016,2016-07-15,Periophthalmus variabilis,Dusky-gilled Mudskipper,6.4127621605,99.8896906543
+2016,2016-07-12,Osteogaster aenea,Bronze Cory,13.7108952504,100.4672355205
+2016,2016-07-08,Lates calcarifer,Barramundi,13.7109675607,100.4672680423
+2016,2016-07-08,Atractosteus spatula,Alligator Gar,13.7109222854,100.4672489315
+2016,2016-07-08,Channa limbata,,13.7109167481,100.4672646895
+2016,2016-07-08,Scleropages jardinii,Northern Saratoga,13.7109597434,100.4672452435
+2016,2016-07-08,Cyprinus carpio,European Carp,13.7109421544,100.4672492668
+2016,2016-07-08,Datnioides microlepis,Finescale Tigerfish,13.7109467145,100.4672509432
+2016,2016-07-07,Amphiprion ocellaris,Ocellaris Anemonefish,7.6804638,98.7687699
+2016,2016-07-02,Scatophagus argus,Spotted Scat,9.3861866667,99.2576533333
+2016,2016-06-29,Cryptocentrus pavoninoides,Bluespotted Watchman Goby,10.1513943756,103.9237976074
+2016,2016-06-29,Psettina tosana,Ragged Flounder,10.1818082668,103.9423370361
+2016,2016-06-25,Cyprinus rubrofuscus,Amur Carp,17.9660916667,102.6082833333
+2016,2016-06-16,Osphronemus laticlavius,Giant Red Tail Gourami,13.6059037987,100.5406171522
+2016,2016-06-06,Trichopodus trichopterus,Three Spot Gourami,13.8128859541,100.5545286834
+2016,2016-05-31,Pterygoplichthys,Sailfin Catfishes,13.7109424802,100.4672428966
+2016,2016-05-26,Neolissochilus stracheyi,Blue Mahseer Barb,14.2198639893,99.0384127441
+2016,2016-05-20,Lates calcarifer,Barramundi,13.7109245654,100.4672650248
+2016,2016-05-20,Lates calcarifer,Barramundi,13.710923914,100.4672412202
+2016,2016-05-16,Hippocampus kuda,Common Seahorse,10.9220850147,103.1946002055
+2016,2016-05-07,Nandus,,12.8370860383,102.120805976
+2016,2016-05-05,Hippocampus spinosissimus,Queensland Seahorse,12.5455925392,100.9783583871
+2016,2016-05-04,Abudefduf sexfasciatus,Scissortail Sergeant,11.6680759,102.5642261
+2016,2016-05-04,Balistoides viridescens,Titan Triggerfish,9.4013996892,97.8764505514
+2016,2016-05-04,Scarus rivulatus,Surf Parrotfish,9.4164024282,97.8749307412
+2016,2016-05-04,Amphiprion ocellaris,Ocellaris Anemonefish,9.4169294229,97.8741523962
+2016,2016-05-04,Chromis viridis,Blue-green Chromis,9.402947782,97.8758958321
+2016,2016-05-04,Abudefduf vaigiensis,Indo-Pacific Sergeant Major,11.6680759,102.5642261
+2016,2016-05-01,Zenarchopterus,,11.6680759,102.5642261
+2016,2016-04-28,Anabas testudineus,Climbing Perch,6.1182827412,102.2876671318
+2016,2016-04-27,Hippocampus comes,Tiger Tail Seahorse,7.713273821,98.5403363128
+2016,2016-04-25,Boleophthalmus boddarti,Boddart's Blue-spotted Mudskipper,7.740738,98.77841
+2016,2016-04-24,Boesemania microlepis,Boeseman Croaker,14.3826232688,100.4896649022
+2016,2016-04-23,Channa striata,Striped Snakehead,14.1507335524,100.8613314307
+2016,2016-04-23,Piaractus brachypomus,Red-bellied Pacu,14.0579707109,100.9069313161
+2016,2016-04-17,Sphyraena jello,Pickhandle Barracuda,12.5796848667,100.950648937
+2016,2016-04-16,Scomberomorus,Spanish Mackerels,7.8883325009,99.0270850807
+2016,2016-04-16,Neopomacentrus,,7.888384309,99.0270230547
+2016,2016-04-16,Lutjanus lutjanus,Bigeye Snapper,7.8881621317,99.0270347893
+2016,2016-04-15,Pangasius macronema,,14.667065462,100.1126360893
+2016,2016-04-15,Boesemania microlepis,Boeseman Croaker,14.7387047064,100.0408854478
+2016,2016-04-11,Hippocampus kuda,Common Seahorse,10.8915938158,103.1141053636
+2016,2016-04-11,Hippocampus kelloggi,Great Seahorse,10.8657599818,103.1504494515
+2016,2016-04-11,Hippocampus kuda,Common Seahorse,10.9666790024,103.0649007507
+2016,2016-04-11,Hippocampus spinosissimus,Queensland Seahorse,5.8928679033,102.6123290278
+2016,2016-04-09,Luciosoma bleekeri,,16.8556038598,99.1264565662
+2016,2016-04-08,Rasbora,True Rasboras,12.8667544,99.4004432
+2016,2016-04-07,Channa striata,Striped Snakehead,13.6121289181,101.0243493145
+2016,2016-04-07,Anabas testudineus,Climbing Perch,13.6121158837,101.0244333726
+2016,2016-04-07,Trichopodus trichopterus,Three Spot Gourami,13.6120410575,101.0243832973
+2016,2016-04-07,Barbonymus gonionotus,Java Barb,13.6121002425,101.0243196555
+2016,2016-04-07,Hippocampus kuda,Common Seahorse,10.8714704939,103.1590234593
+2016,2016-04-06,Lutjanus indicus,Indian Snapper,8.6381129753,98.2133674153
+2016,2016-04-06,Lutjanus lutjanus,Bigeye Snapper,8.6390888306,98.2119512089
+2016,2016-04-06,Diodon hystrix,Spotted Porcupinefish,8.6387918314,98.2131099232
+2016,2016-04-06,Siganus guttatus,Golden Rabbitfish,8.6387494029,98.2128524312
+2016,2016-04-06,Lutjanus indicus,Indian Snapper,8.6389191168,98.2137107381
+2016,2016-04-06,Pempheris adusta,Dusky Sweeper,8.6384524035,98.2133674153
+2016,2016-04-05,Solenostomus paradoxus,Ornate Ghostpipefish,9.3627868445,98.0219399929
+2016,2016-03-31,Piaractus brachypomus,Red-bellied Pacu,14.0024658715,100.827761144
+2016,2016-03-31,Pangasianodon gigas,Mekong Giant Catfish,14.1505723336,100.9723620542
+2016,2016-03-31,Channa lucius,Forest Snakehead,14.1932000959,100.8793844283
+2016,2016-03-29,Hippocampus trimaculatus,Three-spot Seahorse,10.8125143619,103.0332699379
+2016,2016-03-29,Hippocampus kuda,Common Seahorse,10.9113334039,103.0755888655
+2016,2016-03-26,Epinephelus lanceolatus,Giant Grouper,7.7532154465,98.6440132344
+2016,2016-03-24,Hippocampus kuda,Common Seahorse,6.1828245262,99.7633250982
+2016,2016-03-22,Arothron nigropunctatus,Blackspotted Puffer,7.79746,98.720467
+2016,2016-03-22,Hippocampus kuda,Common Seahorse,10.9406437825,103.1067161046
+2016,2016-03-21,Hippocampus,Seahorses,6.247494,99.725156
+2016,2016-03-21,Lutjanus biguttatus,Twospot Snapper,7.797434,98.530724
+2016,2016-03-21,Ostracion cubicum,Yellow Boxfish,7.797434,98.530724
+2016,2016-03-21,Amphiprion ocellaris,Ocellaris Anemonefish,7.797434,98.530724
+2016,2016-03-20,Gymnothorax thyrsoideus,White-eyed Moray,7.603838,98.366353
+2016,2016-03-20,Hippocampus comes,Tiger Tail Seahorse,7.6686564297,98.2957084842
+2016,2016-03-20,Epinephelus quoyanus,Longfin Rockcod,7.603838,98.366353
+2016,2016-03-20,Chelmon rostratus,Copperband Butterflyfish,7.603838,98.366353
+2016,2016-03-19,Balistoides viridescens,Titan Triggerfish,7.15049,98.8250081
+2016,2016-03-19,Platax teira,Longfin Batfish,7.15049,98.8250081
+2016,2016-03-19,Lethrinus olivaceus,Longnose Emperor,7.15049,98.8250081
+2016,2016-03-19,Caranginae,,7.1567331,98.8257631
+2016,2016-03-18,Scorpaenidae,Scorpionfishes,7.4246481,98.8893369
+2016,2016-03-18,Sphyraena obtusata,Striped Barracuda,7.42932,98.8955411
+2016,2016-03-17,Scorpaenidae,Scorpionfishes,7.6626667,98.8570556
+2016,2016-03-17,Pterois,,7.6580531,98.7673
+2016,2016-03-17,Arothron nigropunctatus,Blackspotted Puffer,7.6580531,98.7673
+2016,2016-03-17,Arothron nigropunctatus,Blackspotted Puffer,7.6580531,98.7673
+2016,2016-03-17,Hippocampus spinosissimus,Queensland Seahorse,10.929608516,103.0856986621
+2016,2016-03-17,Hippocampus kuda,Common Seahorse,10.817563361,103.0794420875
+2016,2016-03-17,Hippocampus kuda,Common Seahorse,10.8720224184,103.1707585524
+2016,2016-03-16,Carangidae,Jacks,7.42932,98.8955411
+2016,2016-03-16,Gymnothorax javanicus,Giant Moray,7.42932,98.8955411
+2016,2016-03-16,Gymnothorax javanicus,Giant Moray,7.42932,98.8955411
+2016,2016-03-16,Platax teira,Longfin Batfish,7.42932,98.8955411
+2016,2016-03-15,Sphyraena barracuda,Great Barracuda,7.6365681,98.843435
+2016,2016-03-15,Lutjanus lutjanus,Bigeye Snapper,7.6551839,98.7657239
+2016,2016-03-14,Sphyraena qenie,Blackfin Barracuda,7.6580531,98.7673
+2016,2016-03-14,Plectorhinchus chaetodonoides,Harlequin Sweetlips,7.6897542117,98.7646741833
+2016,2016-03-14,Hemigymnus melapterus,Blackeye Thicklip,10.0833613743,99.8213147273
+2016,2016-03-14,Chaetodon octofasciatus,Eightband Butterflyfish,10.0823132714,99.8216249402
+2016,2016-03-14,Halichoeres chloropterus,Pastel-green Wrasse,10.0822269481,99.8216054309
+2016,2016-03-13,Atule mate,Barred Yellowtail Scad,7.4338781,98.8980981
+2016,2016-03-13,Lutjanus biguttatus,Twospot Snapper,7.4338781,98.8980981
+2016,2016-03-13,Boleophthalmus boddarti,Boddart's Blue-spotted Mudskipper,13.51535,100.65681
+2016,2016-03-12,Caranx melampygus,Bluefin Trevally,7.1567331,98.8257631
+2016,2016-03-12,Dermogenys siamensis,Siamese Wrestling Halfbeak,18.863862,98.940031
+2016,2016-03-11,Hippocampus kuda,Common Seahorse,10.904471494,103.1422981173
+2016,2016-03-11,Hippocampus kuda,Common Seahorse,10.808507149,103.1958209508
+2016,2016-03-10,Platax teira,Longfin Batfish,7.6289718671,98.8094067201
+2016,2016-03-10,Platax teira,Longfin Batfish,7.6923460223,98.7741453946
+2016,2016-03-09,Hippocampus kuda,Common Seahorse,10.8682572635,103.0288684396
+2016,2016-03-08,Arapaima gigas,Giant arapaima,9.7792106342,100.004551112
+2016,2016-03-08,Osphronemidae,Gouramis,9.7792106342,100.004551112
+2016,2016-03-08,Cyprinus rubrofuscus,Amur Carp,9.7792264936,100.0045484304
+2016,2016-03-07,Oxudercinae,Mudskippers,8.3209172519,98.6295535415
+2016,2016-03-07,Monodactylus argenteus,Diamondfish,8.626912,98.237536
+2016,2016-03-07,Pomadasys andamanensis,Andaman Grunt,8.62671,98.23789
+2016,2016-03-07,Valenciennea sexguttata,Sixspot Glidergoby,8.62671,98.23789
+2016,2016-03-07,Neolissochilus soroides,Golden Mahseer Barb,8.8617402517,98.4205390137
+2016,2016-03-07,Channa lucius,Forest Snakehead,8.996462,98.462595
+2016,2016-03-07,Chaetodon decussatus,Indian Vagabond Butterflyfish,8.62671,98.237504
+2016,2016-03-07,Andamia heteroptera,Black Lipsucker,8.62671,98.237504
+2016,2016-03-06,Cypriniformes,"Minnows, Suckers, Carps, and Loaches",20.2785987402,100.0724703096
+2016,2016-03-06,Monocentris japonica,Japanese Pineapplefish,9.2146,98.0119
+2016,2016-03-06,Striuntius lateristriga,Spanner Barb,8.909705,98.501058
+2016,2016-03-06,Rasbora paviana,Sidestripe rasbora,8.909705,98.501058
+2016,2016-03-06,Microdevario kubotai,Neon Green Rasbora,8.996769,98.471521
+2016,2016-03-06,Devario regina,Queen Danio,8.996769,98.471521
+2016,2016-03-06,Striuntius lateristriga,Spanner Barb,8.996385,98.467163
+2016,2016-03-05,Percoidei,"Perches, groupers and allies",9.7867516993,100.005404055
+2016,2016-03-04,Neoglyphidodon melas,Black Damsel,7.212442,99.06365
+2016,2016-03-04,Chromis atripectoralis,Black-axil Chromis,7.212442,99.06365
+2016,2016-03-04,Amphiprion ocellaris,Ocellaris Anemonefish,7.212442,99.06365
+2016,2016-03-04,Amphiprion clarkii,Clark's Anemonefish,7.212442,99.06365
+2016,2016-03-04,Abudefduf vaigiensis,Indo-Pacific Sergeant Major,7.212442,99.06365
+2016,2016-03-04,Abudefduf notatus,Yellowtail Sergeant,7.212442,99.06365
+2016,2016-03-04,Parapercis hexophtalma,Spotted Sandperch,7.212442,99.06365
+2016,2016-03-04,Pempheris,,7.212442,99.06365
+2016,2016-03-04,Parupeneus macronemus,Longbarbel Goatfish,7.212442,99.06365
+2016,2016-03-04,Scolopsis vosmeri,Whitecheek Monocle Bream,7.212442,99.06365
+2016,2016-03-04,Scolopsis monogramma,Rainbow Monocle Bream,7.212442,99.06365
+2016,2016-03-04,Scolopsis lineata,Lined Monocle Bream,7.212442,99.06365
+2016,2016-03-04,Scolopsis bilineata,Bridled Monocle Bream,7.212442,99.06365
+2016,2016-03-04,Lethrinus ornatus,Ornate emperor,7.212102,99.063564
+2016,2016-03-04,Thalassoma lunare,Moon Wrasse,7.212102,99.063564
+2016,2016-03-04,Labroides dimidiatus,Bluestreak Cleaner Wrasse,7.212102,99.063564
+2016,2016-03-04,Hemigymnus melapterus,Blackeye Thicklip,7.212102,99.063564
+2016,2016-03-04,Kyphosus cinerascens,Highfin Chub,7.212646,99.065073
+2016,2016-03-04,Zenarchopterus buffonis,Northern River Garfish,7.64857,99.041123
+2016,2016-03-04,Gerres oyena,Blacktip Silverbiddy,7.212698,99.063564
+2016,2016-03-04,Gerres longirostris,Strongspine Silverbiddy,7.212698,99.063564
+2016,2016-03-04,Platax boersii,Golden Spadefish,7.212698,99.063564
+2016,2016-03-04,Chaetodon rafflesii,Lattice Butterflyfish,7.212698,99.064594
+2016,2016-03-04,Chaetodon melannotus,Blackback Butterflyfish,7.212698,99.064594
+2016,2016-03-03,Pomacentrus moluccensis,Lemon Damsel,7.212442,99.06365
+2016,2016-03-03,Neopomacentrus azysron,Yellowtail Demoiselle,7.212442,99.06365
+2016,2016-03-03,Neoglyphidodon nigroris,Indo-Pacific Yellowtail Damsel,7.212442,99.06365
+2016,2016-03-03,Dischistodus perspicillatus,White Damsel,7.212442,99.06365
+2016,2016-03-03,Dascyllus trimaculatus,Three-spot Dascyllus,7.212442,99.06365
+2016,2016-03-03,Amphiprion akallopisos,Skunk Anemonefish,7.212442,99.06365
+2016,2016-03-03,Pempheris vanicolensis,Vanikoro Sweeper,7.212442,99.06365
+2016,2016-03-03,Gymnothorax javanicus,Giant Moray,7.212442,99.06365
+2016,2016-03-03,Lutjanus decussatus,Checkered Snapper,7.212102,99.063564
+2016,2016-03-03,Lethrinus harak,Thumbprint Emperor,7.212102,99.063564
+2016,2016-03-03,Halichoeres hortulanus,Checkerboard Wrasse,7.212102,99.063564
+2016,2016-03-03,Gomphosus caeruleus,Green Bird Wrasse,7.212102,99.063564
+2016,2016-03-03,Thalassoma lunare,Moon Wrasse,7.212102,99.063564
+2016,2016-03-03,Cheilinus trilobatus,Tripletail Maori Wrasse,7.212646,99.065073
+2016,2016-03-03,Bodianus mesothorax,Blackbelt Hogfish,7.212646,99.065073
+2016,2016-03-03,Valenciennea sexguttata,Sixspot Glidergoby,7.212698,99.063564
+2016,2016-03-03,Heniochus singularius,Singular Bannerfish,7.212698,99.064594
+2016,2016-03-03,Chaetodon vagabundus,Vagabond Butterflyfish,7.212698,99.064594
+2016,2016-03-03,Chaetodon trifasciatus,Indian Redfin Butterflyfish,7.212698,99.064594
+2016,2016-03-03,Chaetodon triangulum,Triangular Butterflyfish,7.212698,99.064594
+2016,2016-03-03,Chaetodon octofasciatus,Eightband Butterflyfish,7.212698,99.064594
+2016,2016-03-03,Chaetodon lunula,Raccoon Butterflyfish,7.212698,99.064594
+2016,2016-03-03,Cirripectes filamentosus,Filamentous Blenny,7.213379,99.064422
+2016,2016-03-03,Xenentodon,,8.919648,98.528395
+2016,2016-03-03,Chaetodon collare,Red-tailed Butterflyfish,7.212187,99.062362
+2016,2016-03-03,Trachinotus baillonii,Smallspotted Dart,7.212187,99.062362
+2016,2016-03-03,Caranx melampygus,Bluefin Trevally,7.212187,99.062362
+2016,2016-03-03,Atule mate,Barred Yellowtail Scad,7.212187,99.062362
+2016,2016-03-03,Caesio varilineata,Variable-lined Fusilier,7.212187,99.062362
+2016,2016-03-03,Caesio xanthonota,Yellowback Fusilier,7.212187,99.062362
+2016,2016-03-03,Caesio cuning,Yellowtail Fusilier,7.212187,99.062362
+2016,2016-03-03,Caesio caerulaurea,Scissor-tailed Fusilier,7.212187,99.062362
+2016,2016-03-03,Tylosurus crocodilus,Houndfish,7.212187,99.062362
+2016,2016-03-03,Balistapus undulatus,Orangestripe Triggerfish,7.212187,99.062362
+2016,2016-03-03,Atherinidae,Old World Silversides,7.212187,99.062362
+2016,2016-03-03,Cheilodipterus macrodon,Tiger Cardinalfish,7.212187,99.062362
+2016,2016-03-03,Apogonidae,Cardinalfishes,7.212187,99.062362
+2016,2016-03-03,Ostorhinchus properuptus,Coral Cardinalfish,7.212187,99.062362
+2016,2016-03-03,Apogonidae,Cardinalfishes,7.212187,99.062362
+2016,2016-03-03,Acanthurus triostegus,Convict Surgeonfish,7.212187,99.062362
+2016,2016-03-03,Acanthurus lineatus,Striped Surgeonfish,7.212187,99.062362
+2016,2016-03-03,Acanthurus leucosternon,Powder Blue Tang,7.212187,99.062362
+2016,2016-03-02,Periophthalmodon schlosseri,Giant Mudskipper,13.2640316667,99.9490633333
+2016,2016-03-02,Boleophthalmus boddarti,Boddart's Blue-spotted Mudskipper,13.26396,99.9493266667
+2016,2016-03-02,Boleophthalmus boddarti,Boddart's Blue-spotted Mudskipper,13.074861,100.070358
+2016,2016-03-01,Periophthalmodon schlosseri,Giant Mudskipper,13.075222,100.070167
+2016,2016-02-26,Boleophthalmus boddarti,Boddart's Blue-spotted Mudskipper,13.0403884,100.0751331
+2016,2016-02-26,Boleophthalmus boddarti,Boddart's Blue-spotted Mudskipper,13.0408671374,100.0882637433
+2016,2016-02-26,Boleophthalmus boddarti,Boddart's Blue-spotted Mudskipper,13.0467553764,100.1017686607
+2016,2016-02-26,Hippocampus kuda,Common Seahorse,10.9481816193,103.1845013376
+2016,2016-02-26,Hippocampus kuda,Common Seahorse,10.8912439035,103.1016864659
+2016,2016-02-24,Arothron nigropunctatus,Blackspotted Puffer,9.4344966667,97.8679283333
+2016,2016-02-24,Ecsenius bicolor,Bicolor Blenny,9.4344966667,97.8679283333
+2016,2016-02-24,Epinephelus fasciatus,Blacktip Grouper,9.4344966667,97.8679283333
+2016,2016-02-24,Pao cochinchinensis,Cochin Puffer,8.9125884257,98.5246623662
+2016,2016-02-24,Xenentodon canciloides,Indochinese Needlefish,8.9125140734,98.5247943693
+2016,2016-02-23,Arothron caeruleopunctatus,Bluespotted Puffer,9.0689866667,97.8118916667
+2016,2016-02-23,Hippocampus kuda,Common Seahorse,10.8943462311,103.1978158904
+2016,2016-02-21,Priacanthus hamrur,Crescent-tail Bigeye,8.6577366667,97.648545
+2016,2016-02-21,Mulloidichthys vanicolensis,Yellowfin Goatfish,8.6577366667,97.648545
+2016,2016-02-21,Scarus prasiognathos,Greencheek Parrotfish,8.6577366667,97.648545
+2016,2016-02-17,Hippocampus kuda,Common Seahorse,10.9584681107,103.1505343784
+2016,2016-02-13,Oreochromis niloticus,Nile Tilapia,14.4392,101.3721
+2016,2016-02-10,Hippocampus kuda,Common Seahorse,10.8785574932,103.1410383393
+2016,2016-02-09,Boleophthalmus boddarti,Boddart's Blue-spotted Mudskipper,13.0407,100.0889
+2016,2016-02-08,Hippocampus kuda,Common Seahorse,10.9279055347,103.1771560015
+2016,2016-02-07,Lepisosteus platyrhincus,Florida Gar,13.7109431316,100.4672925174
+2016,2016-02-04,Periophthalmus novemradiatus,Pearse's Mudskipper,8.1276,98.6232444444
+2016,2016-02-03,Synodontinae,,7.2159570445,99.0690576285
+2016,2016-02-03,Cephalopholis argus,Peacock Grouper,7.2139194057,99.0683646128
+2016,2016-02-03,Amphiprion clarkii,Clark's Anemonefish,7.2113645277,99.0671981871
+2016,2016-02-03,Balistoides viridescens,Titan Triggerfish,7.2168048937,99.0712302178
+2016,2016-02-03,Hippocampus histrix,Spiny Seahorse,7.3824120367,99.0651657026
+2016,2016-02-03,Pempheris schwenkii,Silver Bullseye,7.2118149004,99.0703846514
+2016,2016-02-03,Gymnothorax javanicus,Giant Moray,7.2148311221,99.0708808601
+2016,2016-02-03,Pteropterus antennatus,Spotfin Lionfish,7.2120913107,99.0698515624
+2016,2016-02-03,Diodon hystrix,Spotted Porcupinefish,7.2079098813,99.0732016414
+2016,2016-02-03,Scorpaenopsis,Scorpionfishes,7.2116622261,99.0670000389
+2016,2016-02-03,Heniochus acuminatus,Longfin Bannerfish,7.2103470297,99.073645547
+2016,2016-02-03,Halichoeres scapularis,Zigzag Wrasse,7.2154092179,99.0730544552
+2016,2016-02-03,Fistularia commersonii,Blue-spotted Cornetfish,7.2139975719,99.0674523264
+2016,2016-02-03,Trachyrhamphus bicoarctatus,Bentstick Pipefish,7.2038235455,99.0823053941
+2016,2016-02-03,Arothron nigropunctatus,Blackspotted Puffer,7.2131610266,99.0730688721
+2016,2016-02-03,Cephalopholis miniata,Coral Grouper,7.2096861037,99.0751264617
+2016,2016-02-03,Ostracion cubicum,Yellow Boxfish,7.2113931334,99.0722424164
+2016,2016-02-03,Gymnothorax thyrsoideus,White-eyed Moray,8.831291474,98.2038008049
+2016,2016-02-02,Diodontidae,Porcupinefishes,7.6243677,99.0792263
+2016,2016-02-02,Hippocampus kuda,Common Seahorse,10.9044936925,103.0183272827
+2016,2016-02-02,Hippocampus kuda,Common Seahorse,10.8876949858,103.016347116
+2016,2016-02-02,Hippocampus kuda,Common Seahorse,10.8403325441,103.0392267369
+2016,2016-02-01,Catlocarpio siamensis,Giant Barb,10.4102945952,99.1220419204
+2016,2016-01-31,Labeo rohita,Rohu,12.4742608553,99.9342554435
+2016,2016-01-31,Barbonymus gonionotus,Java Barb,12.4742608553,99.9342554435
+2016,2016-01-31,Arapaima gigas,Giant arapaima,12.4742608553,99.9342554435
+2016,2016-01-31,Arapaima gigas,Giant arapaima,12.4704706383,99.925272055
+2016,2016-01-29,Pangasius sanitwongsei,Giant Pangasius,12.743535898,99.8462793314
+2016,2016-01-29,Scorpaenopsis oxycephala,Smallscale Scorpionfish,7.9036027778,98.3117388889
+2016,2016-01-29,Pangasius sanitwongsei,Giant Pangasius,12.9491889698,99.911207988
+2016,2016-01-29,Arapaima gigas,Giant arapaima,12.7731350763,99.9614366144
+2016,2016-01-27,Phractocephalus hemioliopterus,Redtail Catfish,13.6623416814,100.5162126571
+2016,2016-01-27,Phractocephalus hemioliopterus,Redtail Catfish,13.8628815548,99.8351525143
+2016,2016-01-27,Phractocephalus hemioliopterus,Redtail Catfish,13.6622253746,100.5158643052
+2016,2016-01-27,Bagridae,Bagrid Catfishes,15.0224275022,98.6357755959
+2016,2016-01-27,Hippocampus kuda,Common Seahorse,10.8758573596,103.0817550794
+2016,2016-01-26,Hippocampus kuda,Common Seahorse,10.8741246787,103.0452421997
+2016,2016-01-26,Hippocampus kuda,Common Seahorse,10.8878184862,103.0486631988
+2016,2016-01-25,Eviota sebreei,Striped Eviota,7.886725,98.2836333333
+2016,2016-01-25,Pleuronectoidei,Flatfishes,8.100018742,98.2969277725
+2016,2016-01-24,Katsuwonus pelamis,Skipjack Tuna,9.6911637421,98.344543688
+2016,2016-01-23,Labeo rohita,Rohu,19.0335144086,100.6659566761
+2016,2016-01-23,Colossomatinae,,13.7352290143,100.5499662459
+2016,2016-01-21,Epinephelus malabaricus,Malabar Grouper,6.378194,99.7901781
+2016,2016-01-21,Oxudercinae,Mudskippers,6.378194,99.7901781
+2016,2016-01-20,Pimelodidae,Long-whiskered Catfishes,10.4867496677,99.1735699028
+2016,2016-01-20,Arapaima gigas,Giant arapaima,13.7238511417,100.491752252
+2016,2016-01-20,Hippocampus kuda,Common Seahorse,10.8837094359,103.049979662
+2016,2016-01-20,Hippocampus kuda,Common Seahorse,10.8059433348,103.0577772886
+2016,2016-01-20,Hippocampus kuda,Common Seahorse,10.8949877915,103.023960039
+2016,2016-01-18,Boleophthalmus boddarti,Boddart's Blue-spotted Mudskipper,6.405625,99.8562533333
+2016,2016-01-18,Periophthalmus modestus,Shuttles Hoppfish,8.1868754223,98.4089958295
+2016,2016-01-16,Diodon liturosus,Blackblotched Porcupinefish,8.1011841511,98.2962143049
+2016,2016-01-16,Diodon liturosus,Blackblotched Porcupinefish,8.1030094318,98.2974565029
+2016,2016-01-15,Pterois miles,Indian Lionfish,8.100018742,98.2969277725
+2016,2016-01-15,Saurida,,9.3446007734,98.3222692832
+2016,2016-01-14,Scorpaenopsis,Scorpionfishes,11.962972596,102.3605391383
+2016,2016-01-12,Arapaima gigas,Giant arapaima,13.7503801974,100.5045641586
+2016,2016-01-11,Siganus javus,Java Rabbitfish,11.7049002237,100.0564817056
+2016,2016-01-11,Pomacentrus vaiuli,Princess Damsel,7.7033894585,98.7774917788
+2016,2016-01-11,Epinephelus coioides,Goldspotted Rockcod,7.6677923274,98.7853762477
+2016,2016-01-11,Amblyeleotris periophthalmus,Broad-banded Shrimpgoby,7.671939397,98.7879701519
+2016,2016-01-11,Ostorhinchus properuptus,Coral Cardinalfish,7.6898694539,98.7770189594
+2016,2016-01-10,Amphiprion perideraion,Pink Skunk Anemonefish,10.1089031308,99.8148513484
+2016,2016-01-10,Gnathanodon speciosus,Golden Trevally,10.1089031308,99.8148513484
+2016,2016-01-10,Chaetodon wiebeli,Hong Kong Butterflyfish,10.1089031308,99.8148513484
+2016,2016-01-10,Gymnothorax thyrsoideus,White-eyed Moray,10.1089031308,99.8148513484
+2016,2016-01-10,Siganus punctatus,Spotted Rabbitfish,10.0646481152,99.8313478008
+2016,2016-01-10,Scarus ghobban,Blue-barred Parrotfish,10.0644576378,99.8314218968
+2016,2016-01-10,Epinephelus quoyanus,Longfin Rockcod,10.0646738643,99.831440337
+2016,2016-01-10,Ostracion cubicum,Yellow Boxfish,10.0640298062,99.8313793167
+2016,2016-01-10,Balistoides viridescens,Titan Triggerfish,10.1292157512,99.8120581029
+2016,2016-01-10,Neopomacentrus cyanomos,Regal Demoiselle,10.1292157512,99.8120581029
+2016,2016-01-10,Amphiprion perideraion,Pink Skunk Anemonefish,10.1292157512,99.8120581029
+2016,2016-01-10,Chaetodon wiebeli,Hong Kong Butterflyfish,10.1292157512,99.8120581029
+2016,2016-01-10,Epinephelus fasciatus,Blacktip Grouper,10.1292157512,99.8120581029
+2016,2016-01-10,Ecsenius bicolor,Bicolor Blenny,7.7338974047,98.6298307852
+2016,2016-01-10,Taeniamia fucata,Orangelined Cardinalfish,7.7332388699,98.6236750372
+2016,2016-01-10,Neopomacentrus cyanomos,Regal Demoiselle,7.7536359849,98.4948871594
+2016,2016-01-10,Amphiprion perideraion,Pink Skunk Anemonefish,10.0845938055,99.8479590565
+2016,2016-01-09,Cephalopholis formosa,Bluelined Rockcod,8.7433313121,98.0858591932
+2016,2016-01-09,Gymnothorax thyrsoideus,White-eyed Moray,8.7442361175,98.0545660471
+2016,2016-01-09,Ostorhinchus fleurieu,Bullseye Cardinalfish,8.7447184122,98.0659577077
+2016,2016-01-09,Amblyeleotris latifasciata,Wide-barred Shrimpgoby,8.7326713816,98.0157429016
+2016,2016-01-09,Cryptocentrus fasciatus,Barred Shrimpgoby,8.7310433041,98.0588585013
+2016,2016-01-09,Gymnothorax favagineus,Laced Moray,8.7657354998,98.0701600018
+2016,2016-01-09,Amblyeleotris diagonalis,Diagonal Shrimpgoby,8.7627508174,98.0584179632
+2016,2016-01-09,Periophthalmodon schlosseri,Giant Mudskipper,6.366302855,99.6669836661
+2016,2016-01-09,Clarias gariepinus,Sharptooth Catfish,6.3469489415,99.6650524984
+2016,2016-01-09,Hampala macrolepidota,Hampala Barb,15.0483750701,98.4453514963
+2016,2016-01-08,Gymnomuraena zebra,Zebra Moray,9.0585801673,97.8192948767
+2016,2016-01-08,Lutjanus biguttatus,Twospot Snapper,9.3630303203,98.021736145
+2016,2016-01-08,Heniochus singularius,Singular Bannerfish,9.3630303203,98.021736145
+2016,2016-01-08,Amblyglyphidodon aureus,Golden Damselfish,9.3630303203,98.021736145
+2016,2016-01-08,Canthigaster petersii,Peter's Toby,9.3636418087,98.0195001507
+2016,2016-01-08,Amphiprion ephippium,Red Saddleback Anemonefish,9.3626114955,98.0222040925
+2016,2016-01-08,Abantennarius coccineus,Freckled Anglerfish,9.3654417643,98.0244866123
+2016,2016-01-08,Lutjanus indicus,Indian Snapper,9.3651490351,98.0248101268
+2016,2016-01-08,Sargocentron rubrum,Red Squirrelfish,9.3622215006,98.0206693641
+2016,2016-01-08,Cantherhines pardalis,Wirenet Filefish,9.3642122869,98.0053720919
+2016,2016-01-07,Gymnothorax javanicus,Giant Moray,8.8242254224,97.7976738363
+2016,2016-01-07,Lethrinus microdon,Smalltooth Emperor,8.8307385728,97.7948637754
+2016,2016-01-07,Aethaloperca rogaa,Redmouth Grouper,8.8297296166,97.7949634969
+2016,2016-01-07,Sufflamen bursa,Lei Triggerfish,8.8302776608,97.7946219097
+2016,2016-01-07,Priacanthus hamrur,Crescent-tail Bigeye,8.8260101584,97.7940560996
+2016,2016-01-07,Plectorhinchus vittatus,Oriental Sweetlips,8.825821059,97.793655197
+2016,2016-01-07,Siganus corallinus,Coral Rabbitfish,8.8263909888,97.7927910514
+2016,2016-01-07,Siganus javus,Java Rabbitfish,8.8267299752,97.7941512879
+2016,2016-01-07,Balistoides viridescens,Titan Triggerfish,8.8247594479,97.7956610725
+2016,2016-01-07,Chaetodon capistratus,Four-eyed Butterflyfish,9.6781936466,99.9494680263
+2016,2016-01-07,Aulostomus maculatus,Western Atlantic Trumpetfish,9.5867428485,99.7444189271
+2016,2016-01-07,Epinephelus coeruleopunctatus,Whitespotted Grouper,8.6859636506,97.6504515848
+2016,2016-01-07,Plectorhinchus gibbosus,Blubberlip,8.8385026923,97.7973930265
+2016,2016-01-06,Caesio xanthonota,Yellowback Fusilier,8.6619954114,97.6264032389
+2016,2016-01-06,Cirrhitichthys oxycephalus,Pixy Hawkfish,8.6588247626,97.6286119533
+2016,2016-01-06,Amphiprion akallopisos,Skunk Anemonefish,8.6751012581,97.6351227239
+2016,2016-01-06,Heniochus pleurotaenia,Phantom Bannerfish,8.6655281099,97.628812994
+2016,2016-01-06,Naso elegans,Elegant Unicornfish,8.6828747482,97.6566084094
+2016,2016-01-06,Mulloidichthys vanicolensis,Yellowfin Goatfish,8.6850488998,97.6518562121
+2016,2016-01-06,Scomberoides lysan,Lesser Queenfish,8.6903078913,97.655895216
+2016,2016-01-06,Amblyeleotris aurora,Pinkbar Goby,8.6858110927,97.654080968
+2016,2016-01-06,Heteroconger hassi,Spotted Garden Eel,8.6832317863,97.6604244189
+2016,2016-01-06,Chaetodon collare,Red-tailed Butterflyfish,8.6812667237,97.6619235786
+2016,2016-01-06,Cephalopholis argus,Peacock Grouper,8.6837856069,97.6585101833
+2016,2016-01-06,Cephalopholis miniata,Coral Grouper,8.6223121156,97.6409140866
+2016,2016-01-05,Nemanthias ignitus,Flame Basslet,8.5743882553,97.6369707451
+2016,2016-01-05,Lutjanus quinquelineatus,Fiveline Snapper,8.5928664638,97.6332182326
+2016,2016-01-05,Lutjanus rivulatus,Speckled Snapper,8.5936684571,97.6324482548
+2016,2016-01-05,Chaetodon decussatus,Indian Vagabond Butterflyfish,8.592240852,97.6325511124
+2016,2016-01-05,Parapercis millepunctata,Thousand-spot Grubfish,8.5912841209,97.6325571601
+2016,2016-01-05,Pomacanthus annularis,Bluering Angelfish,8.5984812702,97.6348103165
+2016,2016-01-05,Acanthurus lineatus,Striped Surgeonfish,8.5987314626,97.6357977353
+2016,2016-01-05,Gnathodentex aureolineatus,Striped Large-eye Bream,8.5993733415,97.635827324
+2016,2016-01-05,Rhinomuraena quaesita,Ribbon Eel,8.5744371255,97.6468929564
+2016,2016-01-05,Scarus rubroviolaceus,Redlip Parrotfish,8.6021797265,97.6329863246
+2016,2016-01-05,Arothron caeruleopunctatus,Bluespotted Puffer,8.576115593,97.6452209926
+2016,2016-01-05,Balistapus undulatus,Orangestripe Triggerfish,8.5736844388,97.6467398303
+2016,2016-01-05,Scarus prasiognathos,Greencheek Parrotfish,8.6014625128,97.636042555
+2016,2016-01-05,Chlorurus strongylocephalus,Roundhead Parrotfish,8.6025066299,97.6350158831
+2016,2016-01-05,Plectropomus leopardus,Leopard Coralgrouper,8.5465882847,97.6101419477
+2016,2016-01-05,Chaetodon meyeri,Meyer's Butterflyfish,8.5774873166,97.6372426165
+2016,2016-01-04,Hippocampus comes,Tiger Tail Seahorse,6.2643979438,99.746659362
+2016,2016-01-03,Sphyraena barracuda,Great Barracuda,11.9573510395,102.4232414737
+2016,2016-01-03,Siganus guttatus,Golden Rabbitfish,7.7692771469,98.747698495
+2016,2016-01-03,Abudefduf vaigiensis,Indo-Pacific Sergeant Major,7.4170619783,99.2239655146
+2016,2016-01-02,Synanceiidae,Stonefishes,11.9759864493,102.4044489115
+2016,2016-01-02,Monacanthus chinensis,Fanbelly Leatherjacket,11.9770877996,102.4039547145
+2016,2016-01-02,Monacanthus,,11.9757220983,102.4043510109
+2016,2016-01-02,Cephalopholis formosa,Bluelined Rockcod,7.8221422564,98.760114199
+2016,2016-01-02,Sargocentron cornutum,Threespot Squirrelfish,7.8284507495,98.7651039455
+2016,2016-01-01,Cephalopholis formosa,Bluelined Rockcod,10.0956102,99.8403959
+2016,2016-01-01,Flavocaranx bajad,Orange-spotted Trevally,10.0956102,99.8403959
+2016,2016-01-01,Pomacanthus annularis,Bluering Angelfish,10.171483,99.77835
+2016,2016-01-01,Epinephelus fuscoguttatus,Flowery Rockcod,10.1633845129,99.9468312438
+2016,2016-01-01,Siganus javus,Java Rabbitfish,10.0956102,99.8403959
+2016,2016-01-01,Scarus niger,Swarthy Parrotfish,7.740738,98.77841
+2016,2016-01-01,Zanclus cornutus,Moorish Idol,7.740738,98.77841
+2016,2016-01-01,Hemigymnus melapterus,Blackeye Thicklip,10.0822296119,99.8216548841
+2016,2016-01-01,Amphiprion ocellaris,Ocellaris Anemonefish,5.7870050951,103.0204470456
+2016,2016-01-01,Istiblennius dussumieri,Dussumier's Rockskipper,7.4826970105,99.0865634169
+2016,2016-01-01,Chaetodon octofasciatus,Eightband Butterflyfish,7.740738,98.77841
+2016,2016-01-01,Lutjanus carponotatus,Spanish Flag Snapper,7.740738,98.77841
+2016,2016-01-01,Siganus corallinus,Coral Rabbitfish,7.740738,98.77841
+2016,2016-01-01,Dascyllus trimaculatus,Three-spot Dascyllus,7.740738,98.77841
+2016,2016-01-01,Chelmon rostratus,Copperband Butterflyfish,7.740738,98.77841
+2016,2016-01-01,Abudefduf sexfasciatus,Scissortail Sergeant,7.740738,98.77841
+2016,2016-01-01,Halichoeres chloropterus,Pastel-green Wrasse,7.740738,98.77841

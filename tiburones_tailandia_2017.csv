@@ -1,0 +1,63 @@
+date,scientific_name,common_name,latitude,longitude
+2017-12-15,Dasyatidae,Whiptail Stingrays,12.89678333,100.896125
+2017-12-10,Stegostoma tigrinum,Zebra Shark,7.5921142956,98.3865212562
+2017-12-04,Carcharhinus melanopterus,Blacktip Reef Shark,7.657816728,98.7903300474
+2017-12-01,Taeniura lymma,Bluespotted Fantail Ray,12.9411189957,100.8878922277
+2017-11-17,Rhincodon typus,Whale Shark,9.2879313478,97.8759871971
+2017-10-09,Stegostoma tigrinum,Zebra Shark,7.6343499132,98.7795647979
+2017-10-09,Stegostoma tigrinum,Zebra Shark,7.6581635018,98.78421776
+2017-10-06,Brevitrygon,Dwarf Whiprays,8.0585971014,98.944554538
+2017-09-09,Potamotrygon motoro,Peacock River Stingray,13.497871,100.309961
+2017-09-09,Myliobatiformes,Stingrays,13.497871,100.309961
+2017-09-09,Dasyatidae,Whiptail Stingrays,13.497871,100.309961
+2017-09-09,Chiloscyllium punctatum,Brown-banded Bamboo Shark,13.5392113284,100.3347847473
+2017-09-03,Rhincodon typus,Whale Shark,7.3789390249,101.8105326003
+2017-08-31,Neotrygon,Maskrays,7.6537765549,98.7662315369
+2017-08-22,Pateobatis jenkinsii,Jenkins' Whipray,5.9039083333,102.7348416667
+2017-08-22,Taeniura lymma,Bluespotted Fantail Ray,5.9039083333,102.7348416667
+2017-08-11,Taeniura lymma,Bluespotted Fantail Ray,9.4480588853,99.9775599989
+2017-08-01,Taeniura lymma,Bluespotted Fantail Ray,5.796016,102.8960712
+2017-07-28,Taeniura lymma,Bluespotted Fantail Ray,5.9342442771,102.7258617599
+2017-07-28,Atelomycterus,,5.9473585017,102.6636510746
+2017-07-28,Taeniura lymma,Bluespotted Fantail Ray,5.9466102386,102.6631692121
+2017-07-28,Chiloscyllium griseum,Grey Bamboo Shark,5.9686440343,102.603641413
+2017-07-27,Taeniura lymma,Bluespotted Fantail Ray,5.8806942161,102.7455322415
+2017-07-20,Taeniura lymma,Bluespotted Fantail Ray,9.6567133333,99.6661533333
+2017-07-19,Taeniura lymma,Bluespotted Fantail Ray,9.7200263899,100.0041460462
+2017-07-13,Neotrygon varidens,Mahogany Maskray,10.0956092577,99.8403958976
+2017-07-09,Carcharhinus melanopterus,Blacktip Reef Shark,10.1053783782,99.9597506354
+2017-07-05,Carcharhinus melanopterus,Blacktip Reef Shark,5.969055688,102.7931508208
+2017-07-03,Potamotrygon,river rays,13.9891766102,100.6180715561
+2017-07-03,Potamotrygon leopoldi,Xingu River Ray,13.9891766102,100.6180715561
+2017-07-03,Potamotrygon motoro,Peacock River Stingray,13.9891766102,100.6180715561
+2017-07-03,Potamotrygon,river rays,13.9891766102,100.6180715561
+2017-07-03,Urogymnus polylepis,Giant Freshwater Stingray,13.9971737231,100.7676456088
+2017-07-03,Carcharhinus melanopterus,Blacktip Reef Shark,13.9954807654,100.621316181
+2017-07-02,Rhincodon typus,Whale Shark,10.4654816338,99.5127168841
+2017-07-01,Taeniura lymma,Bluespotted Fantail Ray,10.0889028333,99.8543533333
+2017-06-30,Taeniura lymma,Bluespotted Fantail Ray,10.485051474,99.4178493591
+2017-06-18,Taeniura lymma,Bluespotted Fantail Ray,10.0830914388,99.8501462045
+2017-06-17,Carcharhinus melanopterus,Blacktip Reef Shark,10.1210904942,99.9478045927
+2017-06-04,Chiloscyllium punctatum,Brown-banded Bamboo Shark,7.6240395021,98.7885845347
+2017-05-28,Rhincodon typus,Whale Shark,10.4043411398,99.4191037389
+2017-05-28,Rhincodon typus,Whale Shark,10.4088390123,99.4167041592
+2017-05-27,Rhincodon typus,Whale Shark,10.5211311603,99.4772502385
+2017-05-26,Carcharhinus melanopterus,Blacktip Reef Shark,5.8744887125,102.7419780153
+2017-05-26,Taeniura lymma,Bluespotted Fantail Ray,5.9093130312,102.7425017742
+2017-05-19,Chiloscyllium punctatum,Brown-banded Bamboo Shark,15.9998575959,100.8558965276
+2017-05-18,Carcharhinus melanopterus,Blacktip Reef Shark,6.2570679551,99.8851108117
+2017-05-01,Urogymnus polylepis,Giant Freshwater Stingray,13.8749519949,100.6989599902
+2017-04-29,Carcharhinus melanopterus,Blacktip Reef Shark,5.7221926269,102.9564564961
+2017-04-18,Taeniura lymma,Bluespotted Fantail Ray,5.9807158159,102.7440750043
+2017-04-16,Carcharhinus melanopterus,Blacktip Reef Shark,5.9133281387,102.6667145725
+2017-03-29,Neotrygon malaccensis,Malacca Bluespotted Maskray,11.38961244,97.6661799899
+2017-03-17,Mobula mobular,Spinetail Devil Ray,12.4238678718,97.9864091641
+2017-03-02,Carcharhinus melanopterus,Blacktip Reef Shark,10.0080047101,99.9413955654
+2017-02-25,Neotrygon malaccensis,Malacca Bluespotted Maskray,7.6358874822,98.7768550962
+2017-02-25,Neotrygon malaccensis,Malacca Bluespotted Maskray,7.6562438829,98.7830560282
+2017-02-16,Taeniura lymma,Bluespotted Fantail Ray,10.0623901096,99.8271306977
+2017-01-29,Carcharhinus macloti,Hardnose Shark,9.7821635155,100.1849267427
+2017-01-22,Neotrygon malaccensis,Malacca Bluespotted Maskray,8.5338616667,97.6589566667
+2017-01-22,Neotrygon malaccensis,Malacca Bluespotted Maskray,8.55588083,97.6539968344
+2017-01-19,Carcharhinus melanopterus,Blacktip Reef Shark,7.6660458598,98.6248152643
+2017-01-04,Rhinoptera jayakari,shorttail cownose ray,14.0693001188,98.1237394995
