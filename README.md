@@ -10,9 +10,9 @@ Pol Urbano Kinsel
 This project analyzes the spatial and temporal distribution of marine species sightings in Thailand, Indonesia, and the Philippines between 2015 and 2025.  
 A unified, geolocated database—built from the public iNaturalist API—supports interactive visualizations that:
 
-* profile biodiversity hotspots  
-* reveal seasonal and long-term trends  
-* inform conservation, responsible dive tourism, and monitoring of vulnerable species
+* Profile biodiversity hotspots  
+* Reveal seasonal and long-term trends  
+* Inform conservation, responsible dive tourism, and monitoring of vulnerable species
 
 
 ## 2. Project Plan
@@ -28,11 +28,11 @@ A unified, geolocated database—built from the public iNaturalist API—support
 
 ## 3. Data Sources
 
- **API**  <https://api.inaturalist.org/v1/observations> 
- **Taxa**  Bony fish (47178) • Sharks & Rays (505362) • Cetaceans (152871) • Sea turtles (query)
- **Geography**  Bounding boxes for Thailand, Indonesia, Philippines 
- **Period**  Jan 2015 – Jun 2025 
- **Fields Collected**  Latitude, Longitude, Date, Scientific & Common names, Photo URL 
+* **API**  <https://api.inaturalist.org/v1/observations> 
+* **Taxa**  Bony fish (47178) • Sharks & Rays (505362) • Cetaceans (152871) • Sea turtles (query)
+* **Geography**  Bounding boxes for Thailand, Indonesia, Philippines 
+* **Period**  Jan 2015 – Jun 2025 
+* **Fields Collected**  Latitude, Longitude, Date, Scientific & Common names, Photo URL 
 
 
 ## 4. Data Processing Highlights
@@ -56,31 +56,30 @@ Analytical views are exported directly into Power BI.
 
 ## 6. Exploratory Data Analysis
 
-6.1 Country Overview  
+* 6.1 Country Overview  
 Bar and pie charts compare total sightings and unique species by country.
 
-6.2 Temporal Trends  
+* 6.2 Temporal Trends  
 Monthly and yearly plots showing number of observations per country.
 
-6.3 Species Focus  
+* 6.3 Species Focus  
 Filtered dashboards top 10 sharks, rays, dolphins, and whales showing where each group dominates.
 
-*(See the Power BI report for interactive versions.)*
+(See the Power BI report for interactive versions.)
 
----
 
 ## 7. Streamlit Map
 
 A lightweight web app lets users filter by:
 
-* year or range of years  
-* month or range of months  
-* country (one, two, or all three)  
-* free-text species search  
+* Year or range of years  
+* Month or range of months  
+* Country (one, two, or all three)  
+* Free-text species search  
 
 Each marker opens a popup with the species name, date, and the original iNaturalist photo.
 
----
+
 
 ## 8. Conclusions
 
